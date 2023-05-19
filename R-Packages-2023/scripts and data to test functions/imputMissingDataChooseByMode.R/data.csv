@@ -1,0 +1,2000 @@
+IDA,RAC,ECV,OCP,FUM,ETL,DCF,LDL,HDL,TGL,CLT,GLC,PNT,IMC,CC,ERG
+21,branca,casada,REMUNERADA,não,não,não,,,,,,100,,,BAIXO RISCO
+23,branca,casada,REMUNERADA,não,não,não,100,58,,,,100,,,BAIXO RISCO
+30,branca,casada,NÃO REMUNERADA,não,não,não,,,,,,110,Baixo peso,63,BAIXO RISCO
+31,branca,casada,REMUNERADA,não,não,não,,,,,,110,,,BAIXO RISCO
+31,branca,casada,REMUNERADA,não,não,não,,,,,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,,não,,,,,,110,,,BAIXO RISCO
+36,branca,casada,REMUNERADA,não,não,não,"109,6",76,50m*,"195,6",81,120,Pré-obesidade,94,BAIXO RISCO
+37,branca,casada,NÃO REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+40,branca,casada,REMUNERADA,não,não,não,"241,2",60,369,373,85,120,,,RISCO INTERMEDIARIO
+44,branca,casada,REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,não,não,,"46,8",107,150,89,120,,,BAIXO RISCO
+45,branca,casada,NÃO REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,,não,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+48,branca,casada,REMUNERADA,não,não,não,,,,,,120,,71,BAIXO RISCO
+48,branca,casada,REMUNERADA,não,não,não,,,,,,120,,,RISCO INTERMEDIARIO
+49,branca,casada,NÃO REMUNERADA,não,não,não,"81,8",62,66,157,84,120,,,RISCO INTERMEDIARIO
+50,branca,casada,REMUNERADA,não,,não,,,,,,130,,,BAIXO RISCO
+52,branca,casada,NÃO REMUNERADA,não,não,não,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,,não,,"49,66",93,199,83,130,,,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,não,sim,não,"144,4",46,128,216,107,130,,,RISCO INTERMEDIARIO
+54,branca,casada,REMUNERADA,não,não,não,"132,4",37,178,205,,130,,,ALTO RISCO
+55,branca,casada,NÃO REMUNERADA,não,não,não,"90,2",33,84,140,,130,,,RISCO INTERMEDIARIO
+60,branca,casada,NÃO REMUNERADA,não,não,não,"94,5","70,9",148,195,73,140,,,ALTO RISCO
+62,branca,casada,NÃO REMUNERADA,não,não,não,,,,,,140,,,RISCO INTERMEDIARIO
+65,branca,casada,NÃO REMUNERADA,não,não,não,122,47,110,191,71,144,,,ALTO RISCO
+66,branca,casada,REMUNERADA,não,não,não,97,52,90,167,98,150,,,RISCO INTERMEDIARIO
+69,branca,casada,NÃO REMUNERADA,não,,não,157,51,93,227,90,150,,,ALTO RISCO
+75,branca,casada,REMUNERADA,não,não,não,"76,4",41,78,133,92,160,,90,ALTO RISCO
+30,branca ,casada,REMUNERADA,não,não,não,,,,,,110,,,BAIXO RISCO
+85,branca ,casada,REMUNERADA,não,não,não,144,55,140,227,107,190,,,ALTO RISCO
+47,parda,casada,NÃO REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+64,parda,casada,NÃO REMUNERADA,não,,não,"126,2",53,54,190,,140,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,sim,não,não,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,sim,não,não,98,54,64,165,96,120,,,BAIXO RISCO
+31,amarela,casada,REMUNERADA,,não,não,,,,,,110,,,BAIXO RISCO
+23,branca,casada,NÃO REMUNERADA,,não,não,,,,,,100,,,BAIXO RISCO
+30,branca,casada,REMUNERADA,,não,não,,,,,,110,,,BAIXO RISCO
+31,branca,casada,REMUNERADA,,não,não,,,,,,110,,,BAIXO RISCO
+32,branca,casada,REMUNERADA,,não,não,,,,,,110,,,BAIXO RISCO
+43,branca,casada,NÃO REMUNERADA,,,não,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,,não,não,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,,não,não,,,,,,120,Pré-obesidade,80,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,não,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,,não,não,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,,não,não,,,,,,120,,,BAIXO RISCO
+52,branca,casada,NÃO REMUNERADA,,não,não,,,,,,130,,,RISCO INTERMEDIARIO
+59,branca,casada,REMUNERADA,,,não,"72,4",53,98,106,106,140,Obesidade,117,RISCO INTERMEDIARIO
+64,branca,casada,NÃO REMUNERADA,,,não,158,"54,8",166,246,,140,,,ALTO RISCO
+64,branca,casada,REMUNERADA,,,não,"142,4",58,308,262,94,140,,,BAIXO RISCO
+66,branca,casada,REMUNERADA,,não,não,,,,,,150,,,ALTO RISCO
+53,branca,divorciada,REMUNERADA,não,não,não,"169,8",56,166,259,90,130,Pré-obesidade,87,ALTO RISCO
+58,branca,divorciada,REMUNERADA,não,,não,,,,,,140,,,BAIXO RISCO
+56,branca,sem dado,NÃO REMUNERADA,não,,não,"200,4",34,,265,113,130,,,ALTO RISCO
+55,branca,sem dado,REMUNERADA,,não,não,"83,2",57,84,157,97,130,,,RISCO INTERMEDIARIO
+44,branca,separada,REMUNERADA,não,sim,não,,,,,,120,,,BAIXO RISCO
+75,branca,separada,REMUNERADA,não,não,não,,,,,,160,,,RISCO INTERMEDIARIO
+33,branca,separada,REMUNERADA,,não,não,137,47,90,202,92,110,,,BAIXO RISCO
+71,branca,separada,REMUNERADA,,,não,"109,2",43,,165,,160,,,ALTO RISCO
+21,branca,solteira,REMUNERADA,não,,não,,,,,,100,,,BAIXO RISCO
+32,branca,solteira,NÃO REMUNERADA,não,não,não,,,,,,110,,,BAIXO RISCO
+34,branca,solteira,REMUNERADA,não,não,não,,,,,,110,,,BAIXO RISCO
+55,branca,solteira,NÃO REMUNERADA,não,não,não,,,,,,130,,,BAIXO RISCO
+64,branca ,solteira,REMUNERADA,não,,não,"92,8",43,51,146,72,140,Normal,70,RISCO INTERMEDIARIO
+21,branca,solteira,REMUNERADA,sim,não,não,,,,,,100,,,BAIXO RISCO
+23,branca,solteira,REMUNERADA,sim,não,não,,,,,,100,,,BAIXO RISCO
+23,branca,solteira,NÃO REMUNERADA,,não,não,,,,,,100,,,BAIXO RISCO
+24,branca,solteira,NÃO REMUNERADA,,,não,,,,,,100,,,BAIXO RISCO
+45,branca,solteira,REMUNERADA,,não,não,"153,8",68,56,233,80,120,,,BAIXO RISCO
+47,negra,solteira,REMUNERADA,,não,não,,,,,,120,,,BAIXO RISCO
+69,branca,viúva,REMUNERADA,não,,não,,,,,90,150,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,,não,"136,8",41,151,208,92,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,não,não,120,44,111,187,100,160,,,ALTO RISCO
+60,branca,viúva,NÃO REMUNERADA,sim,,não,96,51,95,166,113,140,,,ALTO RISCO
+61,branca,viúva,NÃO REMUNERADA,,,não,190,47,205,278,128,140,,95,ALTO RISCO
+65,branca,viúva,REMUNERADA,,não,não,54,39,150,123,100,144,,93,ALTO RISCO
+65,branca,viúva,REMUNERADA,,não,não,196,51,155,278,,150,,,ALTO RISCO
+68,branca,viúva,NÃO REMUNERADA,,,não,85,55,98,160,91,150,,,ALTO RISCO
+88,branca,viúva,REMUNERADA,,não,não,69,49,50,128,84,90,,,BAIXO RISCO
+91,branca,viúva,REMUNERADA,,não,não,,,,,,,,,BAIXO RISCO
+67,branca,,NÃO REMUNERADA,,não,não,,,,,,150,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,não,não,,,,,,120,,,BAIXO RISCO
+26,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+26,branca,casada,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+27,branca,casada,NÃO REMUNERADA,não,não,sim,"76,6","70,6",79,163,78,110,Normal,80,BAIXO RISCO
+27,branca,casada,REMUNERADA,não,não,sim,"133,4",55,119,201,,110,,,BAIXO RISCO
+27,branca,casada,REMUNERADA,não,não,sim,100,36,140,164,81,110,,80,BAIXO RISCO
+28,branca,casada,REMUNERADA,não,,sim,144,73,135,243,90,110,,,RISCO INTERMEDIARIO
+29,branca,casada,REMUNERADA,não,não,sim,,59,44,,,110,,,BAIXO RISCO
+30,branca,casada,REMUNERADA,não,não,sim,,,,,78,110,,66,BAIXO RISCO
+30,branca,casada,REMUNERADA,não,não,sim,"55,6",38,62,106,,110,,,BAIXO RISCO
+31,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+31,branca,casada,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+32,branca,casada,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+32,branca,casada,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+32,branca,casada,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+32,branca,casada,NÃO REMUNERADA,não,,sim,"108,8",61,116,193,103,110,Pré-obesidade,87,BAIXO RISCO
+33,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,110,Obesidade,97,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,,sim,"116,8",54,91,189,,110,Normal,84,BAIXO RISCO
+33,branca,casada,NÃO REMUNERADA,não,,sim,"116,8",54,91,189,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+33,branca,casada,NÃO REMUNERADA,não,não,sim,,44,67,273,88,110,Pré-obesidade,85,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,,sim,"107,8",43,71,165,91,110,,,BAIXO RISCO
+34,branca,casada,REMUNERADA,não,não,sim,,,,,,110,Pré-obesidade,75,BAIXO RISCO
+34,branca,casada,REMUNERADA,não,não,sim,95,41,105,157,85,110,,,BAIXO RISCO
+34,branca,casada,REMUNERADA,não,,sim,,,,248,,110,Obesidade,,RISCO INTERMEDIARIO
+34,branca,casada,REMUNERADA,não,não,sim,,,,,,110,Normal,,BAIXO RISCO
+34,branca,casada,NÃO REMUNERADA,não,não,sim,"112,6",53,117,193,81,110,,,BAIXO RISCO
+35,branca,casada,REMUNERADA,não,não,sim,"110,8",55,116,189,,110,,,BAIXO RISCO
+35,branca,casada,REMUNERADA,não,não,sim,"190,2",31,110,244,180,110,,,RISCO INTERMEDIARIO
+35,branca,casada,REMUNERADA,não,não,sim,"94,2",55,109,171,93,120,Obesidade,,BAIXO RISCO
+35,branca,casada,NÃO REMUNERADA,não,não,sim,"115,4",67,38,190,91,120,,,BAIXO RISCO
+36,branca,casada,REMUNERADA,não,não,sim,64,56,139,148,138,120,,,RISCO INTERMEDIARIO
+36,branca,casada,REMUNERADA,não,,sim,73,70,205,184,96,120,,,RISCO INTERMEDIARIO
+36,branca,casada,REMUNERADA,não,,sim,111,39,870,166,85,120,,,ALTO RISCO
+36,branca,casada,REMUNERADA,não,não,sim,"86,4",63,118,175,,120,,,BAIXO RISCO
+36,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+36,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+36,branca,casada,REMUNERADA,não,não,sim,112,53,185,202,,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,não,não,sim,"106,2",51,74,172,,120,,,BAIXO RISCO
+37,branca,casada,NÃO REMUNERADA,não,,sim,79,53,84,149,86,120,,,RISCO INTERMEDIARIO
+37,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,RISCO INTERMEDIARIO
+37,branca,casada,REMUNERADA,não,não,sim,111,33,96,163,78,120,,,RISCO INTERMEDIARIO
+38,branca,casada,REMUNERADA,não,não,sim,88,65,45,162,79,120,Normal,79,BAIXO RISCO
+38,branca,casada,REMUNERADA,não,não,sim,103,46,50,159,,120,,,BAIXO RISCO
+38,branca,casada,NÃO REMUNERADA,não,não,sim,"71,8","66,9",93,157,77,120,,,BAIXO RISCO
+38,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+38,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+38,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+38,branca,casada,REMUNERADA,não,,sim,95,73,108,190,,120,,,BAIXO RISCO
+38,branca,casada,REMUNERADA,não,não,sim,"123,8",43,41,175,78,120,Obesidade,,BAIXO RISCO
+38,branca,casada,NÃO REMUNERADA,não,não,sim,,"49,9",125,147,,120,,,BAIXO RISCO
+38,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+38,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,,sim,"149,4",54,98,223,92,120,Obesidade,,BAIXO RISCO
+39,branca,casada,NÃO REMUNERADA,não,não,sim,,46,122,145,88,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,,sim,156,47,57,216,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,não,sim,102,51,130,179,124,120,,,BAIXO RISCO
+39,branca,casada,NÃO REMUNERADA,não,não,sim,68,55,75,138,,120,,,BAIXO RISCO
+40,branca,casada,REMUNERADA,não,,sim,"86,5","101,5",60,200,,120,Pré-obesidade,97,BAIXO RISCO
+40,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+40,branca,casada,REMUNERADA,não,não,sim,86,70,138,184,92,120,,,BAIXO RISCO
+40,branca,casada,NÃO REMUNERADA,não,não,sim,109,62,114,193,,120,,,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,não,,sim,,,,,,120,,,RISCO INTERMEDIARIO
+40,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,120,Obesidade,116,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,não,,sim,"98,2",54,229,198,87,120,,,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,não,,sim,125,72,88,215,70,120,Normal,80,RISCO INTERMEDIARIO
+40,branca,casada,NÃO REMUNERADA,não,não,sim,"44,8",83,31,134,,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,,sim,"95,2",49,124,169,,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,não,sim,"58,2",39,103,118,88,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,não,sim,44,39,131,109,75,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,não,sim,"103,4",50,73,168,97,120,,113,RISCO INTERMEDIARIO
+41,branca,casada,NÃO REMUNERADA,não,,sim,117,42,285,215,97,120,,,RISCO INTERMEDIARIO
+41,branca,casada,NÃO REMUNERADA,não,não,sim,102,75,89,195,99,120,,,RISCO INTERMEDIARIO
+42,branca,casada,REMUNERADA,não,,sim,"154,4",48,198,242,117,120,Obesidade,92,ALTO RISCO
+42,branca,casada,NÃO REMUNERADA,não,não,sim,89,50,138,167,99,120,Obesidade,,ALTO RISCO
+42,branca,casada,NÃO REMUNERADA,não,,sim,"205,8",55,171,295,,120,,,ALTO RISCO
+42,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,120,,,ALTO RISCO
+42,branca,casada,NÃO REMUNERADA,não,não,sim,"124,8",39,181,200,95,120,,,ALTO RISCO
+43,branca,casada,REMUNERADA,não,,sim,,46,95,150,147,120,,,RISCO INTERMEDIARIO
+43,branca,casada,REMUNERADA,não,não,sim,103,50,110,175,99,120,Obesidade,,ALTO RISCO
+43,branca,casada,NÃO REMUNERADA,não,,sim,"75,6",47,262,175,99,120,Pré-obesidade,88,ALTO RISCO
+43,branca,casada,REMUNERADA,não,não,sim,"113,4",64,68,191,81,120,,,BAIXO RISCO
+43,branca,casada,NÃO REMUNERADA,não,sim,sim,,,,,,120,,75,BAIXO RISCO
+43,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,120,,74,BAIXO RISCO
+44,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,não,não,sim,"126,3","65,1",93,210,95,120,Pré-obesidade,89,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,não,não,sim,"135,6",108,112,266,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,não,não,sim,,,,,103,120,Obesidade,,BAIXO RISCO
+44,branca,casada,REMUNERADA,não,não,sim,,,,,,120,Obesidade,,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,não,não,sim,"92,4",62,103,175,79,120,,,BAIXO RISCO
+45,branca,casada,NÃO REMUNERADA,não,,sim,73,66,50,148,78,120,,,BAIXO RISCO
+45,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,120,Obesidade,,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,77,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,,sim,153,41,125,219,99,120,Pré-obesidade,,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,,sim,56,73,294,188,87,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,não,sim,"107,4",66,78,189,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,não,sim,"77,8",41,41,127,,120,,,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,não,não,sim,"123,2",45,44,177,84,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,,sim,"83,2","47,6",71,145,107,120,,100,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,sim,sim,,,,,,120,,,BAIXO RISCO
+48,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,120,,85,BAIXO RISCO
+48,branca,casada,REMUNERADA,não,não,sim,110,52,100,182,88,120,,,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,não,,sim,"192,4","53,8",204,287,,120,,,RISCO INTERMEDIARIO
+48,branca,casada,REMUNERADA,não,não,sim,123,94,65,230,82,120,,90,RISCO INTERMEDIARIO
+49,branca,casada,REMUNERADA,não,,sim,133,27,64,173,,120,,,RISCO INTERMEDIARIO
+49,branca,casada,REMUNERADA,não,,sim,101,43,88,162,109,120,,,RISCO INTERMEDIARIO
+49,branca,casada,NÃO REMUNERADA,não,não,sim,84,35,144,148,95,120,,,ALTO RISCO
+49,branca,casada,REMUNERADA,não,não,sim,"129,6",58,97,207,,120,Obesidade,,ALTO RISCO
+50,branca,casada,NÃO REMUNERADA,não,não,sim,103,48,521,161,,120,,,BAIXO RISCO
+50,branca,casada,REMUNERADA,não,não,sim,,55,224,286,,130,,,ALTO RISCO
+50,branca,casada,REMUNERADA,não,não,sim,,,,,,130,,,BAIXO RISCO
+50,branca,casada,REMUNERADA,não,não,sim,93,49,130,168,,130,Pré-obesidade,,BAIXO RISCO
+51,branca,casada,REMUNERADA,não,,sim,72,39,90,129,82,130,,,BAIXO RISCO
+51,branca,casada,REMUNERADA,não,,sim,,,,,,130,,,BAIXO RISCO
+51,branca,casada,NÃO REMUNERADA,não,,sim,"150,6",29,162,212,91,130,,,BAIXO RISCO
+51,branca,casada,REMUNERADA,não,não,sim,,,,,,130,,,BAIXO RISCO
+51,branca,casada,REMUNERADA,não,não,sim,,,,,,130,Obesidade,105,RISCO INTERMEDIARIO
+51,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,130,,,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,não,,sim,,,,,,130,,,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,não,,sim,,,,,,130,Obesidade,105,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,não,não,sim,125,66,53,202,104,130,Obesidade,110,RISCO INTERMEDIARIO
+51,branca,casada,NÃO REMUNERADA,não,não,sim,"179,8","53,2",115,256,87,130,,,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,não,não,sim,"110,4",54,153,195,94,130,Pré-obesidade,96,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,não,,sim,"110,2",34,154,175,109,130,Obesidade,99,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,não,não,sim,,44,207,232,93,130,,93,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,não,não,sim,"122,4",50,148,202,103,130,Obesidade,93,ALTO RISCO
+53,branca,casada,REMUNERADA,não,não,sim,133,36,197,208,91,130,,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,não,,sim,98,51,125,174,81,130,,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,não,não,sim,"112,6",43,82,172,,130,Obesidade,,ALTO RISCO
+54,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,130,,,ALTO RISCO
+54,branca,casada,NÃO REMUNERADA,não,,sim,"157,2",62,104,240,80,130,,,ALTO RISCO
+54,branca,casada,REMUNERADA,não,não,sim,"135,8",36,116,195,79,130,,,ALTO RISCO
+55,branca,casada,REMUNERADA,não,,sim,58,44,80,118,,130,,,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,130,,,BAIXO RISCO
+55,branca,casada,REMUNERADA,não,não,sim,,,,,,130,,,RISCO INTERMEDIARIO
+55,branca,casada,REMUNERADA,não,não,sim,69,76,90,163,86,130,,,RISCO INTERMEDIARIO
+56,branca,casada,NÃO REMUNERADA,não,,sim,116,43,117,183,113,130,,,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,não,não,sim,"206,6",48,187,292,103,130,,,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,não,não,sim,,,130,202,,130,,,BAIXO RISCO
+57,branca,casada,REMUNERADA,não,não,sim,,72,140,173,,130,,,BAIXO RISCO
+57,branca,casada,NÃO REMUNERADA,não,não,sim,127,48,108,197,,130,,,RISCO INTERMEDIARIO
+57,branca,casada,REMUNERADA,não,não,sim,"122,2",76,54,209,77,130,Normal,73,RISCO INTERMEDIARIO
+57,branca,casada,NÃO REMUNERADA,não,não,sim,"85,1","51,1",139,164,,130,Obesidade,93,ALTO RISCO
+57,branca,casada,NÃO REMUNERADA,não,não,sim,"96,8",55,236,199,87,134,,99,RISCO INTERMEDIARIO
+57,branca,casada,REMUNERADA,não,,sim,,,,,,136,,89,BAIXO RISCO
+57,branca,casada,NÃO REMUNERADA,não,não,sim,70,40,80,126,84,140,Obesidade,,BAIXO RISCO
+58,branca,casada,REMUNERADA,não,sim,sim,"80,8",57,131,164,118,140,Obesidade,107,BAIXO RISCO
+58,branca,casada,REMUNERADA,não,não,sim,133,43,57,187,,140,,,RISCO INTERMEDIARIO
+58,branca,casada,REMUNERADA,não,não,sim,"104,4",73,58,189,88,140,Obesidade,93,RISCO INTERMEDIARIO
+58,branca,casada,NÃO REMUNERADA,não,não,sim,,47,213,189,,140,,,ALTO RISCO
+58,branca,casada,REMUNERADA,não,,sim,"106,2",43,99,169,96,140,,89,BAIXO RISCO
+59,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,140,,,RISCO INTERMEDIARIO
+59,branca,casada,NÃO REMUNERADA,não,não,sim,"120,6",52,67,186,80,140,,,BAIXO RISCO
+59,branca,casada,REMUNERADA,não,,sim,,,,,,140,,,RISCO INTERMEDIARIO
+59,branca,casada,REMUNERADA,não,não,sim,"106,6",61,77,183,112,140,,112,RISCO INTERMEDIARIO
+59,branca,casada,NÃO REMUNERADA,não,não,sim,"144,2",58,139,230,94,140,Obesidade,,RISCO INTERMEDIARIO
+60,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,98,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,,sim,"66,4",67,113,156,,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,,sim,"134,5","60,3",96,214,,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,não,sim,"191,4","52,2",257,295,,140,Obesidade,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,não,,sim,"130,2",48,199,218,109,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,não,não,sim,"63,4",58,63,134,,140,Obesidade,,ALTO RISCO
+61,branca,casada,REMUNERADA,não,não,sim,,31,476,173,158,140,Obesidade,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,não,não,sim,"79,6",69,87,166,101,140,,,RISCO INTERMEDIARIO
+61,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,140,,,RISCO INTERMEDIARIO
+62,branca,casada,NÃO REMUNERADA,não,não,sim,"136,6",43,57,191,,140,,,ALTO RISCO
+62,branca,casada,REMUNERADA,não,não,sim,175,35,204,251,99,140,,,ALTO RISCO
+62,branca,casada,REMUNERADA,não,não,sim,,,,,,140,,,BAIXO RISCO
+62,branca,casada,REMUNERADA,não,não,sim,"76,4",48,153,155,89,140,Obesidade,,RISCO INTERMEDIARIO
+63,branca,casada,REMUNERADA,não,não,sim,"112,4",45,2187*,201,80,140,,,RISCO INTERMEDIARIO
+63,branca,casada,REMUNERADA,não,não,sim,164,49,111,235,81,140,,,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,não,não,sim,79,32,335,178,,140,,92,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,não,não,sim,"139,8",33,121,197,106,140,,,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,não,,sim,"92,6",44,112,159,112,140,,,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,não,não,sim,"136,2",24,74,175,82,140,Normal,79,ALTO RISCO
+63,branca,casada,NÃO REMUNERADA,não,,sim,110,37,109,169,,140,,,ALTO RISCO
+63,branca,casada,NÃO REMUNERADA,não,,sim,152,50,152,233,,140,Obesidade,105,ALTO RISCO
+63,branca,casada,NÃO REMUNERADA,não,não,sim,"127,6",69,102,217,108,140,Obesidade,110,ALTO RISCO
+63,branca,casada,REMUNERADA,não,não,sim,82,28,195,149,114,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,sim,"164,4",53,118,241,84,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,sim,"58,8",71,121,154,133,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,140,,,BAIXO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,sim,,,241,216,,140,Pré-obesidade,,BAIXO RISCO
+64,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,140,,,RISCO INTERMEDIARIO
+64,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,140,,,RISCO INTERMEDIARIO
+64,branca,casada,NÃO REMUNERADA,não,sim,sim,133,37,118,194,93,140,Obesidade,94,ALTO RISCO
+65,branca,casada,REMUNERADA,não,não,sim,71,74,89,163,,150,,,RISCO INTERMEDIARIO
+65,branca,casada,NÃO REMUNERADA,não,não,sim,"110,8",41,186,189,,150,,,ALTO RISCO
+65,branca,casada,REMUNERADA,não,não,sim,"109,8",51,106,182,88,150,Obesidade,106,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,não,,sim,80,37,47,127,92,150,Pré-obesidade,76,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,não,,sim,14,96,70,167,92,150,,,ALTO RISCO
+67,branca,casada,REMUNERADA,não,não,sim,150,64,80,230,102,150,,,RISCO INTERMEDIARIO
+68,branca,casada,REMUNERADA,não,não,sim,,,,,,150,,,RISCO INTERMEDIARIO
+68,branca,casada,NÃO REMUNERADA,não,não,sim,112,70,75,197,,150,,,RISCO INTERMEDIARIO
+68,branca,casada,NÃO REMUNERADA,não,,sim,"91,6",42,87,151,,150,,,ALTO RISCO
+68,branca,casada,REMUNERADA,não,não,sim,159,63,68,236,92,150,,99,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,150,Pré-obesidade,90,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,não,não,sim,214,41,280,311,273,150,,,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,não,não,sim,"148,2",68,79,232,80,150,,,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,não,não,sim,"125,2",59,44,193,77,160,,,BAIXO RISCO
+70,branca,casada,NÃO REMUNERADA,não,,sim,,,,,,160,,,RISCO INTERMEDIARIO
+70,branca,casada,NÃO REMUNERADA,não,,sim,,,,,85,160,,,ALTO RISCO
+71,branca,casada,REMUNERADA,não,não,sim,,,,,114,160,Pré-obesidade,100,ALTO RISCO
+71,branca,casada,REMUNERADA,não,,sim,102,53,140,183,109,160,,,ALTO RISCO
+71,branca,casada,NÃO REMUNERADA,não,,sim,157,30,136,215,86,160,,,ALTO RISCO
+72,branca,casada,REMUNERADA,não,não,sim,"189,4",50,158,271,,160,,,ALTO RISCO
+72,branca,casada,REMUNERADA,não,não,sim,,,,,,160,,,RISCO INTERMEDIARIO
+72,branca,casada,NÃO REMUNERADA,não,não,sim,"71,6",57,152,159,,160,,,ALTO RISCO
+72,branca,casada,NÃO REMUNERADA,não,não,sim,,,,,,160,,,RISCO INTERMEDIARIO
+75,branca,casada,REMUNERADA,não,não,sim,"99,8",51,311,213,148,160,,108,ALTO RISCO
+77,branca,casada,REMUNERADA,não,não,sim,107,56,91,181,78,160,,,ALTO RISCO
+77,branca,casada,REMUNERADA,não,,sim,101,71,110,194,92,160,,,BAIXO RISCO
+78,branca,casada,REMUNERADA,não,,sim,"75,4",39,173,149,150,160,Obesidade,100,ALTO RISCO
+78,branca,casada,REMUNERADA,não,,sim,"118,4",58,143,205,128,160,Pré-obesidade,95,ALTO RISCO
+78,branca,casada,NÃO REMUNERADA,não,não,sim,"125,2",70,149,225,90,160,,89,ALTO RISCO
+79,branca,casada,REMUNERADA,não,não,sim,142,50,105,213,89,170,,80,ALTO RISCO
+79,branca,casada,NÃO REMUNERADA,não,não,sim,"40,6",71,97,131,121,170,Pré-obesidade,95,ALTO RISCO
+79,branca,casada,NÃO REMUNERADA,não,não,sim,75,53,95,147,98,170,,,ALTO RISCO
+79,branca,casada,REMUNERADA,não,,sim,"132,6",49,102,202,,180,,,ALTO RISCO
+80,branca,casada,NÃO REMUNERADA,não,,sim,"97,2",81,104,199,85,180,Pré-obesidade,82,ALTO RISCO
+80,branca,casada,REMUNERADA,não,não,sim,148,68,83,233,101,180,,,ALTO RISCO
+80,branca,casada,NÃO REMUNERADA,não,não,sim,"99,6",40,147,169,,180,,,ALTO RISCO
+81,branca,casada,REMUNERADA,não,,sim,"82,9",33,365,189,92,180,,,ALTO RISCO
+82,branca,casada,REMUNERADA,não,não,sim,,,,,,180,,,ALTO RISCO
+84,branca,casada,REMUNERADA,não,não,sim,"66,8",52,206,160,140,190,,,ALTO RISCO
+29,branca ,casada,REMUNERADA,não,não,sim,,,,,,110,,,ALTO RISCO
+29,branca ,casada,REMUNERADA,não,não,sim,"55,8",73,121,153,72,110,,56,BAIXO RISCO
+35,branca ,casada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+37,branca ,casada,REMUNERADA,não,,sim,"128,8",56,66,198,70,120,,,RISCO INTERMEDIARIO
+39,branca ,casada,REMUNERADA,não,,sim,,"68,1",600,192,91,120,,,BAIXO RISCO
+45,branca ,casada,NÃO REMUNERADA,não,não,sim,"150,4",72,133,249,,120,Pré-obesidade,,BAIXO RISCO
+51,branca ,casada,NÃO REMUNERADA,não,não,sim,119,48,55,178,,130,,,RISCO INTERMEDIARIO
+57,branca ,casada,NÃO REMUNERADA,não,,sim,150,55,123,231,78,130,,,RISCO INTERMEDIARIO
+64,branca ,casada,REMUNERADA,não,não,sim,123,47,116,193,,140,,,ALTO RISCO
+66,branca ,casada,NÃO REMUNERADA,não,,sim,136,43,127,204,125,150,,,ALTO RISCO
+68,branca ,casada,NÃO REMUNERADA,não,,sim,"92,6",62,97,174,109,150,Normal,80,ALTO RISCO
+78,branca ,casada,NÃO REMUNERADA,não,sim,sim,126,29,71,170,79,170,Obesidade,,ALTO RISCO
+83,branca ,casada,REMUNERADA,não,não,sim,,,,,,180,,,ALTO RISCO
+27,negra,casada,REMUNERADA,não,,sim,"144,6",54,77,214,92,110,,90,BAIXO RISCO
+64,negra,casada,REMUNERADA,não,,sim,,57,317,253,99,140,,,ALTO RISCO
+55,parda,casada,REMUNERADA,não,não,sim,,,,,,130,,,BAIXO RISCO
+32,branca,casada,REMUNERADA,sim,sim,sim,,,,,,110,,,BAIXO RISCO
+34,branca,casada,NÃO REMUNERADA,sim,não,sim,,,,,,110,,,BAIXO RISCO
+38,branca,casada,REMUNERADA,sim,não,sim,"58,8",64,86,140,85,120,Pré-obesidade,80,BAIXO RISCO
+41,branca,casada,REMUNERADA,sim,não,sim,"169,6",44,87,231,,120,Pré-obesidade,93,ALTO RISCO
+52,branca,casada,NÃO REMUNERADA,sim,,sim,,,,,,130,Normal,74,RISCO INTERMEDIARIO
+53,branca,casada,REMUNERADA,sim,não,sim,,44,238,157,114,130,,,ALTO RISCO
+55,branca,casada,NÃO REMUNERADA,sim,não,sim,102,53,100,175,,130,,,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,sim,,sim,,,,239,,130,Pré-obesidade,,RISCO INTERMEDIARIO
+55,branca,casada,REMUNERADA,sim,,sim,,51,119,174,,130,Pré-obesidade,,RISCO INTERMEDIARIO
+56,branca,casada,REMUNERADA,sim,,sim,"67,2",54,144,150,95,130,,,RISCO INTERMEDIARIO
+58,branca,casada,REMUNERADA,sim,não,sim,160,44,197,244,125,140,,,ALTO RISCO
+60,branca,casada,REMUNERADA,sim,,sim,"134,6",56,107,212,101,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,sim,não,sim,,38,258,154,94,140,,,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,sim,não,sim,,,,,,150,,,ALTO RISCO
+77,branca,casada,NÃO REMUNERADA,sim,,sim,"100,4",44,118,126,271,160,,,ALTO RISCO
+50,branca ,casada,NÃO REMUNERADA,sim,,sim,,,,,,130,,,BAIXO RISCO
+24,branca,casada,REMUNERADA,,não,sim,,,,,,100,,,BAIXO RISCO
+31,branca,casada,REMUNERADA,,não,sim,,,,,,110,,,BAIXO RISCO
+32,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,,não,sim,,,,,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,,não,sim,,,,,,110,Normal,70,BAIXO RISCO
+34,branca,casada,REMUNERADA,,não,sim,75,40,75,130,92,110,,,BAIXO RISCO
+35,branca,casada,REMUNERADA,,sim,sim,,,,,,120,,,BAIXO RISCO
+35,branca,casada,REMUNERADA,,não,sim,"148,8",67,126,241,,120,Pré-obesidade,94,RISCO INTERMEDIARIO
+36,branca,casada,REMUNERADA,,,sim,171,39,239,258,101,120,,,ALTO RISCO
+36,branca,casada,REMUNERADA,,,sim,71,59,50,140,74,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+38,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+39,branca,casada,NÃO REMUNERADA,,,sim,56,73,294,188,87,120,,,BAIXO RISCO
+39,branca,casada,NÃO REMUNERADA,,,sim,,,,,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,,,sim,"85,6",51,87,154,95,120,Pré-obesidade,,BAIXO RISCO
+40,branca,casada,REMUNERADA,,,sim,,,,,,120,,,BAIXO RISCO
+40,branca,casada,REMUNERADA,,não,sim,,,,,105,120,,,BAIXO RISCO
+40,branca,casada,REMUNERADA,,não,sim,"104,8",39,86,161,,120,Pré-obesidade,88,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,,,sim,,,"60,7","188,6",,120,,,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,,sim,sim,200,63,123,288,90,120,Obesidade,93,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,,não,sim,"91,2",31,234,169,,120,,,RISCO INTERMEDIARIO
+41,branca,casada,NÃO REMUNERADA,,,sim,"165,5",32,97,217,,120,Obesidade,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,,,sim,,58,273,199,90,120,Normal,,ALTO RISCO
+42,branca,casada,NÃO REMUNERADA,,,sim,"85,6",36,118,146,79,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,,,sim,,,211,251,,120,,,ALTO RISCO
+44,branca,casada,REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,,,sim,,,,,,120,,,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,,,sim,,72,57,168,84,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,,não,sim,,,,,,120,,75,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,sim,"104,4",53,168,191,86,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,sim,110,73,51,194,,120,Normal,,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,sim,,,,,,120,Obesidade,,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,sim,,,,,,120,,92,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,sim,,78,62,207,,120,Obesidade,99,BAIXO RISCO
+46,branca,casada,REMUNERADA,,não,sim,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,,não,sim,123,50,100,193,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,,não,sim,99,44,95,162,,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,,,sim,151,36,55,198,100,120,,,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,,sim,sim,159,48,72,221,89,120,Obesidade,104,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,,não,sim,124,56,95,198,97,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,,não,sim,153,52,29,211,74,120,,,BAIXO RISCO
+48,branca,casada,NÃO REMUNERADA,,,sim,"96,6",50,87,164,92,120,Normal,79,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,,não,sim,"138,8",46,116,208,83,120,,86,RISCO INTERMEDIARIO
+48,branca,casada,REMUNERADA,,,sim,,,190,215,,120,,,RISCO INTERMEDIARIO
+48,branca,casada,REMUNERADA,,,sim,"83,8",45,61,141,93,120,,,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,,não,sim,172,56,115,251,87,120,,,RISCO INTERMEDIARIO
+48,branca,casada,REMUNERADA,,,sim,105,71,151,207,110,120,,,RISCO INTERMEDIARIO
+48,branca,casada,REMUNERADA,,não,sim,"104,8",39,86,161,,120,,,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,,não,sim,140,50,91,208,86,120,,,RISCO INTERMEDIARIO
+50,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,130,Obesidade,,BAIXO RISCO
+50,branca,casada,REMUNERADA,,,sim,"78,6",48,57,138,81,130,Normal,72,BAIXO RISCO
+51,branca,casada,NÃO REMUNERADA,,,sim,"127,4",50,63,190,,130,,,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,,,sim,,,,,,130,,,RISCO INTERMEDIARIO
+53,branca,casada,REMUNERADA,,não,sim,"123,4",61,108,206,199,130,Pré-obesidade,,ALTO RISCO
+53,branca,casada,REMUNERADA,,,sim,245,76,115,344,106,130,,,ALTO RISCO
+54,branca,casada,REMUNERADA,,,sim,"85,4",64,138,177,150,130,Obesidade,100,ALTO RISCO
+55,branca,casada,REMUNERADA,,não,sim,,,,,,130,,,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,,,sim,"82,4",58,63,153,,130,Pré-obesidade,,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,,não,sim,77,53,129,156,93,130,,,BAIXO RISCO
+55,branca,casada,REMUNERADA,,não,sim,83,33,384,193,96,130,Obesidade,101,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,,não,sim,"116,4",68,48,194,,130,,,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,,,sim,105,52,90,175,82,130,Pré-obesidade,80,BAIXO RISCO
+56,branca,casada,NÃO REMUNERADA,,,sim,,40,586,219,,130,,,RISCO INTERMEDIARIO
+56,branca,casada,REMUNERADA,,,sim,125,40,172,202,120,130,,,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,,,sim,,,,,,130,,78,BAIXO RISCO
+56,branca,casada,NÃO REMUNERADA,,,sim,102,65,142,197,87,130,,,BAIXO RISCO
+56,branca,casada,REMUNERADA,,,sim,"139,2",51,168,224,,130,,,RISCO INTERMEDIARIO
+57,branca,casada,REMUNERADA,,,sim,177,53,142,259,104,130,,,ALTO RISCO
+57,branca,casada,NÃO REMUNERADA,,não,sim,55,86,71,156,98,130,Normal,77,BAIXO RISCO
+57,branca,casada,NÃO REMUNERADA,,não,sim,,,41,216,,130,,,ALTO RISCO
+58,branca,casada,NÃO REMUNERADA,,,sim,,,,,,140,,,BAIXO RISCO
+58,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,140,,90,BAIXO RISCO
+58,branca,casada,REMUNERADA,,não,sim,"79,8",47,356,198,91,140,,,BAIXO RISCO
+58,branca,casada,REMUNERADA,,,sim,136,,239,228,89,140,,,RISCO INTERMEDIARIO
+59,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,140,,,BAIXO RISCO
+59,branca,casada,NÃO REMUNERADA,,sim,sim,,,,,,140,,,BAIXO RISCO
+60,branca,casada,REMUNERADA,,não,sim,122,79,65,214,,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,,não,sim,"48,2",21,174,104,,140,Obesidade,,ALTO RISCO
+60,branca,casada,REMUNERADA,,não,sim,,52,145,243,,140,,,ALTO RISCO
+60,branca,casada,REMUNERADA,,não,sim,107,40,115,170,97,140,Obesidade,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,,não,sim,109,41,104,171,,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,,,sim,120,44,395,243,,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,,,sim,,,,,,140,,105,ALTO RISCO
+61,branca,casada,REMUNERADA,,não,sim,121,55,100,196,112,140,Pré-obesidade,,ALTO RISCO
+61,branca,casada,REMUNERADA,,não,sim,,,,,,140,,,BAIXO RISCO
+62,branca,casada,REMUNERADA,,não,sim,172,60,61,246,108,140,,,RISCO INTERMEDIARIO
+62,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,140,,95,BAIXO RISCO
+62,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,140,,76,BAIXO RISCO
+62,branca,casada,NÃO REMUNERADA,,,sim,"90,7","53,9",47,154,,140,,,BAIXO RISCO
+62,branca,casada,NÃO REMUNERADA,,,sim,"78,8",73,76,167,,140,,,BAIXO RISCO
+63,branca,casada,REMUNERADA,,não,sim,101,57,95,177,,140,Obesidade,91,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,,não,sim,"119,2",52,54,182,96,140,,,RISCO INTERMEDIARIO
+63,branca,casada,REMUNERADA,,,sim,224,35,110,281,104,140,Pré-obesidade,89,ALTO RISCO
+63,branca,casada,NÃO REMUNERADA,,,sim,77,56,47,142,67,140,,,ALTO RISCO
+64,branca,casada,REMUNERADA,,não,sim,"127,8",47,126,200,,140,,,ALTO RISCO
+64,branca,casada,REMUNERADA,,,sim,"106,6",123,67,243,84,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,,não,sim,"74,6",57,82,148,144,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,,não,sim,,27,386,269,106,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,,sim,sim,"78,2",67,79,161,86,140,,94,RISCO INTERMEDIARIO
+64,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,140,,,RISCO INTERMEDIARIO
+65,branca,casada,REMUNERADA,,,sim,"85,4",44,363,202,,140,,,ALTO RISCO
+65,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,144,,90,RISCO INTERMEDIARIO
+65,branca,casada,NÃO REMUNERADA,,,sim,"132,8",68,236,248,94,150,Obesidade,109,RISCO INTERMEDIARIO
+65,branca,casada,REMUNERADA,,,sim,"107,6","58,2",166,199,90,150,,,RISCO INTERMEDIARIO
+65,branca,casada,NÃO REMUNERADA,,não,sim,"98,2",62,109,182,82,150,,,ALTO RISCO
+65,branca,casada,NÃO REMUNERADA,,,sim,"171,6",42,147,243,106,150,,,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,,não,sim,"105,8",47,66,166,,150,,,BAIXO RISCO
+66,branca,casada,NÃO REMUNERADA,,não,sim,"78,2",41,149,149,99,150,,,ALTO RISCO
+66,branca,casada,REMUNERADA,,,sim,"114,4",39,158,185,102,150,Pré-obesidade,80,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,não,sim,"150,8",38,136,216,115,150,,89,ALTO RISCO
+67,branca,casada,,,não,sim,118,42,110,182,97,150,Obesidade,93,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,não,sim,"130,8",35,166,199,106,150,Pré-obesidade,83,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,não,sim,"87,6",69,157,188,85,150,Obesidade,,RISCO INTERMEDIARIO
+67,branca,casada,NÃO REMUNERADA,,,sim,,,,,,150,,,RISCO INTERMEDIARIO
+67,branca,casada,NÃO REMUNERADA,,não,sim,173,60,179,269,91,150,,,RISCO INTERMEDIARIO
+68,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,150,,113,ALTO RISCO
+68,branca,casada,REMUNERADA,,,sim,102,45,76,162,88,150,,,ALTO RISCO
+68,branca,casada,NÃO REMUNERADA,,não,sim,"14,2",56,114,213,88,150,,,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,,não,sim,"117,6",31,77,164,90,150,Pré-obesidade,,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,,não,sim,157,72,213,272,74,150,,,ALTO RISCO
+69,branca,casada,REMUNERADA,,não,sim,"59,8",34,101,114,102,150,,,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,,,sim,,42,429,222,84,150,,,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,150,,,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,,não,sim,"113,8","50,6","47,6",173,97,150,Obesidade,,RISCO INTERMEDIARIO
+70,branca,casada,REMUNERADA,,,sim,157,57,123,239,,150,Pré-obesidade,,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,,,sim,83,67,142,179,,150,,,RISCO INTERMEDIARIO
+70,branca,casada,REMUNERADA,,não,sim,"133,3",48,83,198,87,160,,108,RISCO INTERMEDIARIO
+70,branca,casada,REMUNERADA,,não,sim,155,53,107,230,100,160,,,RISCO INTERMEDIARIO
+70,branca,casada,NÃO REMUNERADA,,não,sim,,,,,,160,,,RISCO INTERMEDIARIO
+70,branca,casada,REMUNERADA,,,sim,,,,,,160,Normal,,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,,não,sim,"113,4",54,68,181,104,160,,80,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,,não,sim,84,69,112,176,,160,,,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,,não,sim,"108,4",60,198,208,109,160,Obesidade,94,ALTO RISCO
+71,branca,casada,NÃO REMUNERADA,,não,sim,129,54,56,195,102,160,,,ALTO RISCO
+71,branca,casada,REMUNERADA,,não,sim,,39,110,200,,160,,,ALTO RISCO
+71,branca,casada,NÃO REMUNERADA,,não,sim,,33,241,309,107,160,Obesidade,89,ALTO RISCO
+71,branca,casada,NÃO REMUNERADA,,não,sim,"171,39","57,4",136,256,90,160,,,ALTO RISCO
+72,branca,casada,NÃO REMUNERADA,,não,sim,"184,4",58,78,258,101,160,,,ALTO RISCO
+72,branca,casada,NÃO REMUNERADA,,não,sim,"134,2",42,164,209,100,160,,,ALTO RISCO
+72,branca,casada,NÃO REMUNERADA,,não,sim,104,57,295,220,157,160,Obesidade,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,,não,sim,"43,2",50,144,122,120,160,,156,ALTO RISCO
+74,branca,casada,NÃO REMUNERADA,,,sim,"61,8",39,151,131,151,160,,97,ALTO RISCO
+74,branca,casada,REMUNERADA,,,sim,,91,,211,112,160,,,ALTO RISCO
+75,branca,casada,NÃO REMUNERADA,,não,sim,"77,4",49,198,166,98,160,Pré-obesidade,99,ALTO RISCO
+75,branca,casada,NÃO REMUNERADA,,não,sim,116,50,120,190,103,160,,,RISCO INTERMEDIARIO
+75,branca,casada,REMUNERADA,,sim,sim,105,50,65,168,103,160,,,RISCO INTERMEDIARIO
+75,branca,casada,NÃO REMUNERADA,,não,sim,212,58,200,310,765,160,,,ALTO RISCO
+75,branca,casada,REMUNERADA,,não,sim,"98,8",60,81,175,,160,,,ALTO RISCO
+76,branca,casada,REMUNERADA,,não,sim,129,89,81,235,89,160,,,ALTO RISCO
+77,branca,casada,REMUNERADA,,não,sim,"115,4",47,98,182,,160,,,ALTO RISCO
+78,branca,casada,REMUNERADA,,não,sim,,,,,,160,,,ALTO RISCO
+78,branca,casada,NÃO REMUNERADA,,não,sim,102,34,66,149,96,170,Normal,76,ALTO RISCO
+78,branca,casada,NÃO REMUNERADA,,,sim,"159,4",32,238,239,,170,,,ALTO RISCO
+80,branca,casada,NÃO REMUNERADA,,sim,sim,"89,6",27,242,165,100,180,,,ALTO RISCO
+81,branca,casada,NÃO REMUNERADA,,,sim,106,55,101,181,96,180,,,ALTO RISCO
+82,branca,casada,REMUNERADA,,sim,sim,"78,8",48,86,144,75,180,,,RISCO INTERMEDIARIO
+84,branca,casada,REMUNERADA,,não,sim,"140,4",37,148,207,118,190,,,ALTO RISCO
+92,branca,casada,REMUNERADA,,não,sim,,,,,,,,90,RISCO INTERMEDIARIO
+40,branca ,casada,REMUNERADA,,,sim,69,69,149,168,97,120,Pré-obesidade,,RISCO INTERMEDIARIO
+47,branca ,casada,NÃO REMUNERADA,,não,sim,"108,8",32,116,164,,120,,,BAIXO RISCO
+51,branca ,casada,REMUNERADA,,não,sim,86,55,107,163,80,130,,,BAIXO RISCO
+53,branca ,casada,REMUNERADA,,,sim,205,35,158,271,85,130,,101,ALTO RISCO
+61,branca ,casada,NÃO REMUNERADA,,,sim,101,34,165,168,,140,Obesidade,,BAIXO RISCO
+70,branca ,casada,NÃO REMUNERADA,,,sim,,,,,,160,,,RISCO INTERMEDIARIO
+70,branca ,casada,REMUNERADA,,não,sim,,68,161,199,,160,,,ALTO RISCO
+79,branca ,casada,REMUNERADA,,,sim,235,36,235,318,,170,,,ALTO RISCO
+83,branca ,casada,REMUNERADA,,,sim,127,61,190,226,182,180,,110,ALTO RISCO
+91,branca ,casada,REMUNERADA,,não,sim,,,,,,,Obesidade,,ALTO RISCO
+41,negra,casada,REMUNERADA,,,sim,86,52,145,167,89,120,Pré-obesidade,95,RISCO INTERMEDIARIO
+51,negra,casada,REMUNERADA,,não,sim,"124,2",36,154,191,102,130,,,RISCO INTERMEDIARIO
+65,negra,casada,REMUNERADA,,não,sim,"124,8",43,86,185,,150,,,ALTO RISCO
+68,negra,casada,REMUNERADA,,,sim,232,73,176,340,77,150,Pré-obesidade,80,ALTO RISCO
+35,parda,casada,REMUNERADA,,não,sim,,,,,,110,,,RISCO INTERMEDIARIO
+50,parda,casada,REMUNERADA,,não,sim,78,40,128,144,84,130,,,RISCO INTERMEDIARIO
+54,parda,casada,REMUNERADA,,,sim,114,82,60,208,93,130,Obesidade,90,ALTO RISCO
+59,parda,casada,REMUNERADA,,não,sim,"146,8",57,91,222,101,140,,,RISCO INTERMEDIARIO
+58,,casada,REMUNERADA,,não,sim,125,,,,108,140,,,ALTO RISCO
+69,,casada,,,,sim,"119,6",54,197,213,124,150,,,ALTO RISCO
+37,branca,divorciada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+38,branca,divorciada,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+39,branca,divorciada,REMUNERADA,não,,sim,78,54,184,174,82,120,,,BAIXO RISCO
+40,branca,divorciada,REMUNERADA,não,não,sim,"64,8",46,91,129,90,120,,,RISCO INTERMEDIARIO
+45,branca,divorciada,NÃO REMUNERADA,não,não,sim,,,,,,120,,90,BAIXO RISCO
+57,branca,divorciada,REMUNERADA,não,não,sim,,,,,,130,,,BAIXO RISCO
+61,branca,divorciada,REMUNERADA,não,,sim,"206,2",44,129,276,95,140,,,ALTO RISCO
+62,branca,divorciada,REMUNERADA,não,,sim,83,67,104,171,,140,,,RISCO INTERMEDIARIO
+64,branca,divorciada,REMUNERADA,não,não,sim,,,,,,140,,,BAIXO RISCO
+65,branca,divorciada,REMUNERADA,não,,sim,178,45,135,250,95,150,,,ALTO RISCO
+84,branca,divorciada,REMUNERADA,não,não,sim,104,51,300,215,145,190,,,ALTO RISCO
+50,branca,divorciada,REMUNERADA,sim,não,sim,100,51,125,176,87,130,,,BAIXO RISCO
+65,branca,divorciada,REMUNERADA,sim,não,sim,,,,,,150,,,RISCO INTERMEDIARIO
+65,branca,divorciada,NÃO REMUNERADA,sim,não,sim,"83,8",43,246,176,101,150,Obesidade,101,ALTO RISCO
+81,branca,divorciada,REMUNERADA,sim,sim,sim,"129,2",,142,198,134,180,,,ALTO RISCO
+55,branca,divorciada,REMUNERADA,,,sim,67,68,29,141,100,130,,,BAIXO RISCO
+59,branca,divorciada,REMUNERADA,,não,sim,92,40,115,155,97,140,,81,RISCO INTERMEDIARIO
+61,branca,divorciada,REMUNERADA,,não,sim,,37,179,209,220,140,,,ALTO RISCO
+62,branca,divorciada,REMUNERADA,,não,sim,,,,,,140,,105,BAIXO RISCO
+68,branca,divorciada,REMUNERADA,,não,sim,"82,4",63,143,174,90,150,,,ALTO RISCO
+70,branca,divorciada,NÃO REMUNERADA,,,sim,,,,,,160,,,RISCO INTERMEDIARIO
+73,branca,divorciada,NÃO REMUNERADA,,,sim,,,,,,160,,,RISCO INTERMEDIARIO
+76,branca,divorciada,REMUNERADA,,,sim,"105,6",38,107,165,90,160,Normal,82,ALTO RISCO
+63,parda,divorciada,REMUNERADA,,não,sim,111,58,103,190,100,140,,,RISCO INTERMEDIARIO
+52,branca,sem dado,REMUNERADA,não,não,sim,101,55,230,202,97,130,,,RISCO INTERMEDIARIO
+75,branca,sem dado,NÃO REMUNERADA,não,,sim,81,88,50,179,,160,,,RISCO INTERMEDIARIO
+68,branca,sem dado,NÃO REMUNERADA,sim,não,sim,"64,6",35,97,119,88,150,Obesidade,,ALTO RISCO
+75,branca,sem dado,REMUNERADA,,não,sim,83,58,189,179,,160,,,ALTO RISCO
+59,,sem dado,,,não,sim,,,,,,140,Normal,69,RISCO INTERMEDIARIO
+65,,sem dado,,,não,sim,"104,5",39,"182,5",180,"86,85",150,Pré-obesidade,95,ALTO RISCO
+27,branca,separada,REMUNERADA,não,,sim,"151,4",41,103,213,85,110,,,BAIXO RISCO
+39,branca,separada,REMUNERADA,não,não,sim,79,42,,157,90,120,,,BAIXO RISCO
+42,branca,separada,REMUNERADA,não,não,sim,,29,734,252,91,120,,,ALTO RISCO
+50,branca,separada,REMUNERADA,não,não,sim,129,42,113,195,118,120,,,RISCO INTERMEDIARIO
+57,branca,separada,REMUNERADA,não,não,sim,"102,4",48,113,173,96,130,Pré-obesidade,79,RISCO INTERMEDIARIO
+59,branca,separada,REMUNERADA,não,não,sim,116,50,112,189,96,140,,,ALTO RISCO
+59,branca,separada,REMUNERADA,não,não,sim,,,,,89,140,,,BAIXO RISCO
+61,branca,separada,REMUNERADA,não,,sim,,,,,,140,,,ALTO RISCO
+61,branca,separada,NÃO REMUNERADA,não,,sim,80,30,145,139,,140,,,ALTO RISCO
+63,branca,separada,REMUNERADA,não,não,sim,"133,6",53,67,200,102,140,,,RISCO INTERMEDIARIO
+63,branca,separada,REMUNERADA,não,não,sim,"159,4",48,58,219,94,140,Obesidade,101,ALTO RISCO
+70,branca,separada,REMUNERADA,não,não,sim,178,44,298,282,95,150,,,ALTO RISCO
+73,branca,separada,REMUNERADA,não,não,sim,169,59,,248,96,160,,,ALTO RISCO
+53,branca,separada,REMUNERADA,sim,não,sim,"153,6",46,237,247,124,130,,,ALTO RISCO
+56,branca,separada,REMUNERADA,sim,não,sim,,,,,,130,,67,BAIXO RISCO
+57,branca,separada,REMUNERADA,sim,não,sim,,,,,,140,,,BAIXO RISCO
+53,branca,separada,REMUNERADA,,não,sim,126,49,264,228,93,130,,,ALTO RISCO
+58,branca,separada,NÃO REMUNERADA,,,sim,,,,,,140,,,RISCO INTERMEDIARIO
+58,branca,separada,REMUNERADA,,não,sim,,54,104,134,94,140,Obesidade,,RISCO INTERMEDIARIO
+58,branca,separada,REMUNERADA,,não,sim,"200,4",57,263,310,85,140,,,RISCO INTERMEDIARIO
+63,branca,separada,NÃO REMUNERADA,,não,sim,"134,4",53,153,218,,140,,,ALTO RISCO
+69,branca,separada,NÃO REMUNERADA,,,sim,"59,8",34,341,162,84,150,,93,RISCO INTERMEDIARIO
+70,branca,separada,REMUNERADA,,não,sim,"100,6",55,122,180,,160,,,ALTO RISCO
+81,branca,separada,REMUNERADA,,não,sim,203,45,181,284,78,180,Obesidade,92,ALTO RISCO
+84,branca,separada,REMUNERADA,,não,sim,"168,6",58,132,253,160,190,Pré-obesidade,,ALTO RISCO
+85,branca,separada,NÃO REMUNERADA,,,sim,203,120,56,119,131,200,Pré-obesidade,89,ALTO RISCO
+56,branca ,separada,NÃO REMUNERADA,,,sim,,,,,,130,,,RISCO INTERMEDIARIO
+49,amarela,solteira,,não,,sim,67,37,95,123,83,120,Pré-obesidade,85,RISCO INTERMEDIARIO
+20,branca,solteira,NÃO REMUNERADA,não,,sim,"85,3","46,9",,145,79,100,,,BAIXO RISCO
+20,branca,solteira,NÃO REMUNERADA,não,,sim,"104,4",35,111,"161,6",,100,,,BAIXO RISCO
+20,branca,solteira,REMUNERADA,não,não,sim,,,,,,100,,,BAIXO RISCO
+21,branca,solteira,NÃO REMUNERADA,não,,sim,"159,6",50,102,230,86,100,,,BAIXO RISCO
+21,branca,solteira,REMUNERADA,não,não,sim,77,48,70,139,,100,Obesidade,,BAIXO RISCO
+21,branca,solteira,NÃO REMUNERADA,não,sim,sim,177,73,131,277,91,100,,,BAIXO RISCO
+23,branca,solteira,NÃO REMUNERADA,não,não,sim,,,,,,100,,82,BAIXO RISCO
+24,branca,solteira,,não,não,sim,,,,,,100,,,BAIXO RISCO
+24,branca,solteira,NÃO REMUNERADA,não,não,sim,,,,,,100,,,BAIXO RISCO
+24,branca,solteira,REMUNERADA,não,não,sim,"121,8",81,136,230,,100,,,BAIXO RISCO
+25,branca,solteira,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+26,branca,solteira,REMUNERADA,não,não,sim,,,,,86,110,,115,BAIXO RISCO
+26,branca,solteira,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+26,branca,solteira,NÃO REMUNERADA,não,não,sim,,,,,82,110,,,BAIXO RISCO
+28,branca,solteira,NÃO REMUNERADA,não,não,sim,"95,4",60,98,175,93,110,,103,RISCO INTERMEDIARIO
+29,branca,solteira,NÃO REMUNERADA,não,,sim,149,98,102,267,85,110,,,RISCO INTERMEDIARIO
+29,branca,solteira,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+29,branca,solteira,REMUNERADA,não,não,sim,131,53,179,219,108,110,,,ALTO RISCO
+30,branca,solteira,REMUNERADA,não,não,sim,,,,,,110,,64,BAIXO RISCO
+30,branca,solteira,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+31,branca,solteira,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+31,branca,solteira,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+32,branca,solteira,NÃO REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+32,branca,solteira,NÃO REMUNERADA,não,não,sim,"115,8",60,51,186,85,110,,,BAIXO RISCO
+32,branca,solteira,REMUNERADA,não,,sim,95,56,45,160,,110,,,BAIXO RISCO
+33,branca,solteira,REMUNERADA,não,não,sim,,,,,,110,,,BAIXO RISCO
+34,branca,solteira,REMUNERADA,não,,sim,177,47,160,256,86,110,,,BAIXO RISCO
+38,branca,solteira,NÃO REMUNERADA,não,não,sim,"111,1","59,1",154,201,96,120,,86,BAIXO RISCO
+39,branca,solteira,REMUNERADA,não,não,sim,,,,,,120,Obesidade,85,BAIXO RISCO
+42,branca,solteira,REMUNERADA,não,,sim,,53,111,209,,120,,,ALTO RISCO
+43,branca,solteira,REMUNERADA,não,não,sim,84,55,90,157,,120,,,BAIXO RISCO
+43,branca,solteira,REMUNERADA,não,não,sim,,,,,,120,,,BAIXO RISCO
+44,branca,solteira,REMUNERADA,não,não,sim,93,55,67,161,,120,,,BAIXO RISCO
+45,branca,solteira,REMUNERADA,não,,sim,,,,,,120,,73,BAIXO RISCO
+45,branca,solteira,REMUNERADA,não,,sim,"106,2",76,74,197,93,120,Normal,80,BAIXO RISCO
+47,branca,solteira,REMUNERADA,não,não,sim,"110,5","60,3",126,196,90,120,Pré-obesidade,87,BAIXO RISCO
+48,branca,solteira,REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+55,branca,solteira,NÃO REMUNERADA,não,não,sim,"20,1",50,121,274,,130,,,RISCO INTERMEDIARIO
+57,branca,solteira,REMUNERADA,não,não,sim,"95,8",62,,164,73,130,,,BAIXO RISCO
+58,branca,solteira,NÃO REMUNERADA,não,,sim,"11,2",42,144,182,,140,,,RISCO INTERMEDIARIO
+59,branca,solteira,NÃO REMUNERADA,não,não,sim,,,,,,140,,,BAIXO RISCO
+59,branca,solteira,REMUNERADA,não,não,sim,89,67,35,163,60,140,,,BAIXO RISCO
+75,branca,solteira,REMUNERADA,não,não,sim,"170,8",32,166,236,86,160,,,ALTO RISCO
+37,branca ,solteira,REMUNERADA,não,,sim,,,,,,120,,77,BAIXO RISCO
+63,branca ,solteira,REMUNERADA,não,não,sim,"109,8",48,86,175,,140,Pré-obesidade,86,RISCO INTERMEDIARIO
+38,negra,solteira,REMUNERADA,não,,sim,,,,,,120,,,BAIXO RISCO
+55,parda,solteira,REMUNERADA,não,não,sim,"85,8",52,41,142,92,130,,,BAIXO RISCO
+29,,solteira,REMUNERADA,não,não,sim,89,74,91,182,78,110,Normal,,BAIXO RISCO
+23,branca,solteira,REMUNERADA,sim,não,sim,,,,,,100,,,BAIXO RISCO
+45,branca,solteira,REMUNERADA,sim,não,sim,,,,,,120,,,BAIXO RISCO
+20,branca,solteira,NÃO REMUNERADA,,não,sim,,,,,,100,,,BAIXO RISCO
+20,branca,solteira,NÃO REMUNERADA,,,sim,"85,2",46,184,168,,100,,,BAIXO RISCO
+23,branca,solteira,NÃO REMUNERADA,,,sim,,,,,,100,,,BAIXO RISCO
+26,branca,solteira,REMUNERADA,,,sim,,,,,,110,,,BAIXO RISCO
+27,branca,solteira,REMUNERADA,,não,sim,"92,4",51,63,156,93,110,,,BAIXO RISCO
+27,branca,solteira,REMUNERADA,,,sim,110,48,82,175,86,110,Normal,80,BAIXO RISCO
+27,branca,solteira,REMUNERADA,,não,sim,119,36,109,177,88,110,,,BAIXO RISCO
+29,branca,solteira,REMUNERADA,,não,sim,215,33,178,284,167,110,,,ALTO RISCO
+30,branca,solteira,REMUNERADA,,não,sim,"109,6",50,167,193,,110,,,BAIXO RISCO
+30,branca,solteira,NÃO REMUNERADA,,,sim,,,,,,110,,72,BAIXO RISCO
+41,branca,solteira,REMUNERADA,,,sim,135,49,115,207,,120,,,RISCO INTERMEDIARIO
+43,branca,solteira,REMUNERADA,,não,sim,98,52,98,168,87,120,,,BAIXO RISCO
+45,branca,solteira,REMUNERADA,,não,sim,,,,,,120,,93,BAIXO RISCO
+47,branca,solteira,REMUNERADA,,não,sim,"72,6",30,67,116,,120,,,BAIXO RISCO
+48,branca,solteira,REMUNERADA,,não,sim,127,38,200,205,98,120,,92,RISCO INTERMEDIARIO
+50,branca,solteira,NÃO REMUNERADA,,não,sim,,,,,,130,,105,BAIXO RISCO
+51,branca,solteira,REMUNERADA,,,sim,,,,,,130,,,RISCO INTERMEDIARIO
+55,branca,solteira,NÃO REMUNERADA,,não,sim,,,,,,130,,,BAIXO RISCO
+56,branca,solteira,REMUNERADA,,,sim,134,"49,1",146,213,96,130,,,RISCO INTERMEDIARIO
+60,branca,solteira,REMUNERADA,,,sim,,,,,,140,,,ALTO RISCO
+62,branca,solteira,REMUNERADA,,não,sim,93,51,70,158,87,140,,,BAIXO RISCO
+63,branca,solteira,REMUNERADA,,não,sim,131,53,189,222,89,140,,,RISCO INTERMEDIARIO
+63,branca,solteira,REMUNERADA,,não,sim,,,,,,140,,,RISCO INTERMEDIARIO
+66,branca,solteira,REMUNERADA,,não,sim,124,35,183,196,95,150,Obesidade,92,RISCO INTERMEDIARIO
+86,branca,solteira,REMUNERADA,,,sim,170,69,,258,,210,,,ALTO RISCO
+57,branca ,solteira,REMUNERADA,,não,sim,,,,,,140,,,BAIXO RISCO
+54,negra,solteira,REMUNERADA,,não,sim,,,,,,130,,103,ALTO RISCO
+68,negra,solteira,NÃO REMUNERADA,,não,sim,151,66,105,238,106,150,,89,ALTO RISCO
+32,,solteira,REMUNERADA,,,sim,"76,6",53,57,141,,110,,,BAIXO RISCO
+42,branca,viúva,NÃO REMUNERADA,não,,sim,,,,,,120,,,ALTO RISCO
+51,branca,viúva,REMUNERADA,não,não,sim,,,,,,130,,,RISCO INTERMEDIARIO
+51,branca,viúva,REMUNERADA,não,não,sim,94,66,63,173,82,130,,,RISCO INTERMEDIARIO
+51,branca,viúva,REMUNERADA,não,não,sim,"146,4",42,133,215,,130,,,RISCO INTERMEDIARIO
+57,branca,viúva,REMUNERADA,não,não,sim,"104,8",55,191,198,88,140,Obesidade,,BAIXO RISCO
+58,branca,viúva,NÃO REMUNERADA,não,,sim,,,,,,140,Pré-obesidade,87,RISCO INTERMEDIARIO
+58,branca,viúva,REMUNERADA,não,,sim,77,49,185,163,109,140,,,RISCO INTERMEDIARIO
+58,branca,viúva,NÃO REMUNERADA,não,,sim,"38,2",43,94,100,108,140,,,ALTO RISCO
+58,branca,viúva,REMUNERADA,não,não,sim,"95,6",66,72,176,80,140,,,ALTO RISCO
+60,branca,viúva,NÃO REMUNERADA,não,não,sim,112,49,105,182,99,140,,,ALTO RISCO
+63,branca,viúva,NÃO REMUNERADA,não,,sim,,,,,,140,,,RISCO INTERMEDIARIO
+63,branca,viúva,NÃO REMUNERADA,não,não,sim,,,,,,140,,94,RISCO INTERMEDIARIO
+63,branca,viúva,NÃO REMUNERADA,não,não,sim,,,,,,140,,,RISCO INTERMEDIARIO
+63,branca,viúva,REMUNERADA,não,não,sim,124,47,126,198,98,140,Pré-obesidade,90,ALTO RISCO
+63,branca,viúva,NÃO REMUNERADA,não,não,sim,"108,2",34,131,169,,140,,,ALTO RISCO
+64,branca,viúva,REMUNERADA,não,,sim,"128,4",36,178,200,,140,Obesidade,104,RISCO INTERMEDIARIO
+64,branca,viúva,REMUNERADA,não,,sim,,,,,,140,,,ALTO RISCO
+65,branca,viúva,REMUNERADA,não,não,sim,"153,8",38,166,225,91,150,Obesidade,,ALTO RISCO
+65,branca,viúva,REMUNERADA,não,não,sim,"171,5",47,141,248,98,150,Obesidade,,ALTO RISCO
+66,branca,viúva,NÃO REMUNERADA,não,não,sim,159,57,191,254,150,150,,,ALTO RISCO
+67,branca,viúva,NÃO REMUNERADA,não,,sim,,31,111,135,,150,,,ALTO RISCO
+68,branca,viúva,REMUNERADA,não,não,sim,"160,8",48,121,233,118,150,,85,ALTO RISCO
+69,branca,viúva,REMUNERADA,não,,sim,"117,2",52,74,184,82,150,,,ALTO RISCO
+69,branca,viúva,NÃO REMUNERADA,não,,sim,,,,,,150,,115,ALTO RISCO
+70,branca,viúva,NÃO REMUNERADA,não,,sim,,,,,,160,,,RISCO INTERMEDIARIO
+70,branca,viúva,REMUNERADA,não,não,sim,,,203,198,,160,,,ALTO RISCO
+70,branca,viúva,NÃO REMUNERADA,não,,sim,,,,,,160,,,ALTO RISCO
+70,branca,viúva,NÃO REMUNERADA,não,não,sim,137,49,133,213,117,160,,,ALTO RISCO
+71,branca,viúva,REMUNERADA,não,,sim,"146,6",34,112,203,92,160,,,ALTO RISCO
+73,branca,viúva,NÃO REMUNERADA,não,não,sim,"60,6",69,112,152,111,160,Pré-obesidade,,ALTO RISCO
+73,branca,viúva,REMUNERADA,não,,sim,146,45,95,210,83,160,Normal,,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,não,sim,150,79,97,249,,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,,sim,100,53,112,176,108,160,,,ALTO RISCO
+77,branca,viúva,REMUNERADA,não,,sim,"123,4",52,196,215,98,160,Obesidade,95,ALTO RISCO
+77,branca,viúva,REMUNERADA,não,,sim,161,44,200,245,,160,,,ALTO RISCO
+78,branca,viúva,REMUNERADA,não,,sim,,78,50,207,193,160,Obesidade,96,ALTO RISCO
+78,branca,viúva,REMUNERADA,não,não,sim,"134,4",25,113,182,99,170,,,ALTO RISCO
+78,branca,viúva,REMUNERADA,não,não,sim,,,,,,170,Normal,83,ALTO RISCO
+80,branca,viúva,REMUNERADA,não,não,sim,"95,2",51,179,182,,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,não,não,sim,184,39,113,246,120,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,não,não,sim,93,44,113,160,92,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,não,,sim,"94,4",38,78,148,94,180,,,ALTO RISCO
+83,branca,viúva,REMUNERADA,não,,sim,,,,,132,180,Pré-obesidade,91,ALTO RISCO
+83,branca,viúva,REMUNERADA,não,,sim,"141,4",62,183,240,,180,,,ALTO RISCO
+83,branca,viúva,REMUNERADA,não,não,sim,,,,,,180,,85,ALTO RISCO
+83,branca,viúva,REMUNERADA,não,não,sim,"151,8",50,161,234,94,180,,,ALTO RISCO
+84,branca,viúva,REMUNERADA,não,,sim,32,28,103,81,148,180,,,ALTO RISCO
+84,branca,viúva,REMUNERADA,não,,sim,67,36,221,148,190,186,Obesidade,100,ALTO RISCO
+86,branca,viúva,REMUNERADA,não,,sim,110,48,255,209,121,200,Pré-obesidade,89,ALTO RISCO
+87,branca,viúva,REMUNERADA,não,,sim,,,,,100,230,,,ALTO RISCO
+88,branca,viúva,REMUNERADA,não,,sim,"102,65","59,3",125,187,88,,,,BAIXO RISCO
+89,branca,viúva,REMUNERADA,não,não,sim,,,,,,,,,RISCO INTERMEDIARIO
+90,branca,viúva,REMUNERADA,não,não,sim,112,49,105,182,99,,,,ALTO RISCO
+91,branca,viúva,REMUNERADA,não,não,sim,,,,,,,,,BAIXO RISCO
+56,branca ,viúva,REMUNERADA,não,não,sim,,,,,,130,,,BAIXO RISCO
+68,branca ,viúva,REMUNERADA,não,,sim,"161,4",57,128,244,101,150,,,ALTO RISCO
+77,branca ,viúva,NÃO REMUNERADA,não,não,sim,"74,6",65,,154,120,160,Normal,75,ALTO RISCO
+79,branca ,viúva,REMUNERADA,não,não,sim,"136,2",44,194,219,91,170,,,ALTO RISCO
+79,branca ,viúva,REMUNERADA,não,,sim,,,,,,170,,,ALTO RISCO
+83,branca ,viúva,REMUNERADA,não,não,sim,"93,4",30,1208,145,83,180,,,RISCO INTERMEDIARIO
+92,branca ,viúva,REMUNERADA,não,não,sim,,,,,,,,,BAIXO RISCO
+66,parda,viúva,NÃO REMUNERADA,não,,sim,,,,,,150,,,ALTO RISCO
+59,branca,viúva,REMUNERADA,sim,não,sim,"124,8",36,101,118,100,140,,99,RISCO INTERMEDIARIO
+60,branca,viúva,REMUNERADA,sim,não,sim,102,70,208,214,,140,,,ALTO RISCO
+62,branca,viúva,REMUNERADA,sim,não,sim,,,,,,140,,,BAIXO RISCO
+66,branca,viúva,NÃO REMUNERADA,sim,não,sim,"101,2",35,109,158,95,150,,,ALTO RISCO
+68,branca,viúva,REMUNERADA,sim,,sim,"90,2",60,74,165,101,150,,,ALTO RISCO
+68,branca,viúva,NÃO REMUNERADA,sim,,sim,70,48,73,133,89,150,Pré-obesidade,94,ALTO RISCO
+80,branca,viúva,REMUNERADA,sim,,sim,"141,4",38,63,192,89,180,Pré-obesidade,78,ALTO RISCO
+87,branca,viúva,REMUNERADA,sim,não,sim,"139,4",32,153,202,104,220,,,ALTO RISCO
+89,branca,viúva,REMUNERADA,sim,,sim,78,51,119,153,,,Obesidade,94,RISCO INTERMEDIARIO
+79,parda,viúva,REMUNERADA,sim,,sim,"84,6",40,82,141,89,175,,114,ALTO RISCO
+51,branca,viúva,REMUNERADA,,não,sim,72,29,315,164,85,130,,,RISCO INTERMEDIARIO
+55,branca,viúva,NÃO REMUNERADA,,,sim,"115,4",47,98,182,88,130,,,RISCO INTERMEDIARIO
+56,branca,viúva,REMUNERADA,,,sim,91,71,160,192,104,130,,,RISCO INTERMEDIARIO
+57,branca,viúva,REMUNERADA,,não,sim,101,60,91,179,90,130,,,RISCO INTERMEDIARIO
+59,branca,viúva,NÃO REMUNERADA,,,sim,"31,8",46,126,103,1246,140,,,ALTO RISCO
+59,branca,viúva,NÃO REMUNERADA,,não,sim,,,,,,140,,77,BAIXO RISCO
+59,branca,viúva,REMUNERADA,,,sim,169,53,72,236,108,140,,,RISCO INTERMEDIARIO
+60,branca,viúva,REMUNERADA,,,sim,"77,8",46,166,157,98,140,Pré-obesidade,93,ALTO RISCO
+62,branca,viúva,NÃO REMUNERADA,,não,sim,"46,2",44,109,112,94,140,Obesidade,,RISCO INTERMEDIARIO
+65,branca,viúva,NÃO REMUNERADA,,sim,sim,,,,,,150,,84,BAIXO RISCO
+65,branca,viúva,REMUNERADA,,,sim,,,,,,150,Pré-obesidade,91,ALTO RISCO
+65,branca,viúva,REMUNERADA,,não,sim,"115,8",70,121,210,111,150,,101,ALTO RISCO
+65,branca,viúva,NÃO REMUNERADA,,,sim,77,55,54,143,,150,,,ALTO RISCO
+67,branca,viúva,NÃO REMUNERADA,,,sim,163,42,100,225,,150,,,RISCO INTERMEDIARIO
+67,branca,viúva,REMUNERADA,,não,sim,,,,,,150,,,RISCO INTERMEDIARIO
+68,branca,viúva,NÃO REMUNERADA,,não,sim,"131,6",44,360,246,166,150,,,RISCO INTERMEDIARIO
+70,branca,viúva,NÃO REMUNERADA,,não,sim,"86,2",44,129,156,101,160,,105,RISCO INTERMEDIARIO
+70,branca,viúva,REMUNERADA,,não,sim,75,"45,3",123,145,97,160,,,ALTO RISCO
+71,branca,viúva,REMUNERADA,,não,sim,153,52,125,230,,160,,,ALTO RISCO
+71,branca,viúva,NÃO REMUNERADA,,,sim,157,"57,1",88,232,86,160,,,ALTO RISCO
+72,branca,viúva,REMUNERADA,,não,sim,,43,129,199,174,160,,,ALTO RISCO
+72,branca,viúva,NÃO REMUNERADA,,não,sim,103,48,245,200,1000,160,Obesidade,93,ALTO RISCO
+72,branca,viúva,REMUNERADA,,não,sim,"96,8",53,116,173,93,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,,não,sim,"108,4",62,58,182,115,160,Normal,80,ALTO RISCO
+74,branca,viúva,REMUNERADA,,não,sim,"176,4",56,173,267,,160,,,ALTO RISCO
+75,branca,viúva,NÃO REMUNERADA,,não,sim,,,,,,160,,,RISCO INTERMEDIARIO
+75,branca,viúva,REMUNERADA,,,sim,"73,4",69,108,164,92,160,Normal,70,ALTO RISCO
+76,branca,viúva,REMUNERADA,,não,sim,"98,2",36,179,170,112,160,Obesidade,95,ALTO RISCO
+76,branca,viúva,REMUNERADA,,não,sim,132,56,120,212,81,160,,85,ALTO RISCO
+76,branca,viúva,REMUNERADA,,,sim,126,33,195,198,129,160,Obesidade,,ALTO RISCO
+78,branca,viúva,NÃO REMUNERADA,,não,sim,"71,2",29,129,126,247,160,,,ALTO RISCO
+78,branca,viúva,REMUNERADA,,não,sim,"104,4",66,63,183,97,170,,,ALTO RISCO
+79,branca,viúva,REMUNERADA,,não,sim,,,,,,180,,,RISCO INTERMEDIARIO
+80,branca,viúva,NÃO REMUNERADA,,não,sim,"130,4",47,98,197,,180,Pré-obesidade,,ALTO RISCO
+81,branca,viúva,REMUNERADA,,não,sim,,,,,,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,,não,sim,179,39,190,256,88,180,,,ALTO RISCO
+84,branca,viúva,REMUNERADA,,não,sim,,,,,,180,,,ALTO RISCO
+84,branca,viúva,REMUNERADA,,,sim,71,52,78,139,89,190,,,ALTO RISCO
+84,branca,viúva,NÃO REMUNERADA,,,sim,"143,2",52,,218,,190,,,ALTO RISCO
+86,branca,viúva,NÃO REMUNERADA,,não,sim,138,55,320,257,154,200,,,ALTO RISCO
+86,branca,viúva,NÃO REMUNERADA,,,sim,90,33,149,153,,200,Obesidade,,ALTO RISCO
+86,branca,viúva,NÃO REMUNERADA,,não,sim,"213,6",47,202,301,106,200,Obesidade,98,ALTO RISCO
+86,branca,viúva,REMUNERADA,,,sim,"120,4",43,161,196,101,220,,,ALTO RISCO
+88,branca,viúva,REMUNERADA,,,sim,109,34,175,178,,90,,,BAIXO RISCO
+88,branca,viúva,REMUNERADA,,,sim,,,,,,,,,BAIXO RISCO
+89,branca,viúva,REMUNERADA,,não,sim,,,,,,,,,BAIXO RISCO
+89,branca,viúva,REMUNERADA,,,sim,84,46,133,157,200,,Obesidade,123,RISCO INTERMEDIARIO
+89,branca,viúva,REMUNERADA,,,sim,,,,,,,,,RISCO INTERMEDIARIO
+90,branca,viúva,REMUNERADA,,,sim,"182,2",34,74,231,96,,,,ALTO RISCO
+90,branca,viúva,REMUNERADA,,não,sim,"115,4",40,213,198,,,Pré-obesidade,,ALTO RISCO
+90,branca,viúva,REMUNERADA,,não,sim,"163,6",32,167,229,,,,,ALTO RISCO
+92,branca,viúva,REMUNERADA,,não,sim,,,,,,,,,BAIXO RISCO
+92,branca,viúva,REMUNERADA,,não,sim,"87,2",64,69,165,105,,Pré-obesidade,87,RISCO INTERMEDIARIO
+94,branca,viúva,REMUNERADA,,,sim,180,44,83,241,101,,,,RISCO INTERMEDIARIO
+62,branca ,viúva,REMUNERADA,,,sim,97,53,45,159,95,140,Obesidade,80,BAIXO RISCO
+63,branca ,viúva,REMUNERADA,,não,sim,147,53,158,232,94,140,Obesidade,,RISCO INTERMEDIARIO
+63,branca ,viúva,REMUNERADA,,não,sim,"128,6",57,337,253,82,140,,,RISCO INTERMEDIARIO
+76,branca ,viúva,REMUNERADA,,não,sim,137,36,138,201,126,160,,,ALTO RISCO
+78,branca ,viúva,REMUNERADA,,não,sim,,,,,,160,,,ALTO RISCO
+82,branca ,viúva,NÃO REMUNERADA,,,sim,138,38,159,208,98,180,,,ALTO RISCO
+87,branca ,viúva,REMUNERADA,,não,sim,"67,8",52,116,143,183,230,Obesidade,98,ALTO RISCO
+87,branca ,viúva,REMUNERADA,,não,sim,"139,6",69,107,230,116,234,Pré-obesidade,78,RISCO INTERMEDIARIO
+89,branca ,viúva,REMUNERADA,,não,sim,"107,2",75,84,199,,,,,RISCO INTERMEDIARIO
+63,negra,viúva,NÃO REMUNERADA,,não,sim,"105,8",53,151,189,86,140,Pré-obesidade,87,RISCO INTERMEDIARIO
+75,parda,viúva,REMUNERADA,,não,sim,137,43,135,207,89,160,Pré-obesidade,80,ALTO RISCO
+54,branca ,,REMUNERADA,,não,sim,,,,,,130,,,ALTO RISCO
+60,branca ,,,,,sim,73,59,100,152,94,140,,,ALTO RISCO
+70,branca ,,REMUNERADA,,não,sim,112,58,129,196,82,160,Pré-obesidade,,ALTO RISCO
+73,branca ,,,,,sim,103,45,156,180,,160,,,ALTO RISCO
+33,amarela,casada,REMUNERADA,não,,,,,,,,110,,,BAIXO RISCO
+43,amarela,casada,REMUNERADA,não,,,"122,4",57,228,225,97,120,,,ALTO RISCO
+76,amarela,casada,NÃO REMUNERADA,não,,,,,,,,160,Obesidade,105,ALTO RISCO
+22,branca,casada,NÃO REMUNERADA,não,não,,132,54,127,212,,100,,,BAIXO RISCO
+24,branca,casada,REMUNERADA,não,,,86,43,81,145,81,100,,,BAIXO RISCO
+24,branca,casada,REMUNERADA,não,não,,,,,,,100,,,BAIXO RISCO
+24,branca,casada,REMUNERADA,não,,,86,51,85,154,,100,Normal,,BAIXO RISCO
+25,branca,casada,REMUNERADA,não,,,"102,1","47,3",43,158,,100,,,BAIXO RISCO
+25,branca,casada,NÃO REMUNERADA,não,,,,,,,,100,Normal,71,BAIXO RISCO
+25,branca,casada,REMUNERADA,não,,,,,,,,100,,,BAIXO RISCO
+25,branca,casada,NÃO REMUNERADA,não,não,,,,,,,110,,107,BAIXO RISCO
+26,branca,casada,REMUNERADA,não,não,,107,61,96,187,,110,Pré-obesidade,,BAIXO RISCO
+26,branca,casada,REMUNERADA,não,não,,,,,,94,110,,,BAIXO RISCO
+26,branca,casada,NÃO REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+27,branca,casada,REMUNERADA,não,,,"155,4",39,63,207,75,110,Normal,70,BAIXO RISCO
+27,branca,casada,REMUNERADA,não,,,,,,,,110,,,BAIXO RISCO
+27,branca,casada,REMUNERADA,não,,,,,,,,110,,,BAIXO RISCO
+27,branca,casada,REMUNERADA,não,,,68,38,175,141,132,110,,,BAIXO RISCO
+27,branca,casada,REMUNERADA,não,não,,"128,2","48,8",90,195,,110,,,BAIXO RISCO
+28,branca,casada,NÃO REMUNERADA,não,,,45,70,75,130,99,110,,108,RISCO INTERMEDIARIO
+28,branca,casada,REMUNERADA,não,,,"143,2",69,64,225,,110,,,RISCO INTERMEDIARIO
+28,branca,casada,REMUNERADA,não,,,,,,,,110,,,RISCO INTERMEDIARIO
+30,branca,casada,NÃO REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+30,branca,casada,REMUNERADA,não,não,,97,73,117,194,77,110,Pré-obesidade,,BAIXO RISCO
+30,branca,casada,REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+31,branca,casada,REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+31,branca,casada,REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+31,branca,casada,REMUNERADA,não,não,,87,44,50,141,,110,,,BAIXO RISCO
+32,branca,casada,REMUNERADA,não,não,,"116,8",56,96,192,92,110,,89,BAIXO RISCO
+32,branca,casada,NÃO REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,,,,,,,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,,,123,29,172,186,84,110,Pré-obesidade,85,BAIXO RISCO
+33,branca,casada,NÃO REMUNERADA,não,não,,106,51,109,,103,110,,,BAIXO RISCO
+33,branca,casada,NÃO REMUNERADA,não,,,37,87,56,136,89,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,não,,154,50,74,219,,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,não,,90,49,72,154,92,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,,,,,,,85,110,,,BAIXO RISCO
+33,branca,casada,REMUNERADA,não,,,,,,,,110,,,RISCO INTERMEDIARIO
+33,branca,casada,REMUNERADA,não,,,,,,,,110,,,RISCO INTERMEDIARIO
+33,branca,casada,NÃO REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+34,branca,casada,REMUNERADA,não,,,158,43,125,221,104,110,Pré-obesidade,91,RISCO INTERMEDIARIO
+34,branca,casada,REMUNERADA,não,,,132,48,69,194,118,110,,,RISCO INTERMEDIARIO
+35,branca,casada,REMUNERADA,não,,,113,31,381,220,,110,,,RISCO INTERMEDIARIO
+35,branca,casada,REMUNERADA,não,,,"98,4",56,88,172,93,110,Obesidade,89,RISCO INTERMEDIARIO
+35,branca,casada,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+36,branca,casada,REMUNERADA,não,,,"95,2",46,99,161,95,120,,,RISCO INTERMEDIARIO
+36,branca,casada,REMUNERADA,não,sim,,"74,1","53,3",133,154,,120,,,RISCO INTERMEDIARIO
+36,branca,casada,REMUNERADA,não,,,60,100,188,128,,120,,,ALTO RISCO
+36,branca,casada,REMUNERADA,não,não,,,,,,,120,Normal,79,BAIXO RISCO
+36,branca,casada,REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,não,não,,106,49,40,163,,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+37,branca,casada,NÃO REMUNERADA,não,,,73,47,95,138,95,120,,,ALTO RISCO
+38,branca,casada,REMUNERADA,não,,,"189,4",64,98,273,86,120,,,BAIXO RISCO
+38,branca,casada,REMUNERADA,não,não,,"83,2",52,144,164,,120,,,BAIXO RISCO
+38,branca,casada,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+38,branca,casada,REMUNERADA,não,não,,"99,4",62,1432*,190,95,120,,89,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,não,,140,80,95,239,89,120,Pré-obesidade,85,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,,,92,60,120,176,76,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,,,"112,2",49,79,177,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,,,"140,8",37,176,213,100,120,Obesidade,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,não,,130,49,47,189,93,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,não,não,,134,44,115,201,,120,,,BAIXO RISCO
+40,branca,casada,NÃO REMUNERADA,não,não,,,,,,89,120,,,BAIXO RISCO
+40,branca,casada,REMUNERADA,não,não,,50,53,220,147,98,120,,97,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,não,não,,120,50,132,197,95,120,,,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,não,,,110,55,76,180,,120,,,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,não,não,,141,33,111,197,87,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,,,,,,,,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,,,,,,,,120,Obesidade,,RISCO INTERMEDIARIO
+41,branca,casada,NÃO REMUNERADA,não,,,107,62,52,179,,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,,,"110,6",67,162,210,99,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,não,,149,47,128,222,87,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,não,,,90,42,69,146,78,120,,,RISCO INTERMEDIARIO
+42,branca,casada,REMUNERADA,não,não,,"168,2",28,134,223,167,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,não,,,82,91,110,195,80,120,Baixo peso,,ALTO RISCO
+42,branca,casada,REMUNERADA,não,,,"93,4",58,183,188,,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,não,,,,51,162,211,,120,Pré-obesidade,99,ALTO RISCO
+42,branca,casada,NÃO REMUNERADA,não,não,,"129,4",67,168,230,94,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,não,,,125,45,148,200,109,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,não,,,143,45,253,239,,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,não,,,149,42,272,245,98,120,Obesidade,95,ALTO RISCO
+43,branca,casada,NÃO REMUNERADA,não,,,"168,2",47,104,236,,120,,,ALTO RISCO
+43,branca,casada,NÃO REMUNERADA,não,,,94,21,348,185,148,120,,,ALTO RISCO
+43,branca,casada,REMUNERADA,não,,,89,58,245,196,142,120,,,RISCO INTERMEDIARIO
+43,branca,casada,REMUNERADA,não,não,,,64,200,227,104,120,,,RISCO INTERMEDIARIO
+43,branca,casada,NÃO REMUNERADA,não,,,,,,,,120,Pré-obesidade,,ALTO RISCO
+43,branca,casada,REMUNERADA,não,não,,"82,4",47,118,153,76,120,Normal,,BAIXO RISCO
+43,branca,casada,REMUNERADA,não,não,,,,,,,120,,66,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+44,branca,casada,REMUNERADA,não,,,"95,4",60,78,171,165,120,Normal,74,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,não,,,84,61,53,156,,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,,,"121,8","59,2",70,195,82,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,não,,,"81,8",66,161,180,92,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,não,não,,"62,6",35,117,121,87,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,não,,,,,,,,120,,84,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,não,não,,,"56,2",57,158,,120,,,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,não,,131,68,168,233,,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,,,,,,,145,120,,77,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,não,,134,64,117,223,96,120,Pré-obesidade,,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,não,,,133,65,70,212,,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,não,,128,61,145,218,92,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+48,branca,casada,REMUNERADA,não,,,143,51,183,231,77,120,,,BAIXO RISCO
+48,branca,casada,NÃO REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+48,branca,casada,REMUNERADA,não,não,,"145,8",50,91,214,101,120,,,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,não,não,,,,,,,120,,,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,não,não,,,,,,,120,,,RISCO INTERMEDIARIO
+48,branca,casada,REMUNERADA,não,,,,,,,,120,,,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,não,não,,"98,8",63,76,177,92,120,Pré-obesidade,85,RISCO INTERMEDIARIO
+48,branca,casada,REMUNERADA,não,,,"48,6",51,87,117,88,120,Pré-obesidade,,RISCO INTERMEDIARIO
+48,branca,casada,REMUNERADA,não,,,,38,40,127,,120,,,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,não,não,,,,,,,120,,,RISCO INTERMEDIARIO
+49,branca,casada,REMUNERADA,não,,,,,,,,120,,,RISCO INTERMEDIARIO
+49,branca,casada,REMUNERADA,não,,,"131,2",36,219,211,113,120,Obesidade,108,RISCO INTERMEDIARIO
+49,branca,casada,NÃO REMUNERADA,não,não,,"152,2",82,54,245,101,120,,,RISCO INTERMEDIARIO
+49,branca,casada,REMUNERADA,não,não,,,,,,,120,,,RISCO INTERMEDIARIO
+49,branca,casada,REMUNERADA,não,,,77,90,110,189,92,120,Obesidade,105,RISCO INTERMEDIARIO
+49,branca,casada,REMUNERADA,não,,,"111,6",61,227,218,,120,,,RISCO INTERMEDIARIO
+49,branca,casada,NÃO REMUNERADA,não,não,,"112,8",104,56,228,107,120,Pré-obesidade,75,ALTO RISCO
+49,branca,casada,NÃO REMUNERADA,não,não,,174,51,66,238,85,120,,,ALTO RISCO
+49,branca,casada,REMUNERADA,não,,,171,50,217,264,,120,,,ALTO RISCO
+49,branca,casada,REMUNERADA,não,,,"207,8",42,86,266,94,120,,,ALTO RISCO
+49,branca,casada,NÃO REMUNERADA,não,,,"104,9","46,3",349,221,117,120,,,ALTO RISCO
+49,branca,casada,REMUNERADA,não,,,"210,6",37,212,290,95,120,,,ALTO RISCO
+49,branca,casada,REMUNERADA,não,,,189,46,335,302,94,120,,,ALTO RISCO
+50,branca,casada,REMUNERADA,não,não,,70,64,120,158,77,121,,,BAIXO RISCO
+50,branca,casada,,não,,,,,,,,130,,,RISCO INTERMEDIARIO
+50,branca,casada,REMUNERADA,não,não,,45,53,140,126,172,130,Obesidade,109,ALTO RISCO
+50,branca,casada,NÃO REMUNERADA,não,,,"106,4",34,153,172,97,130,,,ALTO RISCO
+50,branca,casada,NÃO REMUNERADA,não,não,,,,102,192,85,130,,,BAIXO RISCO
+50,branca,casada,REMUNERADA,não,não,,76,63,43,148,87,130,,,BAIXO RISCO
+51,branca,casada,REMUNERADA,não,não,,131,46,180,213,,130,,,BAIXO RISCO
+51,branca,casada,REMUNERADA,não,,,,,,,,130,,,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,não,não,,93,60,73,168,81,130,Normal,80,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,não,,,"65,8",56,71,136,90,130,Normal,86,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,não,não,,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,,,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,não,,"60,8",63,351,194,92,130,Obesidade,101,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,não,,,,,,,130,,103,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,não,,123,37,97,180,80,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,,,123,50,77,188,97,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,não,,,43,45,149,93,130,Obesidade,99,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,não,,,,"60,9",75,171,85,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,,,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,não,,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,não,,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,não,,,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,não,,,"85,8",79,71,179,97,130,Normal,74,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,não,,,,,,,,130,,,ALTO RISCO
+53,branca,casada,REMUNERADA,não,,,94,46,134,167,177,130,,,ALTO RISCO
+53,branca,casada,REMUNERADA,não,não,,,,,,138,130,,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,não,não,,115,38,111,176,100,130,,,ALTO RISCO
+53,branca,casada,REMUNERADA,não,,,,,,,,130,,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,não,,,"95,6",44,172,174,117,130,Normal,,ALTO RISCO
+53,branca,casada,REMUNERADA,não,não,,158,72,100,250,117,130,,,ALTO RISCO
+54,branca,casada,REMUNERADA,não,,,"141,2",50,94,210,97,130,Normal,,ALTO RISCO
+54,branca,casada,REMUNERADA,não,,,"64,8",35,136,127,156,130,Pré-obesidade,,ALTO RISCO
+54,branca,casada,REMUNERADA,não,,,"128,6",32,112,183,89,130,,,ALTO RISCO
+54,branca,casada,NÃO REMUNERADA,não,,,"165,5",40,"106,5",227,"90,3",130,,,ALTO RISCO
+54,branca,casada,NÃO REMUNERADA,não,,,,,,,,130,Obesidade,100,ALTO RISCO
+54,branca,casada,REMUNERADA,não,não,,"51,4",35,178,122,238,130,Obesidade,,ALTO RISCO
+54,branca,casada,REMUNERADA,não,,,89,56,121,170,90,130,,,ALTO RISCO
+54,branca,casada,REMUNERADA,não,,,85,81,85,183,,130,,,ALTO RISCO
+54,branca,casada,REMUNERADA,não,não,,"105,8",28,211,176,169,130,,,ALTO RISCO
+55,branca,casada,REMUNERADA,não,,,"226,6",51,267,331,168,130,,,ALTO RISCO
+55,branca,casada,REMUNERADA,não,não,,"50,5","69,8",64,133,75,130,,,BAIXO RISCO
+55,branca,casada,REMUNERADA,não,,,,,,,,130,,,BAIXO RISCO
+55,branca,casada,REMUNERADA,não,,,"140,2",60,154,231,,130,,,BAIXO RISCO
+55,branca,casada,REMUNERADA,não,,,,45,123,156,,130,,,RISCO INTERMEDIARIO
+55,branca,casada,NÃO REMUNERADA,não,,,113,50,75,178,,130,,,RISCO INTERMEDIARIO
+56,branca,casada,REMUNERADA,não,,,"79,4",45,58,136,88,130,,,RISCO INTERMEDIARIO
+56,branca,casada,REMUNERADA,não,,,"117,8",82,71,214,87,130,,87,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,não,,,"131,5","64,8",117,220,98,130,,,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,não,,,122,"131,5",56,265,91,130,Pré-obesidade,85,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,não,,,129,34,233,210,191,130,Obesidade,98,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,não,não,,"93,8",57,111,173,,130,,,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,não,,,106,54,242,209,94,130,,,ALTO RISCO
+56,branca,casada,REMUNERADA,não,,,150,43,251,243,84,130,Pré-obesidade,95,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,não,não,,"73,9","83,3",84,174,,130,,75,BAIXO RISCO
+56,branca,casada,NÃO REMUNERADA,não,,,109,48,80,173,98,130,,,RISCO INTERMEDIARIO
+57,branca,casada,NÃO REMUNERADA,não,,,159,48,130,233,88,130,,,RISCO INTERMEDIARIO
+57,branca,casada,REMUNERADA,não,,,111,40,102,172,101,130,,,RISCO INTERMEDIARIO
+57,branca,casada,REMUNERADA,não,não,,"147,6",76,82,240,92,130,Obesidade,94,ALTO RISCO
+57,branca,casada,NÃO REMUNERADA,não,não,,"107,6",38,197,185,205,130,,,ALTO RISCO
+57,branca,casada,REMUNERADA,não,não,,,,,,,136,,,ALTO RISCO
+57,branca,casada,NÃO REMUNERADA,não,não,,,62,89,178,,140,,,BAIXO RISCO
+58,branca,casada,NÃO REMUNERADA,não,,,,,,,,140,,,RISCO INTERMEDIARIO
+58,branca,casada,NÃO REMUNERADA,não,,,,37,163,138,92,140,,,RISCO INTERMEDIARIO
+58,branca,casada,NÃO REMUNERADA,não,,,88,64,100,172,84,140,,,RISCO INTERMEDIARIO
+58,branca,casada,NÃO REMUNERADA,não,,,,,63,124,,140,,100,RISCO INTERMEDIARIO
+58,branca,casada,NÃO REMUNERADA,não,,,"88,6",43,232,176,95,140,,,ALTO RISCO
+59,branca,casada,REMUNERADA,não,,,170,54,142,252,95,140,,86,RISCO INTERMEDIARIO
+59,branca,casada,REMUNERADA,não,não,,,,,,,140,,,RISCO INTERMEDIARIO
+60,branca,casada,NÃO REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,não,,,,,,,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+60,branca,casada,REMUNERADA,não,,,,51,118,153,,140,,,ALTO RISCO
+60,branca,casada,REMUNERADA,não,,,"120,4",42,223,207,112,140,Obesidade,104,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,não,,119,50,86,187,96,140,Obesidade,105,ALTO RISCO
+60,branca,casada,REMUNERADA,não,,,,,,,128,140,Obesidade,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,não,,86,46,116,156,90,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,não,,"54,8",62,116,140,,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,não,não,,73,91,60,176,75,140,Normal,80,ALTO RISCO
+60,branca,casada,REMUNERADA,não,,,"127,8",41,101,189,146,140,,,ALTO RISCO
+60,branca,casada,REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,não,,,234,46,120,304,104,140,,,ALTO RISCO
+61,branca,casada,REMUNERADA,não,,,"32,8",47,151,110,,140,,,ALTO RISCO
+61,branca,casada,REMUNERADA,não,não,,"178,8",37,121,240,,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,não,,,182,47,110,251,102,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,não,,,"88,2",41,49,139,82,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,não,,,"97,4",38,128,161,,140,Obesidade,100,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,não,,,,,,125,122,140,,,ALTO RISCO
+61,branca,casada,REMUNERADA,não,,,,,,,,140,,,RISCO INTERMEDIARIO
+61,branca,casada,REMUNERADA,não,não,,67,36,113,126,85,140,,,RISCO INTERMEDIARIO
+61,branca,casada,REMUNERADA,não,não,,73,51,99,144,105,140,,,RISCO INTERMEDIARIO
+62,branca,casada,REMUNERADA,não,não,,,,,,108,140,,,ALTO RISCO
+62,branca,casada,REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+62,branca,casada,NÃO REMUNERADA,não,não,,,,,,,140,,,ALTO RISCO
+62,branca,casada,REMUNERADA,não,não,,"149,4",51,113,223,175,140,Obesidade,101,ALTO RISCO
+62,branca,casada,NÃO REMUNERADA,não,,,"95,1","55,7",56,162,,140,,,ALTO RISCO
+62,branca,casada,NÃO REMUNERADA,não,,,,47,139,193,113,140,,,ALTO RISCO
+62,branca,casada,REMUNERADA,não,não,,,52,63,182,,140,,,BAIXO RISCO
+62,branca,casada,REMUNERADA,não,não,,,,,,,140,,,BAIXO RISCO
+63,branca,casada,NÃO REMUNERADA,não,não,,,,,,,140,,,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,não,,,,,,,,140,,,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,não,,,80,53,88,151,98,140,,,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,não,não,,"197,4",50,88,265,,140,,,RISCO INTERMEDIARIO
+63,branca,casada,REMUNERADA,não,,,145,50,102,216,93,140,,,ALTO RISCO
+63,branca,casada,NÃO REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,,59,51,168,144,88,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,,"97,8",42,161,172,93,140,Pré-obesidade,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,,"145,2",41,234,233,117,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,,125,34,125,184,91,140,,,ALTO RISCO
+64,branca,casada,REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,,"77,5",30,371,182,187,140,,93,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,não,,,,,,,,140,Pré-obesidade,90,RISCO INTERMEDIARIO
+64,branca,casada,NÃO REMUNERADA,não,,,94,38,192,170,93,140,,,RISCO INTERMEDIARIO
+65,branca,casada,NÃO REMUNERADA,não,não,,56,59,70,129,82,150,,,RISCO INTERMEDIARIO
+65,branca,casada,REMUNERADA,não,não,,"197,8",48,66,259,87,150,Normal,79,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,não,,,"152,4",28,138,218,107,150,,,ALTO RISCO
+66,branca,casada,REMUNERADA,não,,,"106,8",84,71,205,,150,,,BAIXO RISCO
+66,branca,casada,NÃO REMUNERADA,não,,,,,,,,150,,,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,não,,,131,62,81,210,99,150,,,ALTO RISCO
+67,branca,casada,REMUNERADA,não,,,"87,4",72,323,224,97,150,Obesidade,95,ALTO RISCO
+67,branca,casada,REMUNERADA,não,não,,"146,6",46,122,217,,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,não,não,,"118,4",49,168,201,93,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,não,não,,143,79,90,242,92,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,não,,,,,550,192,275,150,,,ALTO RISCO
+67,branca,casada,REMUNERADA,não,,,"75,2",46,95,140,178,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,não,não,,,,,,,150,,,RISCO INTERMEDIARIO
+67,branca,casada,REMUNERADA,não,,,"136,8",70,51,217,,150,,,RISCO INTERMEDIARIO
+68,branca,casada,NÃO REMUNERADA,não,não,,"123,2",60,89,201,94,150,,,RISCO INTERMEDIARIO
+68,branca,casada,REMUNERADA,não,não,,132,68,80,216,90,150,Pré-obesidade,77,ALTO RISCO
+68,branca,casada,NÃO REMUNERADA,não,,,,,,,,150,,,ALTO RISCO
+68,branca,casada,REMUNERADA,não,não,,,,93,166,,150,Normal,87,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,não,não,,101,44,130,171,111,150,Pré-obesidade,94,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,não,,,87,78,,194,,150,,,ALTO RISCO
+69,branca,casada,REMUNERADA,não,,,109,46,257,206,107,150,Pré-obesidade,87,ALTO RISCO
+69,branca,casada,REMUNERADA,não,,,222,71,80,309,73,150,,,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,não,,,221,28,200,298,112,150,,,ALTO RISCO
+69,branca,casada,REMUNERADA,não,,,"118,4",34,143,181,80,150,,,ALTO RISCO
+70,branca,casada,REMUNERADA,não,,,"113,4",41,98,174,108,160,Pré-obesidade,87,RISCO INTERMEDIARIO
+70,branca,casada,REMUNERADA,não,,,,,,,,160,,94,ALTO RISCO
+71,branca,casada,NÃO REMUNERADA,não,não,,132,37,237,217,112,160,,,ALTO RISCO
+71,branca,casada,REMUNERADA,não,,,"64,8",62,116,150,,160,,86,ALTO RISCO
+71,branca,casada,NÃO REMUNERADA,não,,,149,67,149,246,113,160,,,ALTO RISCO
+71,branca,casada,REMUNERADA,não,,,"90,6",38,102,149,,160,,,ALTO RISCO
+72,branca,casada,REMUNERADA,não,,,177,31,160,240,,160,,,ALTO RISCO
+72,branca,casada,REMUNERADA,não,,,"114,2","50,6",111,187,108,160,Normal,81,ALTO RISCO
+72,branca,casada,REMUNERADA,não,,,"122,2",59,74,196,,160,,,ALTO RISCO
+72,branca,casada,REMUNERADA,não,,,,,,,,160,,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,não,,,203,53,90,274,130,160,Obesidade,,ALTO RISCO
+73,branca,casada,REMUNERADA,não,não,,,,,,,160,,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,não,,,"86,8",28,211,157,179,160,,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,não,,,"101,4",40,118,165,124,160,,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,não,,,124,32,122,181,92,160,,,ALTO RISCO
+73,branca,casada,REMUNERADA,não,,,"88,6",74,92,181,114,160,Pré-obesidade,,ALTO RISCO
+74,branca,casada,REMUNERADA,não,,,"64,2",45,199,149,76,160,,,ALTO RISCO
+74,branca,casada,REMUNERADA,não,,,"93,3",62,102,176,78,160,,,ALTO RISCO
+74,branca,casada,NÃO REMUNERADA,não,,,98,36,230,180,207,160,Obesidade,103,ALTO RISCO
+74,branca,casada,NÃO REMUNERADA,não,,,35,92,146,157,151,160,,,ALTO RISCO
+74,branca,casada,REMUNERADA,não,,,35,92,146,157,151,160,,,ALTO RISCO
+74,branca,casada,NÃO REMUNERADA,não,,,130,51,171,215,94,160,Obesidade,100,ALTO RISCO
+74,branca,casada,REMUNERADA,não,,,"51,2",47,59,110,108,160,Pré-obesidade,95,ALTO RISCO
+74,branca,casada,REMUNERADA,não,não,,"185,8",38,262,277,,160,,,ALTO RISCO
+74,branca,casada,REMUNERADA,não,,,169,33,428,233,202,160,,,ALTO RISCO
+75,branca,casada,REMUNERADA,não,não,,,26,107,164,80,160,,90,RISCO INTERMEDIARIO
+75,branca,casada,REMUNERADA,não,,,"74,2",42,134,143,,160,Pré-obesidade,,ALTO RISCO
+75,branca,casada,NÃO REMUNERADA,não,não,,,,,,,160,,,ALTO RISCO
+76,branca,casada,REMUNERADA,não,,,,,,,,160,,,ALTO RISCO
+76,branca,casada,NÃO REMUNERADA,não,,,"120,8",39,141,188,,160,,,ALTO RISCO
+76,branca,casada,NÃO REMUNERADA,não,não,,102,53,111,178,92,160,,,ALTO RISCO
+76,branca,casada,REMUNERADA,não,,,"179,8",57,71,251,103,160,,,ALTO RISCO
+78,branca,casada,REMUNERADA,não,não,,,,,,,160,,,ALTO RISCO
+78,branca,casada,NÃO REMUNERADA,não,não,,"144,8",69,61,226,88,170,,,ALTO RISCO
+79,branca,casada,REMUNERADA,não,,,"95,6",58,67,167,78,170,,,ALTO RISCO
+79,branca,casada,REMUNERADA,não,não,,,,,,,170,,,ALTO RISCO
+80,branca,casada,REMUNERADA,não,,,"141,4",68,183,246,119,180,,,ALTO RISCO
+80,branca,casada,REMUNERADA,não,não,,,,,,,180,,,ALTO RISCO
+80,branca,casada,REMUNERADA,não,não,,"96,8",40,246,186,,180,,,ALTO RISCO
+84,branca,casada,NÃO REMUNERADA,não,,,"75,6",36,182,148,106k*,180,,,ALTO RISCO
+85,branca,casada,REMUNERADA,não,,,"150,8",37,111,210,112,200,,,ALTO RISCO
+85,branca,casada,REMUNERADA,não,,,"102,2",60,79,178,92,200,,107,ALTO RISCO
+91,branca,casada,REMUNERADA,não,,,,,,,,,,,BAIXO RISCO
+20,branca ,casada,REMUNERADA,não,,,"167,2",42,139,237,,100,,,RISCO INTERMEDIARIO
+39,branca ,casada,REMUNERADA,não,não,,"85,4",37,88,140,91,120,,,BAIXO RISCO
+42,branca ,casada,NÃO REMUNERADA,não,,,56,45,54,112,98,120,Obesidade,88,ALTO RISCO
+48,branca ,casada,NÃO REMUNERADA,não,,,"92,8",41,86,151,76,120,,,BAIXO RISCO
+49,branca ,casada,NÃO REMUNERADA,não,,,"126,8",43,161,202,96,120,,,ALTO RISCO
+56,branca ,casada,NÃO REMUNERADA,não,,,111,51,91,180,88,130,Pré-obesidade,,ALTO RISCO
+57,branca ,casada,NÃO REMUNERADA,não,,,98,47,135,,,130,,,BAIXO RISCO
+57,branca ,casada,REMUNERADA,não,não,,,51,308,298,106,135,Pré-obesidade,90,ALTO RISCO
+58,branca ,casada,REMUNERADA,não,,,,,,,,140,,,RISCO INTERMEDIARIO
+60,branca ,casada,NÃO REMUNERADA,não,,,,,,,,140,Pré-obesidade,95,ALTO RISCO
+67,branca ,casada,REMUNERADA,não,,,"146,6",30,207,218,,150,,,ALTO RISCO
+72,branca ,casada,NÃO REMUNERADA,não,não,,38,41,186,117,119,160,,,ALTO RISCO
+73,branca ,casada,NÃO REMUNERADA,não,não,,"26,2",53,254,130,96,160,,,ALTO RISCO
+75,branca ,casada,NÃO REMUNERADA,não,,,"139,4",48,163,220,119,160,,,RISCO INTERMEDIARIO
+78,branca ,casada,NÃO REMUNERADA,não,não,,,,,,,160,,93,ALTO RISCO
+78,branca ,casada,NÃO REMUNERADA,não,,,,,,,,160,,104,ALTO RISCO
+46,negra,casada,REMUNERADA,não,não,,"62,8",43,61,118,,120,,,BAIXO RISCO
+54,negra,casada,REMUNERADA,não,,,87,61,166,182,224,130,,,ALTO RISCO
+63,negra,casada,NÃO REMUNERADA,não,,,"80,6",35,67,129,,140,,,RISCO INTERMEDIARIO
+79,negra,casada,REMUNERADA,não,,,113,74,167,221,115,170,,109,ALTO RISCO
+25,parda,casada,REMUNERADA,não,não,,,"71,2","307,21",229,,110,,,BAIXO RISCO
+30,parda,casada,REMUNERADA,não,não,,114,54,134,195,,110,,,BAIXO RISCO
+51,parda,casada,NÃO REMUNERADA,não,,,68,56,69,138,98,130,,105,RISCO INTERMEDIARIO
+54,parda,casada,REMUNERADA,não,,,124,62,109,209,82,130,Baixo peso,,ALTO RISCO
+54,parda,casada,NÃO REMUNERADA,não,,,,41,174,157,,130,,,ALTO RISCO
+35,,casada,REMUNERADA,não,,,,,,,,110,,101,RISCO INTERMEDIARIO
+41,,casada,,não,,,"113,2","50,6",251,214,115,120,Obesidade,,RISCO INTERMEDIARIO
+25,branca,casada,REMUNERADA,sim,,,"72,6",28,112,123,77,110,,,RISCO INTERMEDIARIO
+33,branca,casada,REMUNERADA,sim,não,,115,30,114,168,,110,,,RISCO INTERMEDIARIO
+35,branca,casada,REMUNERADA,sim,,,,,,,,110,,,BAIXO RISCO
+36,branca,casada,REMUNERADA,sim,,,"98,7","50,7",138,177,95,120,,,ALTO RISCO
+36,branca,casada,REMUNERADA,sim,,,,,,,,120,,,ALTO RISCO
+37,branca,casada,REMUNERADA,sim,,,"76,9",39,59,128,87,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,sim,não,,,,,,,120,,,BAIXO RISCO
+41,branca,casada,REMUNERADA,sim,,,"135,6",56,142,220,90,120,Obesidade,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,sim,,,"94,9",37,113,155,146,120,Obesidade,99,ALTO RISCO
+43,branca,casada,NÃO REMUNERADA,sim,,,,31,467,311,100,120,,,ALTO RISCO
+43,branca,casada,REMUNERADA,sim,,,"90,2",48,154,169,347,120,,,ALTO RISCO
+44,branca,casada,REMUNERADA,sim,não,,71,58,87,148,80,120,,,BAIXO RISCO
+46,branca,casada,NÃO REMUNERADA,sim,,,75,67,66,155,70,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,sim,,,,,,,,120,,,BAIXO RISCO
+49,branca,casada,NÃO REMUNERADA,sim,não,,"96,1",34,202,171,,120,,,ALTO RISCO
+52,branca,casada,REMUNERADA,sim,,,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,sim,não,,,,,,,130,,,RISCO INTERMEDIARIO
+53,branca,casada,NÃO REMUNERADA,sim,,,"92,4",62,138,182,111,130,,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,sim,,,62,40,165,135,91,130,Pré-obesidade,89,ALTO RISCO
+55,branca,casada,REMUNERADA,sim,não,,,,,,,130,,,BAIXO RISCO
+55,branca,casada,REMUNERADA,sim,,,99,56,95,174,99,130,,,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,sim,não,,110,63,78,189,76,130,,,RISCO INTERMEDIARIO
+56,branca,casada,NÃO REMUNERADA,sim,,,170,34,232,251,98,130,Obesidade,,ALTO RISCO
+58,branca,casada,NÃO REMUNERADA,sim,não,,"97,5",45,292,201,,140,,,ALTO RISCO
+59,branca,casada,NÃO REMUNERADA,sim,não,,,,,,,140,,,RISCO INTERMEDIARIO
+60,branca,casada,NÃO REMUNERADA,sim,não,,121,38,115,182,101,140,,,ALTO RISCO
+62,branca,casada,NÃO REMUNERADA,sim,,,"100,8",49,176,185,95,140,Obesidade,,ALTO RISCO
+62,branca,casada,NÃO REMUNERADA,sim,,,"108,6",61,92,188,92,140,,,ALTO RISCO
+63,branca,casada,REMUNERADA,sim,não,,"126,8",51,151,208,,140,,,ALTO RISCO
+65,branca,casada,NÃO REMUNERADA,sim,não,,"142,2",56,149,228,101,150,,,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,sim,,,,,,,,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,sim,,,"151,3","46,2",243,246,,150,,,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,sim,,,,,,,,160,,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,sim,,,"125,4",72,78,213,104,160,,,ALTO RISCO
+74,branca,casada,REMUNERADA,sim,não,,"51,8",25,206,118,128,160,Pré-obesidade,90,ALTO RISCO
+79,branca,casada,REMUNERADA,sim,,,111,61,99,192,144,170,,,ALTO RISCO
+42,branca ,casada,NÃO REMUNERADA,sim,,,"139,1",35,356,246,98,120,,,ALTO RISCO
+81,branca ,casada,REMUNERADA,sim,,,"140,3",49,184,226,80,180,Pré-obesidade,85,ALTO RISCO
+75,amarela,casada,REMUNERADA,,não,,,,,,,160,,,ALTO RISCO
+23,branca,casada,NÃO REMUNERADA,,,,92,74,157,197,82,100,Pré-obesidade,80,BAIXO RISCO
+25,branca,casada,REMUNERADA,,,,"133,8",71,111,227,96,100,,,RISCO INTERMEDIARIO
+27,branca,casada,REMUNERADA,,,,,,498,227,,110,,,BAIXO RISCO
+29,branca,casada,REMUNERADA,,,,"180,6",53,147,263,,110,,,RISCO INTERMEDIARIO
+32,branca,casada,REMUNERADA,,,,196,63,384,336,88,110,,75,BAIXO RISCO
+32,branca,casada,REMUNERADA,,não,,,,,,,110,,,BAIXO RISCO
+33,branca,casada,NÃO REMUNERADA,,,,,,,,,110,,,BAIXO RISCO
+34,branca,casada,NÃO REMUNERADA,,não,,"111,8",45,76,172,89,110,,,BAIXO RISCO
+34,branca,casada,REMUNERADA,,,,,,,,,110,,80,BAIXO RISCO
+34,branca,casada,REMUNERADA,,,,,,,,,110,,,RISCO INTERMEDIARIO
+34,branca,casada,REMUNERADA,,não,,,,,,,110,,,BAIXO RISCO
+34,branca,casada,REMUNERADA,,,,,,,,,110,,,BAIXO RISCO
+35,branca,casada,NÃO REMUNERADA,,não,,,,,,,110,Obesidade,94,RISCO INTERMEDIARIO
+35,branca,casada,REMUNERADA,,não,,62,47,116,132,,120,,,BAIXO RISCO
+36,branca,casada,REMUNERADA,,não,,,,,,,120,,,RISCO INTERMEDIARIO
+36,branca,casada,REMUNERADA,,,,210,52,142,291,99,120,,,ALTO RISCO
+36,branca,casada,REMUNERADA,,não,,,,,,,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,,não,,96,46,44,151,68,120,,,BAIXO RISCO
+37,branca,casada,REMUNERADA,,,,"162,8",54,161,249,88,120,Pré-obesidade,85,ALTO RISCO
+38,branca,casada,NÃO REMUNERADA,,não,,"87,4",50,58,151,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,,não,,,,,,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,,,,"122,2",43,84,182,,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,,não,,"100,6",41,277,197,107,120,,,BAIXO RISCO
+39,branca,casada,REMUNERADA,,,,"63,8",46,266,163,102,120,,86,BAIXO RISCO
+40,branca,casada,REMUNERADA,,,,"110,2","68,4",57,190,,120,Pré-obesidade,88,BAIXO RISCO
+40,branca,casada,NÃO REMUNERADA,,não,,,,69,176,,120,Obesidade,107,BAIXO RISCO
+40,branca,casada,REMUNERADA,,,,"119,2",50,109,191,,120,,,BAIXO RISCO
+40,branca,casada,NÃO REMUNERADA,,não,,113,58,99,191,,120,,,RISCO INTERMEDIARIO
+40,branca,casada,REMUNERADA,,,,"137,4",30,131,194,89,120,,,RISCO INTERMEDIARIO
+41,branca,casada,NÃO REMUNERADA,,,,88,51,80,154,98,120,,,RISCO INTERMEDIARIO
+41,branca,casada,NÃO REMUNERADA,,,,"97,4",38,103,156,,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,,,,66,90,93,175,,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,,,,"208,4",51,128,285,110,120,,,RISCO INTERMEDIARIO
+41,branca,casada,REMUNERADA,,não,,134,"50,4",203,225,96,120,Obesidade,,ALTO RISCO
+41,branca,casada,REMUNERADA,,,,"115,9","46,7",212,205,108,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,,,,"106,6",47,97,173,97,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,,,,,,141,167,,120,,,ALTO RISCO
+42,branca,casada,REMUNERADA,,,,"139,2",49,79,204,98,120,,,ALTO RISCO
+44,branca,casada,NÃO REMUNERADA,,,,,,,,,120,,,BAIXO RISCO
+44,branca,casada,NÃO REMUNERADA,,não,,,,,,,120,,80,BAIXO RISCO
+45,branca,casada,REMUNERADA,,,,"85,8",54,131,166,,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,,,,,,,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,,,,,51,78,160,82,120,,,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,,,,,,,120,,99,BAIXO RISCO
+45,branca,casada,REMUNERADA,,não,,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,,não,,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,,não,,,,,,,120,,,BAIXO RISCO
+46,branca,casada,REMUNERADA,,não,,,,,,,120,,,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,,não,,"132,6",39,192,210,97,120,,,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,,não,,,,,,,120,,,BAIXO RISCO
+47,branca,casada,REMUNERADA,,,,,,,,,120,,,BAIXO RISCO
+47,branca,casada,NÃO REMUNERADA,,,,,,,,,120,,,BAIXO RISCO
+48,branca,casada,REMUNERADA,,,,,,,,,120,,,BAIXO RISCO
+48,branca,casada,REMUNERADA,,,,"97,8",56,141,182,78,120,Normal,78,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,,,,,,,,,120,,,RISCO INTERMEDIARIO
+48,branca,casada,NÃO REMUNERADA,,não,,,,,,,120,,,RISCO INTERMEDIARIO
+49,branca,casada,REMUNERADA,,não,,94,55,134,176,90,120,,,RISCO INTERMEDIARIO
+49,branca,casada,NÃO REMUNERADA,,não,,137,57,58,206,77,120,,,RISCO INTERMEDIARIO
+49,branca,casada,NÃO REMUNERADA,,,,"171,8",62,136,261,91,120,,,RISCO INTERMEDIARIO
+50,branca,casada,REMUNERADA,,,,"113,8",51,71,179,,120,,,RISCO INTERMEDIARIO
+50,branca,casada,NÃO REMUNERADA,,não,,"113,5",74,152,128,82,120,,,RISCO INTERMEDIARIO
+50,branca,casada,REMUNERADA,,,,"95,6",41,112,159,101,130,,,RISCO INTERMEDIARIO
+50,branca,casada,REMUNERADA,,,,"73,8",38,176,147,125,130,,,ALTO RISCO
+50,branca,casada,REMUNERADA,,,,,,,,,130,,,BAIXO RISCO
+50,branca,casada,REMUNERADA,,,,,,,,,130,,,BAIXO RISCO
+50,branca,casada,REMUNERADA,,,,,,,,,130,,,BAIXO RISCO
+51,branca,casada,REMUNERADA,,,,,,,,,130,Pré-obesidade,91,BAIXO RISCO
+51,branca,casada,NÃO REMUNERADA,,,,74,50,146,154,,130,,,BAIXO RISCO
+51,branca,casada,REMUNERADA,,,,,,,,,130,,,BAIXO RISCO
+51,branca,casada,NÃO REMUNERADA,,,,,,,,,130,,,RISCO INTERMEDIARIO
+51,branca,casada,NÃO REMUNERADA,,,,"114,4","52,4",136,194,,130,Normal,80,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,,não,,,,,,,130,,,RISCO INTERMEDIARIO
+51,branca,casada,REMUNERADA,,,,"122,4",63,68,199,84,130,,94,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,,não,,145,65,75,225,94,130,,,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,,não,,95,89,55,195,94,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,,,,145,57,142,231,92,130,,100,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,,,,,,,,,130,,,RISCO INTERMEDIARIO
+52,branca,casada,REMUNERADA,,,,"103,6",55,87,176,79,130,,,RISCO INTERMEDIARIO
+52,branca,casada,NÃO REMUNERADA,,,,"113,4",42,178,191,85,130,Obesidade,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,,não,,"136,2",46,154,213,96,130,Obesidade,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,,,,155,43,67,212,96,130,Pré-obesidade,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,,não,,"109,8",47,116,180,104,130,,,ALTO RISCO
+53,branca,casada,REMUNERADA,,,,153,39,178,228,109,130,,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,,,,150,"59,3",70,224,76,130,,,ALTO RISCO
+53,branca,casada,NÃO REMUNERADA,,não,,"131,2",25,254,207,103,130,,,ALTO RISCO
+54,branca,casada,REMUNERADA,,,,79,43,125,147,125,130,Obesidade,115,ALTO RISCO
+54,branca,casada,NÃO REMUNERADA,,,,110,59,129,195,102,130,Normal,,ALTO RISCO
+54,branca,casada,REMUNERADA,,não,,96,31,175,162,,130,,,ALTO RISCO
+54,branca,casada,REMUNERADA,,não,,,49,246,216,131,130,,,ALTO RISCO
+54,branca,casada,NÃO REMUNERADA,,,,"58,2",46,284,161,135,130,,90,ALTO RISCO
+54,branca,casada,NÃO REMUNERADA,,,,68,38,119,130,100,130,,,ALTO RISCO
+54,branca,casada,REMUNERADA,,,,"85,6",61,102,167,382,130,,,ALTO RISCO
+55,branca,casada,REMUNERADA,,não,,,,,,,130,,,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,,não,,132,43,75,190,,130,,,BAIXO RISCO
+55,branca,casada,NÃO REMUNERADA,,,,"82,6",65,142,176,106,130,,,RISCO INTERMEDIARIO
+55,branca,casada,REMUNERADA,,,,,,,,,130,,,RISCO INTERMEDIARIO
+56,branca,casada,REMUNERADA,,não,,"84,4",57,198,181,115,130,Normal,77,RISCO INTERMEDIARIO
+56,branca,casada,NÃO REMUNERADA,,,,"136,6",37,137,199,104,130,Normal,83,RISCO INTERMEDIARIO
+56,branca,casada,NÃO REMUNERADA,,,,,,,,,130,,94,ALTO RISCO
+56,branca,casada,REMUNERADA,,,,112,45,82,173,107,130,,,ALTO RISCO
+56,branca,casada,NÃO REMUNERADA,,,,"95,6",44,172,174,117,130,,,ALTO RISCO
+56,branca,casada,REMUNERADA,,não,,119,87,54,217,107,130,,,RISCO INTERMEDIARIO
+57,branca,casada,NÃO REMUNERADA,,,,123,49,147,201,110,130,,,RISCO INTERMEDIARIO
+57,branca,casada,NÃO REMUNERADA,,,,150,62,183,254,,130,,,ALTO RISCO
+57,branca,casada,REMUNERADA,,,,171,25,183,233,85,130,,,ALTO RISCO
+57,branca,casada,REMUNERADA,,,,102,55,109,179,155,130,,,ALTO RISCO
+57,branca,casada,NÃO REMUNERADA,,não,,,,,,,130,,,BAIXO RISCO
+57,branca,casada,REMUNERADA,,não,,,,,,,130,Pré-obesidade,,BAIXO RISCO
+57,branca,casada,REMUNERADA,,não,,,,,,,136,,100,BAIXO RISCO
+58,branca,casada,NÃO REMUNERADA,,,,"96,4",54,118,174,80,140,Obesidade,95,ALTO RISCO
+58,branca,casada,REMUNERADA,,,,,,88,259,,140,,,ALTO RISCO
+58,branca,casada,NÃO REMUNERADA,,,,"50,6",45,62,108,94,140,,,ALTO RISCO
+58,branca,casada,REMUNERADA,,,,,,,,,140,,,BAIXO RISCO
+58,branca,casada,REMUNERADA,,,,"77,4",27,88,122,"92,3",140,,,ALTO RISCO
+58,branca,casada,NÃO REMUNERADA,,,,128,55,107,205,102,140,,,ALTO RISCO
+59,branca,casada,NÃO REMUNERADA,,não,,"105,4",57,248,212,76,140,Obesidade,100,RISCO INTERMEDIARIO
+59,branca,casada,REMUNERADA,,não,,,,,,,140,,,RISCO INTERMEDIARIO
+59,branca,casada,REMUNERADA,,sim,,,,,,,140,,,RISCO INTERMEDIARIO
+59,branca,casada,REMUNERADA,,,,,45,102,,,140,,,RISCO INTERMEDIARIO
+59,branca,casada,NÃO REMUNERADA,,,,"93,2",87,74,195,,140,Obesidade,95,RISCO INTERMEDIARIO
+59,branca,casada,REMUNERADA,,não,,,,,,,140,,,RISCO INTERMEDIARIO
+59,branca,casada,REMUNERADA,,,,,,,,,140,,,RISCO INTERMEDIARIO
+59,branca,casada,NÃO REMUNERADA,,,,"121,4",52,88,191,94,140,Obesidade,95,RISCO INTERMEDIARIO
+60,branca,casada,NÃO REMUNERADA,,,,"58,2",37,189,133,,140,,,RISCO INTERMEDIARIO
+60,branca,casada,NÃO REMUNERADA,,não,,141,55,90,214,94,140,,,RISCO INTERMEDIARIO
+60,branca,casada,REMUNERADA,,,,,,,,,140,,,RISCO INTERMEDIARIO
+60,branca,casada,REMUNERADA,,,,"110,8",90,76,210,125,140,,,ALTO RISCO
+60,branca,casada,REMUNERADA,,não,,"11,6",36,102,168,,140,,86,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,,,,"139,8",39,86,196,,140,Obesidade,,ALTO RISCO
+60,branca,casada,REMUNERADA,,não,,189,69,145,287,99,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,,,,"139,2",37,134,203,122,140,Pré-obesidade,,ALTO RISCO
+60,branca,casada,REMUNERADA,,,,,52,45,167,,140,,,ALTO RISCO
+60,branca,casada,NÃO REMUNERADA,,não,,77,47,80,140,,140,,,ALTO RISCO
+60,branca,casada,REMUNERADA,,,,119,47,173,201,88,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,,,,"117,2",65,114,205,80,140,Normal,83,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,,,,128,35,208,205,137,140,,,ALTO RISCO
+61,branca,casada,REMUNERADA,,,,127,84,134,238,118,140,,,ALTO RISCO
+61,branca,casada,REMUNERADA,,,,"128,4",28,218,200,,140,,,ALTO RISCO
+61,branca,casada,NÃO REMUNERADA,,,,87,50,90,155,,140,,,ALTO RISCO
+61,branca,casada,REMUNERADA,,,,"113,4",47,183,197,141,140,Pré-obesidade,,ALTO RISCO
+61,branca,casada,REMUNERADA,,,,,,,,143,140,Pré-obesidade,95,ALTO RISCO
+62,branca,casada,REMUNERADA,,,,77,69,70,160,99,140,,,RISCO INTERMEDIARIO
+62,branca,casada,NÃO REMUNERADA,,,,,,,,,140,,,ALTO RISCO
+62,branca,casada,NÃO REMUNERADA,,,,,,,,,140,,,ALTO RISCO
+62,branca,casada,NÃO REMUNERADA,,,,139,51,106,211,79,140,,,ALTO RISCO
+63,branca,casada,REMUNERADA,,não,,"88,6",82,47,180,76,140,,,RISCO INTERMEDIARIO
+63,branca,casada,NÃO REMUNERADA,,,,"120,8",83,86,221,93,140,Obesidade,99,ALTO RISCO
+63,branca,casada,NÃO REMUNERADA,,,,138,27,145,194,,140,,,ALTO RISCO
+64,branca,casada,REMUNERADA,,,,,,,,,140,Pré-obesidade,105,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,,não,,"173,6",51,117,248,84,140,,,ALTO RISCO
+64,branca,casada,REMUNERADA,,não,,137,50,83,204,100,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,,não,,"59,4",74,63,146,105,140,,127,RISCO INTERMEDIARIO
+64,branca,casada,REMUNERADA,,,,,,,,,140,,,ALTO RISCO
+64,branca,casada,NÃO REMUNERADA,,não,,103,31,248,184,94,140,,,BAIXO RISCO
+65,branca,casada,NÃO REMUNERADA,,não,,118,60,133,205,98,140,,,ALTO RISCO
+65,branca,casada,NÃO REMUNERADA,,,,98,71,50,179,123,144,,,ALTO RISCO
+65,branca,casada,NÃO REMUNERADA,,,,131,63,112,217,105,144,,,ALTO RISCO
+65,branca,casada,NÃO REMUNERADA,,,,"64,8",24,181,125,,146,,,ALTO RISCO
+65,branca,casada,NÃO REMUNERADA,,não,,105,50,117,178,120,150,Pré-obesidade,89,RISCO INTERMEDIARIO
+65,branca,casada,NÃO REMUNERADA,,,,122,56,55,189,100,150,Obesidade,,ALTO RISCO
+65,branca,casada,NÃO REMUNERADA,,,,121,61,162,215,132,150,,,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,,não,,130,49,142,207,127,150,Pré-obesidade,86,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,,sim,,85,59,157,176,,150,,,ALTO RISCO
+66,branca,casada,REMUNERADA,,não,,"103,6",42,207,187,119,150,Pré-obesidade,84,ALTO RISCO
+66,branca,casada,REMUNERADA,,,,88,46,138,162,108,150,Obesidade,93,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,,,,"78,4",28,238,154,120,150,,,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,,,,81,43,105,145,106,150,Obesidade,92,RISCO INTERMEDIARIO
+66,branca,casada,NÃO REMUNERADA,,,,,,,,,150,,,RISCO INTERMEDIARIO
+66,branca,casada,NÃO REMUNERADA,,,,"94,8",53,96,167,,150,,,ALTO RISCO
+66,branca,casada,,,,,,,,,76,150,,,ALTO RISCO
+66,branca,casada,NÃO REMUNERADA,,,,106,46,128,178,95,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,,,"152,6",32,97,204,80,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,,,115,27,195,181,122,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,,,157,43,163,233,,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,,,,,,,,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,,,"21,4",45,208,108,376,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,,,82,73,152,185,,150,,97,RISCO INTERMEDIARIO
+67,branca,casada,REMUNERADA,,,,,,,,,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,,,187,55,181,220,279,150,,,ALTO RISCO
+67,branca,casada,NÃO REMUNERADA,,não,,,,,,,150,,,RISCO INTERMEDIARIO
+68,branca,casada,REMUNERADA,,não,,94,74,80,184,101,150,,,RISCO INTERMEDIARIO
+68,branca,casada,NÃO REMUNERADA,,,,"101,4",52,138,181,98,150,Obesidade,102,ALTO RISCO
+68,branca,casada,NÃO REMUNERADA,,não,,"161,4",45,88,224,81,150,Pré-obesidade,101,ALTO RISCO
+68,branca,casada,REMUNERADA,,não,,"104,4",40,98,164,106,150,Pré-obesidade,97,ALTO RISCO
+68,branca,casada,NÃO REMUNERADA,,,,108,67,110,197,136,150,,,ALTO RISCO
+68,branca,casada,NÃO REMUNERADA,,não,,"134,9","56,1",150,221,98,150,,,ALTO RISCO
+68,branca,casada,NÃO REMUNERADA,,,,,,,,,150,,,ALTO RISCO
+68,branca,casada,NÃO REMUNERADA,,,,"151,2",38,184,224,94,150,,,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,,,,176,53,149,259,74,150,,,ALTO RISCO
+69,branca,casada,REMUNERADA,,,,,,105,220,,150,,,ALTO RISCO
+69,branca,casada,REMUNERADA,,,,"77,6",38,157,147,112,150,Obesidade,96,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,,,,"101,4",35,143,165,125,150,Pré-obesidade,95,ALTO RISCO
+69,branca,casada,REMUNERADA,,,,"123,9",33,131,184,86,150,Obesidade,102,ALTO RISCO
+69,branca,casada,NÃO REMUNERADA,,não,,"105,6",38,102,164,,150,,,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,,,,"123,8",30,286,211,,150,,,ALTO RISCO
+70,branca,casada,NÃO REMUNERADA,,não,,"95,8",41,66,150,96,160,,,ALTO RISCO
+71,branca,casada,REMUNERADA,,,,"91,6",49,112,163,101,160,,,ALTO RISCO
+71,branca,casada,REMUNERADA,,,,164,55,84,236,107,160,Normal,85,ALTO RISCO
+71,branca,casada,NÃO REMUNERADA,,,,107,62,129,195,88,160,Normal,,ALTO RISCO
+71,branca,casada,REMUNERADA,,,,"135,8",46,196,221,987,160,Pré-obesidade,93,ALTO RISCO
+71,branca,casada,NÃO REMUNERADA,,,,122,45,177,203,104,160,,,ALTO RISCO
+72,branca,casada,REMUNERADA,,,,"62,4",38,128,126,97,160,Pré-obesidade,,ALTO RISCO
+72,branca,casada,NÃO REMUNERADA,,,,64,40,120,128,305,160,Obesidade,,ALTO RISCO
+72,branca,casada,REMUNERADA,,,,147,42,150,219,,160,,,ALTO RISCO
+72,branca,casada,NÃO REMUNERADA,,não,,,,,,,160,,,BAIXO RISCO
+72,branca,casada,NÃO REMUNERADA,,,,102,53,86,172,98,160,Obesidade,116,RISCO INTERMEDIARIO
+72,branca,casada,NÃO REMUNERADA,,,,,,,,,160,,,ALTO RISCO
+72,branca,casada,NÃO REMUNERADA,,,,86,50,54,147,195,160,,,ALTO RISCO
+73,branca,casada,REMUNERADA,,não,,61,25,140,114,107,160,,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,,,,102,150,130,178,125,160,,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,,,,"60,2",29,239,137,,160,,,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,,,,"130,8",54,121,209,95,160,Pré-obesidade,93,ALTO RISCO
+73,branca,casada,NÃO REMUNERADA,,não,,"104,11",44,232,195,105,160,Obesidade,,ALTO RISCO
+74,branca,casada,NÃO REMUNERADA,,não,,"75,3","61,1",98,156,84,160,,,ALTO RISCO
+74,branca,casada,NÃO REMUNERADA,,,,112,43,135,182,,160,,,ALTO RISCO
+74,branca,casada,NÃO REMUNERADA,,não,,158,38,145,225,96,160,,,ALTO RISCO
+74,branca,casada,NÃO REMUNERADA,,não,,"134,6",37,233,219,94,160,,,ALTO RISCO
+74,branca,casada,REMUNERADA,,não,,117,40,170,191,131,160,,,ALTO RISCO
+75,branca,casada,REMUNERADA,,,,,,,,94,160,,,ALTO RISCO
+75,branca,casada,REMUNERADA,,,,,,,,,160,,,ALTO RISCO
+75,branca,casada,REMUNERADA,,não,,71,58,114,152,96,160,,,ALTO RISCO
+75,branca,casada,NÃO REMUNERADA,,não,,"119,6",63,127,208,100,160,,,ALTO RISCO
+76,branca,casada,REMUNERADA,,,,"126,8",56,121,207,66,160,Normal,93,ALTO RISCO
+76,branca,casada,NÃO REMUNERADA,,,,153,49,145,231,90,160,,,ALTO RISCO
+76,branca,casada,NÃO REMUNERADA,,não,,"108,2",51,174,194,134,160,Pré-obesidade,85,ALTO RISCO
+76,branca,casada,REMUNERADA,,,,71,41,120,135,119,160,Obesidade,100,ALTO RISCO
+77,branca,casada,REMUNERADA,,não,,"88,6",36,102,145,95,160,Pré-obesidade,,ALTO RISCO
+77,branca,casada,REMUNERADA,,,,182,65,176,282,141,160,Obesidade,102,ALTO RISCO
+77,branca,casada,NÃO REMUNERADA,,,,"125,4",18,183,180,92,160,,,ALTO RISCO
+77,branca,casada,NÃO REMUNERADA,,,,,,,,,160,,105,ALTO RISCO
+77,branca,casada,NÃO REMUNERADA,,,,78,52,60,142,99,160,,,ALTO RISCO
+77,branca,casada,NÃO REMUNERADA,,,,"87,4",46,103,154,92,160,Pré-obesidade,91,ALTO RISCO
+77,branca,casada,REMUNERADA,,não,,110,41,118,175,113,160,,,ALTO RISCO
+77,branca,casada,REMUNERADA,,,,107,49,140,184,103,160,,,ALTO RISCO
+77,branca,casada,NÃO REMUNERADA,,não,,"92,8",31,156,155,164,160,Pré-obesidade,102,ALTO RISCO
+77,branca,casada,REMUNERADA,,,,,24,298,211,141,160,,,ALTO RISCO
+78,branca,casada,REMUNERADA,,,,93,46,102,159,153,170,,,ALTO RISCO
+79,branca,casada,REMUNERADA,,não,,,,,,,170,,,ALTO RISCO
+79,branca,casada,NÃO REMUNERADA,,,,,,,,,170,,,ALTO RISCO
+79,branca,casada,REMUNERADA,,,,140,51,115,214,96,170,,84,ALTO RISCO
+79,branca,casada,NÃO REMUNERADA,,,,"82,2",41,219,167,,170,,,ALTO RISCO
+80,branca,casada,REMUNERADA,,não,,,,,,,180,,,ALTO RISCO
+80,branca,casada,NÃO REMUNERADA,,não,,74,30,250,154,90,180,,,ALTO RISCO
+80,branca,casada,REMUNERADA,,,,121,69,91,209,112,180,Normal,80,ALTO RISCO
+81,branca,casada,NÃO REMUNERADA,,não,,,,,,,180,,,ALTO RISCO
+81,branca,casada,NÃO REMUNERADA,,,,,,,,,180,,,ALTO RISCO
+81,branca,casada,NÃO REMUNERADA,,,,,"52,5",64,203,,180,,,ALTO RISCO
+81,branca,casada,NÃO REMUNERADA,,,,"88,8",46,136,162,,180,,,ALTO RISCO
+81,branca,casada,REMUNERADA,,,,"51,6",30,232,128,101,180,,,ALTO RISCO
+81,branca,casada,NÃO REMUNERADA,,não,,"82,2",28,134,137,92,180,,,ALTO RISCO
+82,branca,casada,REMUNERADA,,não,,"106,2",38,159,176,,180,,,ALTO RISCO
+82,branca,casada,NÃO REMUNERADA,,não,,,,,,,180,,,ALTO RISCO
+83,branca,casada,REMUNERADA,,,,106,77,66,197,91,180,,,ALTO RISCO
+83,branca,casada,REMUNERADA,,,,"116,8",39,121,180,174,180,,,ALTO RISCO
+83,branca,casada,NÃO REMUNERADA,,,,,,,,,180,,,ALTO RISCO
+83,branca,casada,REMUNERADA,,não,,"127,2",49,79,192,93,180,Baixo peso,,ALTO RISCO
+87,branca,casada,REMUNERADA,,,,"89,8",59,116,172,87,230,Obesidade,105,ALTO RISCO
+90,branca,casada,REMUNERADA,,,,127,42,165,202,,,,,ALTO RISCO
+91,branca,casada,REMUNERADA,,,,,,,,,,Obesidade,,ALTO RISCO
+92,branca,casada,REMUNERADA,,,,,,,101,,,,,RISCO INTERMEDIARIO
+93,branca,casada,NÃO REMUNERADA,,,,,,,,,,,,RISCO INTERMEDIARIO
+93,branca,casada,REMUNERADA,,,,,,,,,,,,RISCO INTERMEDIARIO
+97,branca,casada,NÃO REMUNERADA,,,,244,45,189,327,100,,,74,ALTO RISCO
+50,branca ,casada,NÃO REMUNERADA,,,,163,68,55,242,91,120,,,ALTO RISCO
+53,branca ,casada,NÃO REMUNERADA,,não,,136,42,110,200,,130,,,ALTO RISCO
+53,branca ,casada,REMUNERADA,,,,112,78,105,211,100,130,,,ALTO RISCO
+56,branca ,casada,REMUNERADA,,,,,,,,,130,,,ALTO RISCO
+64,branca ,casada,REMUNERADA,,,,"131,2",56,74,202,,140,,,ALTO RISCO
+65,branca ,casada,NÃO REMUNERADA,,,,"84,6",47,72,146,99,144,,,ALTO RISCO
+65,branca ,casada,NÃO REMUNERADA,,não,,"152,6",54,102,227,,150,Pré-obesidade,,RISCO INTERMEDIARIO
+66,branca ,casada,NÃO REMUNERADA,,não,,"169,9","56,7",192,265,,150,,,ALTO RISCO
+66,branca ,casada,NÃO REMUNERADA,,,,"122,8",77,131,226,,150,,,ALTO RISCO
+70,branca ,casada,REMUNERADA,,não,,,,,,,160,,95,ALTO RISCO
+71,branca ,casada,NÃO REMUNERADA,,,,,41,82,193,80,160,,,ALTO RISCO
+72,branca ,casada,NÃO REMUNERADA,,,,180,45,280,281,105,160,,,ALTO RISCO
+77,branca ,casada,NÃO REMUNERADA,,,,"109,6",48,127,183,166,160,Pré-obesidade,105,ALTO RISCO
+77,branca ,casada,REMUNERADA,,não,,"124,8",37,116,185,178,160,,,ALTO RISCO
+79,branca ,casada,REMUNERADA,,não,,,,,,,170,,,ALTO RISCO
+80,branca ,casada,REMUNERADA,,,,,40,460,143,100,180,,,ALTO RISCO
+81,branca ,casada,NÃO REMUNERADA,,não,,"89,6",51,67,154,88,180,,,ALTO RISCO
+83,branca ,casada,REMUNERADA,,,,102,46,332,215,,180,,102,ALTO RISCO
+62,negra,casada,NÃO REMUNERADA,,,,,,,,,140,,,ALTO RISCO
+62,negra,casada,REMUNERADA,,,,154,53,124,232,102,140,Pré-obesidade,87,ALTO RISCO
+82,negra,casada,REMUNERADA,,não,,"70,4",29,128,125,89,180,Obesidade,100,ALTO RISCO
+87,negra,casada,REMUNERADA,,não,,"98,2",42,74,155,97,220,,,ALTO RISCO
+46,parda,casada,NÃO REMUNERADA,,,,,,,,,120,,,BAIXO RISCO
+48,parda,casada,NÃO REMUNERADA,,,,163,58,80,237,83,120,,75,RISCO INTERMEDIARIO
+62,parda,casada,REMUNERADA,,,,101,42,134,170,152,140,,,ALTO RISCO
+65,parda,casada,NÃO REMUNERADA,,,,"76,2",52,179,164,88,144,,,RISCO INTERMEDIARIO
+71,parda,casada,NÃO REMUNERADA,,não,,,,,,,160,,,ALTO RISCO
+72,parda,casada,NÃO REMUNERADA,,não,,"131,6",64,142,224,93,160,,83,ALTO RISCO
+73,parda,casada,NÃO REMUNERADA,,não,,,,,,,160,,,ALTO RISCO
+79,parda,casada,NÃO REMUNERADA,,não,,152,58,105,231,103,170,Obesidade,99,ALTO RISCO
+81,parda,casada,NÃO REMUNERADA,,,,118,43,153,192,,180,,,ALTO RISCO
+86,parda,casada,REMUNERADA,,,,"163,3",61,182,261,106,200,Obesidade,,ALTO RISCO
+60,parda,divorciada,REMUNERADA,,,,183,47,118,253,,140,,,ALTO RISCO
+30,branca,divorciada,REMUNERADA,não,não,,"129,8",86,36,223,72,110,,,BAIXO RISCO
+41,branca,divorciada,REMUNERADA,não,,,,,,,,120,,,RISCO INTERMEDIARIO
+42,branca,divorciada,REMUNERADA,não,,,"127,4",35,98,182,,120,,,ALTO RISCO
+45,branca,divorciada,REMUNERADA,não,não,,129,43,141,200,85,120,,,BAIXO RISCO
+46,branca,divorciada,REMUNERADA,não,,,,,,,,120,,,BAIXO RISCO
+48,branca,divorciada,REMUNERADA,não,não,,,,,,,120,,82,BAIXO RISCO
+48,branca,divorciada,REMUNERADA,não,,,"107,2",38,64,158,93,120,Pré-obesidade,85,RISCO INTERMEDIARIO
+49,branca,divorciada,REMUNERADA,não,não,,100,44,155,175,85,120,,,RISCO INTERMEDIARIO
+50,branca,divorciada,REMUNERADA,não,,,71,47,65,131,,130,,,BAIXO RISCO
+51,branca,divorciada,NÃO REMUNERADA,não,,,,,,,,130,,,BAIXO RISCO
+52,branca,divorciada,REMUNERADA,não,,,"83,2",62,144,174,,130,Pré-obesidade,95,ALTO RISCO
+53,branca,divorciada,REMUNERADA,não,,,92,51,105,164,,130,,,ALTO RISCO
+56,branca,divorciada,REMUNERADA,não,não,,,,,,93,130,,,RISCO INTERMEDIARIO
+56,branca,divorciada,REMUNERADA,não,,,"93,8",49,281,199,97,130,,,ALTO RISCO
+56,branca,divorciada,REMUNERADA,não,não,,,,,,,130,Obesidade,,RISCO INTERMEDIARIO
+59,branca,divorciada,REMUNERADA,não,não,,,,,,,140,,,RISCO INTERMEDIARIO
+62,branca,divorciada,REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+66,branca,divorciada,NÃO REMUNERADA,não,,,175,55,297,290,96,150,,,ALTO RISCO
+67,branca,divorciada,NÃO REMUNERADA,não,,,"156,2",60,144,245,90,150,,,ALTO RISCO
+67,branca,divorciada,REMUNERADA,não,,,,,93,177,94,150,,,ALTO RISCO
+68,branca,divorciada,REMUNERADA,não,,,75,43,54,129,112,150,,,ALTO RISCO
+70,branca,divorciada,NÃO REMUNERADA,não,não,,"127,4",63,138,218,99,160,Obesidade,105,ALTO RISCO
+72,branca,divorciada,NÃO REMUNERADA,não,,,"146,4",45,76,207,,160,,,ALTO RISCO
+72,branca,divorciada,REMUNERADA,não,,,75,25,100,120,149,160,,,ALTO RISCO
+74,branca,divorciada,REMUNERADA,não,,,74,32,198,146,90,160,,,ALTO RISCO
+75,branca,divorciada,REMUNERADA,não,,,"206,6",38,167,278,104,160,,110,ALTO RISCO
+78,branca,divorciada,REMUNERADA,não,,,162,38,391,269,233,160,,,ALTO RISCO
+85,branca,divorciada,REMUNERADA,não,,,"96,6",48,162,177,86,190,Pré-obesidade,100,ALTO RISCO
+59,,divorciada,REMUNERADA,não,,,,,,,,140,,,RISCO INTERMEDIARIO
+56,branca,divorciada,REMUNERADA,sim,não,,"123,8",49,86,190,,130,,,ALTO RISCO
+61,branca,divorciada,NÃO REMUNERADA,sim,,,204,62,101,287,102,140,,,ALTO RISCO
+58,branca ,divorciada,REMUNERADA,sim,,,"114,6",52,117,190,130,140,Obesidade,95,ALTO RISCO
+45,branca,divorciada,REMUNERADA,,não,,108,38,48,156,79,120,,,BAIXO RISCO
+48,branca,divorciada,NÃO REMUNERADA,,,,,,,,,120,,,RISCO INTERMEDIARIO
+50,branca,divorciada,REMUNERADA,,,,"64,7",86,115,173,132,120,Normal,66,RISCO INTERMEDIARIO
+53,branca,divorciada,NÃO REMUNERADA,,,,,,,,,130,,,ALTO RISCO
+61,branca,divorciada,NÃO REMUNERADA,,,,"67,4",42,168,143,110,140,,,ALTO RISCO
+61,branca,divorciada,REMUNERADA,,,,130,40,260,222,103,140,,,ALTO RISCO
+61,branca,divorciada,REMUNERADA,,,,151,43,154,225,101,140,,,ALTO RISCO
+61,branca,divorciada,REMUNERADA,,,,,,,,110,140,Pré-obesidade,93,ALTO RISCO
+73,branca,divorciada,REMUNERADA,,,,"165,8",50,171,250,,160,,,ALTO RISCO
+74,branca,divorciada,REMUNERADA,,,,"156,6",49,207,247,105,160,Pré-obesidade,95,ALTO RISCO
+77,branca,divorciada,REMUNERADA,,,,"109,4",37,193,185,97,160,Pré-obesidade,100,ALTO RISCO
+77,branca,divorciada,REMUNERADA,,,,117,56,140,203,,160,,,ALTO RISCO
+81,branca,divorciada,REMUNERADA,,,,89,51,116,163,,180,,,ALTO RISCO
+81,branca,divorciada,NÃO REMUNERADA,,não,,149,40,185,227,104,180,Pré-obesidade,95,ALTO RISCO
+44,branca,sem dado,REMUNERADA,não,sim,,,,,,,120,,,BAIXO RISCO
+55,branca,sem dado,NÃO REMUNERADA,não,,,,,,,,130,,,BAIXO RISCO
+59,branca,sem dado,NÃO REMUNERADA,não,não,,"90,2",85,94,194,106,140,Obesidade,102,RISCO INTERMEDIARIO
+62,branca,sem dado,NÃO REMUNERADA,não,,,117,47,103,185,91,140,,,ALTO RISCO
+83,branca,sem dado,REMUNERADA,não,não,,,,,,,180,,,ALTO RISCO
+52,,sem dado,REMUNERADA,não,não,,"111,4",48,188,197,113,130,,90,ALTO RISCO
+55,branca,sem dado,REMUNERADA,sim,,,,,,,,130,,,BAIXO RISCO
+72,branca,sem dado,REMUNERADA,sim,,,"122,4",67,103,210,92,160,,,ALTO RISCO
+78,branca,sem dado,REMUNERADA,sim,não,,126,44,128,196,94,160,,,ALTO RISCO
+43,branca,sem dado,NÃO REMUNERADA,,não,,"55,2",24,374,154,210,120,Pré-obesidade,77,ALTO RISCO
+43,branca,sem dado,NÃO REMUNERADA,,,,"114,4",29,118,167,,120,,,ALTO RISCO
+56,branca,sem dado,NÃO REMUNERADA,,,,96,54,90,168,106,130,,,RISCO INTERMEDIARIO
+56,branca,sem dado,REMUNERADA,,,,172,52,86,242,100,130,,,ALTO RISCO
+62,branca,sem dado,REMUNERADA,,,,"123,8",39,186,200,,140,,,ALTO RISCO
+76,branca,sem dado,NÃO REMUNERADA,,,,106,"57,4",48,173,88,160,Obesidade,,ALTO RISCO
+79,branca,sem dado,REMUNERADA,,não,,,,203,156,82,175,,,ALTO RISCO
+80,branca,sem dado,REMUNERADA,,,,84,47,79,,89,180,Obesidade,,ALTO RISCO
+81,branca,sem dado,REMUNERADA,,,,,,147,241,,180,,,ALTO RISCO
+83,branca,sem dado,REMUNERADA,,,,"73,8",59,121,157,136,180,,,ALTO RISCO
+63,,sem dado,REMUNERADA,,,,72,51,140,151,117,140,Normal,90,ALTO RISCO
+69,,sem dado,,,,,130,71,44,210,98,150,,,RISCO INTERMEDIARIO
+37,branca,separada,REMUNERADA,não,não,,109,79,40,196,,120,,,BAIXO RISCO
+38,branca,separada,REMUNERADA,não,não,,99,46,95,164,95,120,Pré-obesidade,,BAIXO RISCO
+42,branca,separada,REMUNERADA,não,,,"120,6",47,72,182,89,120,,,ALTO RISCO
+43,branca,separada,REMUNERADA,não,,,"109,3",50,"152,1","189,7",114,120,,,ALTO RISCO
+48,branca,separada,REMUNERADA,não,,,"161,6",58,97,239,,120,,,RISCO INTERMEDIARIO
+48,branca,separada,REMUNERADA,não,,,143,49,128,218,88,120,,,RISCO INTERMEDIARIO
+53,branca,separada,REMUNERADA,não,não,,146,47,105,214,98,130,Normal,94,ALTO RISCO
+54,branca,separada,REMUNERADA,não,,,"82,6",34,232,163,195,130,,,ALTO RISCO
+55,branca,separada,NÃO REMUNERADA,não,não,,,,,,,130,,,BAIXO RISCO
+59,branca,separada,REMUNERADA,não,não,,,,,,,140,,,RISCO INTERMEDIARIO
+61,branca,separada,REMUNERADA,não,não,,,,,,,140,,85,RISCO INTERMEDIARIO
+63,branca,separada,REMUNERADA,não,sim,,91,33,141,153,70,140,,,ALTO RISCO
+65,branca,separada,NÃO REMUNERADA,não,,,,,,,,144,Pré-obesidade,97,ALTO RISCO
+66,branca,separada,REMUNERADA,não,não,,"119,8",64,131,210,84,150,Pré-obesidade,,ALTO RISCO
+66,branca,separada,REMUNERADA,não,,,"101,4",66,78,183,100,150,Normal,85,ALTO RISCO
+69,branca,separada,NÃO REMUNERADA,não,,,,,,,,150,,,ALTO RISCO
+70,branca,separada,REMUNERADA,não,,,135,35,261,222,,160,Obesidade,114,ALTO RISCO
+39,branca,separada,REMUNERADA,sim,,,,,,,,120,,,BAIXO RISCO
+51,branca,separada,NÃO REMUNERADA,sim,não,,,,,,,130,,,RISCO INTERMEDIARIO
+64,branca,separada,REMUNERADA,sim,,,110,82,67,206,121,140,,,ALTO RISCO
+74,branca,separada,REMUNERADA,sim,,,"158,8",67,106,247,,160,,,ALTO RISCO
+36,branca,separada,REMUNERADA,,não,,123,47,130,196,79,120,Pré-obesidade,,BAIXO RISCO
+48,branca,separada,NÃO REMUNERADA,,não,,"75,6",98,77,189,101,120,Pré-obesidade,86,RISCO INTERMEDIARIO
+49,branca,separada,REMUNERADA,,,,164,73,118,261,91,120,,,RISCO INTERMEDIARIO
+59,branca,separada,REMUNERADA,,,,,,,,,140,,,BAIXO RISCO
+60,branca,separada,NÃO REMUNERADA,,,,79,40,90,137,,140,,,ALTO RISCO
+63,branca,separada,REMUNERADA,,,,123,54,70,191,,140,,,RISCO INTERMEDIARIO
+65,branca,separada,NÃO REMUNERADA,,,,"211,6",45,137,284,,140,,,ALTO RISCO
+66,branca,separada,REMUNERADA,,,,"177,2",86,84,280,98,150,Normal,84,ALTO RISCO
+66,branca,separada,REMUNERADA,,não,,99,43,216,186,172,150,,,ALTO RISCO
+70,branca,separada,NÃO REMUNERADA,,,,135,52,110,209,95,160,,,ALTO RISCO
+72,branca,separada,REMUNERADA,,,,107,33,230,186,138,160,,,ALTO RISCO
+77,branca,separada,NÃO REMUNERADA,,,,"150,2",34,169,218,128,160,Pré-obesidade,100,ALTO RISCO
+78,branca,separada,REMUNERADA,,,,87,53,65,153,107,160,,,ALTO RISCO
+89,branca,separada,REMUNERADA,,,,,45,72,190,,,,,RISCO INTERMEDIARIO
+42,branca ,separada,REMUNERADA,,,,188,58,138,274,,120,,,ALTO RISCO
+67,branca ,separada,NÃO REMUNERADA,,,,217,37,160,286,118,150,,,ALTO RISCO
+54,amarela,solteira,REMUNERADA,não,,,"96,6",32,172,163,101,130,,,ALTO RISCO
+20,branca,solteira,NÃO REMUNERADA,não,,,,,,,,100,,95,BAIXO RISCO
+20,branca,solteira,REMUNERADA,não,não,,"51,6",42,62,106,83,100,,,BAIXO RISCO
+21,branca,solteira,NÃO REMUNERADA,não,não,,,,,,,100,,,BAIXO RISCO
+21,branca,solteira,NÃO REMUNERADA,não,,,,,,,74,100,,65,BAIXO RISCO
+21,branca,solteira,NÃO REMUNERADA,não,,,104,43,106,169,100,100,,,BAIXO RISCO
+22,branca,solteira,REMUNERADA,não,,,"185,2",37,139,250,96,100,Normal,74,RISCO INTERMEDIARIO
+22,branca,solteira,NÃO REMUNERADA,não,,,"68,6",57,87,143,,100,,,RISCO INTERMEDIARIO
+22,branca,solteira,REMUNERADA,não,não,,131,49,135,207,134,100,Obesidade,,ALTO RISCO
+23,branca,solteira,NÃO REMUNERADA,não,não,,,,,,,100,,72,BAIXO RISCO
+24,branca,solteira,REMUNERADA,não,,,"140,8",57,81,214,84,100,,,BAIXO RISCO
+25,branca,solteira,REMUNERADA,não,,,160,58,101,238,76,100,,,BAIXO RISCO
+25,branca,solteira,REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+26,branca,solteira,REMUNERADA,não,,,"67,2",56,54,134,91,110,,,BAIXO RISCO
+27,branca,solteira,REMUNERADA,não,,,,,,,,110,,,BAIXO RISCO
+27,branca,solteira,REMUNERADA,não,,,"139,2",39,154,209,,110,Obesidade,,BAIXO RISCO
+28,branca,solteira,REMUNERADA,não,,,,61,72,210,,110,,,BAIXO RISCO
+28,branca,solteira,NÃO REMUNERADA,não,,,160,28,59,200,85,110,,,RISCO INTERMEDIARIO
+29,branca,solteira,REMUNERADA,não,,,124,50,112,196,87,110,,,RISCO INTERMEDIARIO
+29,branca,solteira,REMUNERADA,não,não,,125,46,205,212,1207,110,,126,ALTO RISCO
+29,branca,solteira,REMUNERADA,não,,,92,64,115,179,93,110,Obesidade,98,ALTO RISCO
+30,branca,solteira,REMUNERADA,não,não,,61,73,38,142,78,110,,,BAIXO RISCO
+30,branca,solteira,REMUNERADA,não,sim,,,,,,,110,,,BAIXO RISCO
+31,branca,solteira,REMUNERADA,não,,,,,,,,110,,,BAIXO RISCO
+31,branca,solteira,REMUNERADA,não,não,,"154,5","64,5",85,236,81,110,,,BAIXO RISCO
+32,branca,solteira,REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+32,branca,solteira,REMUNERADA,não,,,,,,,,110,,,BAIXO RISCO
+33,branca,solteira,REMUNERADA,não,,,,,,,,110,,,BAIXO RISCO
+33,branca,solteira,REMUNERADA,não,não,,"152,8",68,76,236,,110,,,BAIXO RISCO
+34,branca,solteira,REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+34,branca,solteira,REMUNERADA,não,,,,30,208,210,,110,Obesidade,110,RISCO INTERMEDIARIO
+34,branca,solteira,REMUNERADA,não,não,,,,,,,110,,,BAIXO RISCO
+34,branca,solteira,REMUNERADA,não,não,,,81,66,164,,110,,,BAIXO RISCO
+35,branca,solteira,NÃO REMUNERADA,não,não,,147,74,80,237,75,110,,,BAIXO RISCO
+35,branca,solteira,REMUNERADA,não,não,,"144,2",54,89,216,,110,,,BAIXO RISCO
+35,branca,solteira,REMUNERADA,não,,,"150,8",41,201,232,,120,,,BAIXO RISCO
+36,branca,solteira,REMUNERADA,não,,,,,,,,120,,,ALTO RISCO
+37,branca,solteira,REMUNERADA,não,,,"132,2",43,119,199,99,120,Pré-obesidade,92,ALTO RISCO
+37,branca,solteira,REMUNERADA,não,,,86,75,105,182,83,120,,,BAIXO RISCO
+37,branca,solteira,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+39,branca,solteira,REMUNERADA,não,não,,,,,,,120,,80,BAIXO RISCO
+40,branca,solteira,REMUNERADA,não,não,,"29,8",43,131,99,97,120,Obesidade,100,BAIXO RISCO
+40,branca,solteira,REMUNERADA,não,,,107,38,81,162,80,120,,,RISCO INTERMEDIARIO
+40,branca,solteira,REMUNERADA,não,não,,,,,,,120,,,RISCO INTERMEDIARIO
+42,branca,solteira,REMUNERADA,não,,,,,,,,120,,,ALTO RISCO
+43,branca,solteira,REMUNERADA,não,não,,,51,340,190,130,120,,,ALTO RISCO
+43,branca,solteira,NÃO REMUNERADA,não,,,,34,122,129,104,120,,,ALTO RISCO
+43,branca,solteira,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+46,branca,solteira,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+49,branca,solteira,REMUNERADA,não,,,126,63,65,204,138,120,,105,ALTO RISCO
+49,branca,solteira,REMUNERADA,não,,,124,77,119,225,86,120,,,ALTO RISCO
+50,branca,solteira,REMUNERADA,não,não,,64,66,50,140,77,120,Normal,74,BAIXO RISCO
+52,branca,solteira,REMUNERADA,não,,,70,46,113,139,83,130,Normal,78,ALTO RISCO
+53,branca,solteira,REMUNERADA,não,,,"124,8",46,131,197,83,130,Normal,83,ALTO RISCO
+53,branca,solteira,REMUNERADA,não,,,"69,6",43,102,133,90,130,,,ALTO RISCO
+56,branca,solteira,REMUNERADA,não,,,102,81,84,200,77,130,Normal,75,ALTO RISCO
+59,branca,solteira,REMUNERADA,não,,,"132,6",37,172,194,138,140,,,RISCO INTERMEDIARIO
+60,branca,solteira,REMUNERADA,não,,,147,44,159,223,119,140,Normal,80,ALTO RISCO
+60,branca,solteira,NÃO REMUNERADA,não,,,"107,6",54,92,180,89,140,Normal,,ALTO RISCO
+60,branca,solteira,REMUNERADA,não,,,134,45,284,236,145,140,,,ALTO RISCO
+61,branca,solteira,REMUNERADA,não,,,"98,6",32,282,187,105,140,,,ALTO RISCO
+61,branca,solteira,NÃO REMUNERADA,não,,,100,83,83,200,206,140,Obesidade,96,ALTO RISCO
+65,branca,solteira,REMUNERADA,não,,,"96,6",46,87,160,179,140,,,ALTO RISCO
+69,branca,solteira,NÃO REMUNERADA,não,não,,132,47,106,201,96,150,,,ALTO RISCO
+69,branca,solteira,REMUNERADA,não,não,,124,40,110,186,,150,,,ALTO RISCO
+78,branca,solteira,NÃO REMUNERADA,não,não,,,,115,201,113,166,,,ALTO RISCO
+79,branca,solteira,REMUNERADA,não,,,60,68,94,147,93,170,,,ALTO RISCO
+90,branca,solteira,REMUNERADA,não,,,,,,,,,,,RISCO INTERMEDIARIO
+94,branca,solteira,REMUNERADA,não,,,,,,,,,,,RISCO INTERMEDIARIO
+21,branca ,solteira,NÃO REMUNERADA,não,,,"187,4",45,113,255,,100,,,RISCO INTERMEDIARIO
+44,branca ,solteira,REMUNERADA,não,não,,,,,,,120,,,BAIXO RISCO
+71,branca ,solteira,REMUNERADA,não,,,,62,93,194,,160,,,ALTO RISCO
+36,negra,solteira,REMUNERADA,não,sim,,,,,,,120,,,BAIXO RISCO
+43,negra,solteira,REMUNERADA,não,não,,"102,6",31,167,167,69,120,,,ALTO RISCO
+61,negra,solteira,REMUNERADA,não,,,171,55,70,240,99,140,Pré-obesidade,,ALTO RISCO
+34,parda,solteira,NÃO REMUNERADA,não,não,,"57,2",86,114,166,,110,,,BAIXO RISCO
+28,branca,solteira,REMUNERADA,sim,,,118,59,79,193,84,110,,,BAIXO RISCO
+35,branca,solteira,REMUNERADA,sim,,,,,,,,120,,,BAIXO RISCO
+38,branca,solteira,REMUNERADA,sim,não,,151,60,147,240,,120,,,BAIXO RISCO
+44,branca,solteira,REMUNERADA,sim,,,,,,,,120,,,BAIXO RISCO
+54,branca,solteira,NÃO REMUNERADA,sim,não,,"128,4",55,113,206,99,130,Obesidade,98,ALTO RISCO
+64,branca,solteira,REMUNERADA,sim,,,221 / 97,62,301 / 180,344,,140,,,ALTO RISCO
+42,negra,solteira,REMUNERADA,sim,,,"111,6",74,72,200,102,120,,,ALTO RISCO
+62,parda,solteira,REMUNERADA,sim,não,,"90,14",27,282,174,107,140,,,ALTO RISCO
+21,branca,solteira,NÃO REMUNERADA,,,,,53,155,206,,100,Pré-obesidade,95,BAIXO RISCO
+22,branca,solteira,REMUNERADA,,,,113,"65,8",136,206,,100,,,RISCO INTERMEDIARIO
+25,branca,solteira,REMUNERADA,,,,27,23,253,101,99,100,,,BAIXO RISCO
+25,branca,solteira,NÃO REMUNERADA,,não,,,,,,,110,,,BAIXO RISCO
+27,branca,solteira,REMUNERADA,,não,,,,,,,110,,,BAIXO RISCO
+29,branca,solteira,REMUNERADA,,,,164,46,145,239,105,110,Obesidade,,RISCO INTERMEDIARIO
+32,branca,solteira,REMUNERADA,,não,,"73,5",59,93,151,84,110,,,BAIXO RISCO
+32,branca,solteira,REMUNERADA,,não,,103,50,145,182,81,110,,95,BAIXO RISCO
+39,branca,solteira,REMUNERADA,,não,,116,31,144,176,,120,,,BAIXO RISCO
+40,branca,solteira,REMUNERADA,,,,"63,8",94,106,179,119,120,,,RISCO INTERMEDIARIO
+41,branca,solteira,REMUNERADA,,,,231,58,52,300,85,120,,,ALTO RISCO
+49,branca,solteira,REMUNERADA,,,,"11,8",51,171,197,78,120,,,RISCO INTERMEDIARIO
+51,branca,solteira,REMUNERADA,,,,"106,6",66,72,187,93,130,,95,RISCO INTERMEDIARIO
+51,branca,solteira,REMUNERADA,,não,,93,50,110,165,86,130,,,RISCO INTERMEDIARIO
+52,branca,solteira,NÃO REMUNERADA,,,,,,,,,130,,,RISCO INTERMEDIARIO
+53,branca,solteira,REMUNERADA,,,,122,65,109,209,88,130,,,ALTO RISCO
+53,branca,solteira,REMUNERADA,,,,"150,2",28,94,197,99,130,,,ALTO RISCO
+58,branca,solteira,NÃO REMUNERADA,,,,"61,7",26,182,124,170,140,Obesidade,,RISCO INTERMEDIARIO
+64,branca,solteira,REMUNERADA,,,,"166,2",43,219,253,,140,,,ALTO RISCO
+68,branca,solteira,,,não,,"74,4",51,258,177,114,150,,,ALTO RISCO
+69,branca,solteira,REMUNERADA,,,,"96,4",56,118,176,101,150,Normal,91,ALTO RISCO
+70,branca,solteira,REMUNERADA,,,,,,,,117,160,,,ALTO RISCO
+71,branca,solteira,REMUNERADA,,não,,131,24,87,172,96,160,,,ALTO RISCO
+75,branca,solteira,REMUNERADA,,,,,,,,,160,Normal,81,ALTO RISCO
+83,branca,solteira,REMUNERADA,,,,,55,228,272,95,180,Obesidade,,ALTO RISCO
+72,branca ,solteira,NÃO REMUNERADA,,,,105,35,85,"157,3",,160,,,ALTO RISCO
+32,negra,solteira,REMUNERADA,,não,,,,,,,110,,,BAIXO RISCO
+45,negra,solteira,REMUNERADA,,,,79,63,71,156,98,120,Pré-obesidade,83,BAIXO RISCO
+73,negra,solteira,NÃO REMUNERADA,,,,,,,,,160,,,ALTO RISCO
+41,parda,solteira,REMUNERADA,,não,,,,,,,120,,,RISCO INTERMEDIARIO
+69,parda,solteira,REMUNERADA,,,,,,,,,150,,,ALTO RISCO
+64,amarela,viúva,NÃO REMUNERADA,não,,,,,,,,140,Normal,91,ALTO RISCO
+37,branca,viúva,REMUNERADA,não,,,112,40,78,168,83,120,,,BAIXO RISCO
+46,branca,viúva,REMUNERADA,não,não,,69,64,69,147,70,120,,,BAIXO RISCO
+46,branca,viúva,REMUNERADA,não,sim,,,,,,,120,,,BAIXO RISCO
+49,branca,viúva,REMUNERADA,não,,,"94,8",46,146,170,88,120,,84,ALTO RISCO
+54,branca,viúva,NÃO REMUNERADA,não,,,"11,4",81,63,205,82,130,,,ALTO RISCO
+54,branca,viúva,NÃO REMUNERADA,não,,,"145,2",81,94,245,,130,,,ALTO RISCO
+54,branca,viúva,NÃO REMUNERADA,não,,,"80,8",42,166,156,181*,130,,86,ALTO RISCO
+57,branca,viúva,NÃO REMUNERADA,não,,,132,35,310,229,,130,,,RISCO INTERMEDIARIO
+58,branca,viúva,REMUNERADA,não,não,,,,85,160,72,140,,,BAIXO RISCO
+60,branca,viúva,REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+60,branca,viúva,REMUNERADA,não,,,"209,8",30,116,263,82,140,,,ALTO RISCO
+60,branca,viúva,REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+61,branca,viúva,NÃO REMUNERADA,não,,,"176,2",42,109,240,,140,,,ALTO RISCO
+61,branca,viúva,NÃO REMUNERADA,não,,,47,31,133,105,141,140,Pré-obesidade,81,ALTO RISCO
+61,branca,viúva,REMUNERADA,não,,,"133,6",42,87,193,90,140,,,RISCO INTERMEDIARIO
+61,branca,viúva,NÃO REMUNERADA,não,não,,83,74,69,171,86,140,,,RISCO INTERMEDIARIO
+62,branca,viúva,NÃO REMUNERADA,não,,,,,,,,140,,,ALTO RISCO
+64,branca,viúva,REMUNERADA,não,,,103,31,230,180,,140,,,ALTO RISCO
+65,branca,viúva,NÃO REMUNERADA,não,,,69,40,125,134,115,144,Obesidade,110,ALTO RISCO
+65,branca,viúva,NÃO REMUNERADA,não,não,,"192,8",63,111,278,89,144,,92,ALTO RISCO
+65,branca,viúva,REMUNERADA,não,,,106,64,80,186,121,150,,,ALTO RISCO
+66,branca,viúva,NÃO REMUNERADA,não,,,111,61,55,183,116,150,,,ALTO RISCO
+67,branca,viúva,NÃO REMUNERADA,não,,,"225,8",21,311,309,91,150,,,ALTO RISCO
+67,branca,viúva,REMUNERADA,não,,,148,56,110,225,100,150,,,ALTO RISCO
+67,branca,viúva,NÃO REMUNERADA,não,,,126,49,146,204,85,150,,,ALTO RISCO
+67,branca,viúva,REMUNERADA,não,,,"68,6",47,82,132,134,150,Pré-obesidade,87,ALTO RISCO
+67,branca,viúva,NÃO REMUNERADA,não,,,91,40,150,161,130,150,,,ALTO RISCO
+67,branca,viúva,REMUNERADA,não,não,,,,,,,150,,,RISCO INTERMEDIARIO
+69,branca,viúva,REMUNERADA,não,não,,,,,,,150,,,ALTO RISCO
+69,branca,viúva,REMUNERADA,não,,,"154,2",36,94,209,92,150,,,ALTO RISCO
+69,branca,viúva,REMUNERADA,não,,,136,48,142,213,97,150,,,ALTO RISCO
+69,branca,viúva,NÃO REMUNERADA,não,,,,,,,,150,Obesidade,112,ALTO RISCO
+70,branca,viúva,REMUNERADA,não,,,"87,6",70,112,180,87,160,Pré-obesidade,86,ALTO RISCO
+70,branca,viúva,REMUNERADA,não,não,,115,51,190,,110,160,,100,ALTO RISCO
+70,branca,viúva,REMUNERADA,não,,,"128,4",30,88,176,100,160,,,ALTO RISCO
+70,branca,viúva,REMUNERADA,não,,,123,47,140,198,105,160,Obesidade,111,ALTO RISCO
+71,branca,viúva,REMUNERADA,não,,,112,54,135,192,98,160,,,ALTO RISCO
+71,branca,viúva,NÃO REMUNERADA,não,,,143,48,200,231,,160,Obesidade,,ALTO RISCO
+72,branca,viúva,NÃO REMUNERADA,não,,,"150,6","63,8","124,6",239,"87,3",160,,,ALTO RISCO
+72,branca,viúva,REMUNERADA,não,,,"71,8",25,186,134,,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,não,não,,,,,,,160,,,RISCO INTERMEDIARIO
+73,branca,viúva,NÃO REMUNERADA,não,não,,72,39,145,140,115,160,Obesidade,,ALTO RISCO
+73,branca,viúva,NÃO REMUNERADA,não,não,,,26,1412,440,1690,160,,,ALTO RISCO
+73,branca,viúva,NÃO REMUNERADA,não,,,,,,,,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,não,,,"73,2",44,144,146,98,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,não,,,127,48,234,222,100,160,Obesidade,105,ALTO RISCO
+74,branca,viúva,REMUNERADA,não,,,61,40,104,122,,160,,,ALTO RISCO
+74,branca,viúva,REMUNERADA,não,,,"125,4",25,173,186,195,160,,,ALTO RISCO
+74,branca,viúva,REMUNERADA,não,,,"143,4",59,88,220,147,160,,,ALTO RISCO
+75,branca,viúva,REMUNERADA,não,,,,,,,,160,Obesidade,,ALTO RISCO
+75,branca,viúva,NÃO REMUNERADA,não,,,"107,6",55,72,177,,160,,,ALTO RISCO
+75,branca,viúva,REMUNERADA,não,não,,"191,2",71,149,292,98,160,,,ALTO RISCO
+75,branca,viúva,REMUNERADA,não,,,104,41,80,161,94,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,não,,95,44,187,177,105,160,,,ALTO RISCO
+76,branca,viúva,NÃO REMUNERADA,não,sim,,"104,8",91,106,217,96,160,Obesidade,95,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,não,,,,,,,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,não,,,38,464,271,74,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,,,126,48,116,197,95,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,não,não,,206,47,143,282,95,160,,,ALTO RISCO
+77,branca,viúva,REMUNERADA,não,,,173,42,279,271,91,160,,,ALTO RISCO
+77,branca,viúva,NÃO REMUNERADA,não,,,,,,,,160,,,ALTO RISCO
+77,branca,viúva,REMUNERADA,não,,,"62,4",57,158,151,129,160,,95,ALTO RISCO
+77,branca,viúva,REMUNERADA,não,,,56,50,180,142,90,160,Normal,,ALTO RISCO
+77,branca,viúva,REMUNERADA,não,,,162,38,391,269,233,160,,,ALTO RISCO
+78,branca,viúva,REMUNERADA,não,,,126,37,93,183,73,160,,,ALTO RISCO
+78,branca,viúva,REMUNERADA,não,,,140,25,227,211,100,160,Obesidade,105,ALTO RISCO
+78,branca,viúva,REMUNERADA,não,não,,,,,,,162,,,ALTO RISCO
+78,branca,viúva,REMUNERADA,não,não,,118,45,155,194,100,170,,,ALTO RISCO
+79,branca,viúva,REMUNERADA,não,não,,"157,6",44,,224,,170,,,ALTO RISCO
+79,branca,viúva,REMUNERADA,não,,,103,48,64,164,103,170,,,ALTO RISCO
+79,branca,viúva,NÃO REMUNERADA,não,,,"115,5","61,3",86,194,,170,,,ALTO RISCO
+79,branca,viúva,REMUNERADA,não,não,,"176,4",43,153,250,,170,,,ALTO RISCO
+79,branca,viúva,NÃO REMUNERADA,não,,,82,34,165,149,109,170,Pré-obesidade,97,ALTO RISCO
+79,branca,viúva,REMUNERADA,não,,,71,45,173,151,158,170,Pré-obesidade,89,ALTO RISCO
+80,branca,viúva,NÃO REMUNERADA,não,,,,,,,,180,,,ALTO RISCO
+80,branca,viúva,REMUNERADA,não,,,"147,2",83,159,263,108,180,,,ALTO RISCO
+81,branca,viúva,REMUNERADA,não,não,,81,39,1965,159,89,180,,,ALTO RISCO
+81,branca,viúva,REMUNERADA,não,,,169,51,169,254,,180,,,ALTO RISCO
+81,branca,viúva,REMUNERADA,não,,,"148,4",34,283,239,,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,não,,,"181,6",41,177,258,,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,não,,,"95,5","82,9",93,197,105,180,Normal,69,ALTO RISCO
+83,branca,viúva,REMUNERADA,não,,,"62,2",32,204,135,221,180,,,ALTO RISCO
+83,branca,viúva,NÃO REMUNERADA,não,não,,88,38,64,139,113,180,,,ALTO RISCO
+83,branca,viúva,REMUNERADA,não,não,,,,,,,180,,,ALTO RISCO
+84,branca,viúva,REMUNERADA,não,não,,,53,144,166,113,180,,79,ALTO RISCO
+84,branca,viúva,REMUNERADA,não,,,135,51,92,205,111,190,,,ALTO RISCO
+85,branca,viúva,REMUNERADA,não,,,115,35,115,173,108,190,,,ALTO RISCO
+85,branca,viúva,REMUNERADA,não,,,"119,2",40,244,208,123,200,Pré-obesidade,90,ALTO RISCO
+85,branca,viúva,REMUNERADA,não,,,"58,6",46,87,122,120,200,Pré-obesidade,90,ALTO RISCO
+85,branca,viúva,REMUNERADA,não,não,,"268,5","68,5",110,360,88,200,,,ALTO RISCO
+86,branca,viúva,REMUNERADA,não,,,92,68,76,175,78,200,,,ALTO RISCO
+86,branca,viúva,NÃO REMUNERADA,não,,,"73,2",65,84,155,122,200,Pré-obesidade,97,ALTO RISCO
+87,branca,viúva,REMUNERADA,não,,,"121,6",28,92,168,112,220,,97,ALTO RISCO
+87,branca,viúva,NÃO REMUNERADA,não,,,128,44,85,189,,240,,,ALTO RISCO
+88,branca,viúva,REMUNERADA,não,,,,,,,,90,,,RISCO INTERMEDIARIO
+88,branca,viúva,REMUNERADA,não,,,,,,,,,Obesidade,,BAIXO RISCO
+88,branca,viúva,REMUNERADA,não,não,,"105,9",37,175,178,73,,Obesidade,,BAIXO RISCO
+89,branca,viúva,REMUNERADA,não,,,114,39,140,181,85,,,,RISCO INTERMEDIARIO
+89,branca,viúva,REMUNERADA,não,,,"85,8",79,71,179,97,,,74,RISCO INTERMEDIARIO
+90,branca,viúva,REMUNERADA,não,,,,,,,,,,,ALTO RISCO
+90,branca,viúva,REMUNERADA,não,,,"92,4",48,123,165,114,,Obesidade,102,ALTO RISCO
+90,branca,viúva,REMUNERADA,não,,,,,,,83,,,,ALTO RISCO
+92,branca,viúva,REMUNERADA,não,,,113,42,74,170,84,,,,BAIXO RISCO
+92,branca,viúva,REMUNERADA,não,não,,,,,,,,,,BAIXO RISCO
+92,branca,viúva,REMUNERADA,não,,,,,,,,,,,RISCO INTERMEDIARIO
+65,branca ,viúva,NÃO REMUNERADA,não,,,"65,8",46,116,135,,140,,,ALTO RISCO
+65,branca ,viúva,REMUNERADA,não,não,,,,,,,150,,,ALTO RISCO
+66,branca ,viúva,REMUNERADA,não,,,,,79,165,,150,,,ALTO RISCO
+72,branca ,viúva,REMUNERADA,não,não,,"212,8",44,211,299,129,160,Obesidade,92,ALTO RISCO
+76,branca ,viúva,REMUNERADA,não,,,,39,288,253,,160,Obesidade,,ALTO RISCO
+79,branca ,viúva,REMUNERADA,não,não,,,65,137,199,,170,,,ALTO RISCO
+79,branca ,viúva,REMUNERADA,não,,,112,68,79,196,120,180,,,ALTO RISCO
+80,branca ,viúva,REMUNERADA,não,,,"128,8",39,166,201,95,180,Obesidade,,ALTO RISCO
+88,branca ,viúva,REMUNERADA,não,não,,"50,8",55,231,152,126,240,Obesidade,,ALTO RISCO
+90,branca ,viúva,REMUNERADA,não,,,200,50,135,277,111,,Normal,81,ALTO RISCO
+93,branca ,viúva,REMUNERADA,não,não,,"87,2",86,124,198,92,,,,RISCO INTERMEDIARIO
+60,negra,viúva,REMUNERADA,não,,,58,49,200,147,151,140,,,ALTO RISCO
+63,negra,viúva,REMUNERADA,não,,,"108,2","47,6",81,172,,140,Pré-obesidade,,RISCO INTERMEDIARIO
+63,negra,viúva,NÃO REMUNERADA,não,,,144,63,57,218,,140,,,ALTO RISCO
+76,negra,viúva,REMUNERADA,não,não,,101,76,100,197,88,160,,,ALTO RISCO
+77,negra,viúva,REMUNERADA,não,não,,,,,,,160,,,ALTO RISCO
+79,parda,viúva,REMUNERADA,não,,,114,45,50,169,,170,,,ALTO RISCO
+87,parda,viúva,REMUNERADA,não,,,"99,2",41,204,181,124,220,Obesidade,113,ALTO RISCO
+57,branca,viúva,NÃO REMUNERADA,sim,,,,,,,,130,,,BAIXO RISCO
+57,branca,viúva,REMUNERADA,sim,,,"139,6",37,92,195,,136,,,RISCO INTERMEDIARIO
+63,branca,viúva,NÃO REMUNERADA,sim,,,"73,8",87,36,168,84,140,Obesidade,95,RISCO INTERMEDIARIO
+71,branca,viúva,REMUNERADA,sim,não,,"145,2",48,104,214,81,160,,,ALTO RISCO
+72,branca,viúva,REMUNERADA,sim,,,164,48,108,234,73,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,sim,não,,"121,6",84,97,225,126,160,,93,ALTO RISCO
+75,branca,viúva,REMUNERADA,sim,não,,166,34,218,244,86,160,,,ALTO RISCO
+75,branca,viúva,REMUNERADA,sim,,,140,52,139,220,104,160,,,ALTO RISCO
+79,branca,viúva,REMUNERADA,sim,não,,"157,6",47,107,225,88,170,,,ALTO RISCO
+57,branca ,viúva,REMUNERADA,sim,,,"90,4",34,138,152,95,130,Obesidade,98,RISCO INTERMEDIARIO
+65,branca ,viúva,REMUNERADA,sim,,,"92,2",64,59,168,87,150,,,ALTO RISCO
+68,branca ,viúva,REMUNERADA,sim,,,138,81,100,239,94,150,Obesidade,98,ALTO RISCO
+67,amarela,viúva,NÃO REMUNERADA,,não,,"258,4",56,93,333,,150,,,ALTO RISCO
+52,branca,viúva,REMUNERADA,,,,"92,8",36,121,153,181,130,,,RISCO INTERMEDIARIO
+53,branca,viúva,NÃO REMUNERADA,,,,143,53,127,222,111,130,,,ALTO RISCO
+54,branca,viúva,NÃO REMUNERADA,,,,"126,2",65,144,220,,130,Normal,78,ALTO RISCO
+55,branca,viúva,REMUNERADA,,,,,,,,,130,,,RISCO INTERMEDIARIO
+56,branca,viúva,NÃO REMUNERADA,,,,"103,4",48,82,168,89,130,,,ALTO RISCO
+58,branca,viúva,REMUNERADA,,não,,"151,6",65,12,247,93,140,,,ALTO RISCO
+59,branca,viúva,NÃO REMUNERADA,,,,,,,,,140,Obesidade,100,ALTO RISCO
+59,branca,viúva,NÃO REMUNERADA,,,,"62,4",68,53,141,98,140,,70,RISCO INTERMEDIARIO
+59,branca,viúva,NÃO REMUNERADA,,não,,,,138,147,100,140,,,RISCO INTERMEDIARIO
+60,branca,viúva,REMUNERADA,,não,,,,,,,140,,,RISCO INTERMEDIARIO
+60,branca,viúva,REMUNERADA,,não,,"65,2",40,119,129,84,140,,,ALTO RISCO
+61,branca,viúva,REMUNERADA,,,,"138,8",45,196,223,113,140,,,ALTO RISCO
+62,branca,viúva,NÃO REMUNERADA,,não,,,47,127,132,200,140,,64,ALTO RISCO
+63,branca,viúva,NÃO REMUNERADA,,não,,135,53,134,215,100,140,Obesidade,,RISCO INTERMEDIARIO
+63,branca,viúva,REMUNERADA,,,,"114,6",42,172,191,,140,,,ALTO RISCO
+64,branca,viúva,REMUNERADA,,não,,"220,2",37,84,272,,140,,,ALTO RISCO
+64,branca,viúva,REMUNERADA,,,,,,,,,140,,,RISCO INTERMEDIARIO
+65,branca,viúva,REMUNERADA,,,,,,,,83,144,,70,RISCO INTERMEDIARIO
+65,branca,viúva,REMUNERADA,,não,,,,,,100,150,,,ALTO RISCO
+66,branca,viúva,REMUNERADA,,,,"159,3",40,177,235,118,150,,,ALTO RISCO
+66,branca,viúva,NÃO REMUNERADA,,,,"149,8",61,146,240,107,150,,,ALTO RISCO
+66,branca,viúva,REMUNERADA,,,,,,,,,150,,,ALTO RISCO
+66,branca,viúva,REMUNERADA,,,,,,,,121,150,,72,ALTO RISCO
+66,branca,viúva,REMUNERADA,,,,"76,4",41,158,149,95,150,Normal,,ALTO RISCO
+67,branca,viúva,REMUNERADA,,,,98,59,120,181,141,150,Pré-obesidade,,ALTO RISCO
+68,branca,viúva,NÃO REMUNERADA,,sim,,,,,,,150,,,ALTO RISCO
+69,branca,viúva,REMUNERADA,,,,,,,,,150,,,ALTO RISCO
+69,branca,viúva,REMUNERADA,,,,"87,8",57,186,182,116,150,Obesidade,,RISCO INTERMEDIARIO
+70,branca,viúva,NÃO REMUNERADA,,,,"92,2",31,124,148,85,150,,,ALTO RISCO
+70,branca,viúva,NÃO REMUNERADA,,,,,,,,,160,,,RISCO INTERMEDIARIO
+70,branca,viúva,REMUNERADA,,,,142,52,69,208,95,160,,,ALTO RISCO
+71,branca,viúva,NÃO REMUNERADA,,,,107,68,137,203,109,160,,,ALTO RISCO
+71,branca,viúva,REMUNERADA,,não,,"146,2",42,174,223,104,160,,,ALTO RISCO
+71,branca,viúva,REMUNERADA,,,,"78,6",39,237,165,156,160,,,ALTO RISCO
+72,branca,viúva,NÃO REMUNERADA,,,,,,,,,160,,,ALTO RISCO
+72,branca,viúva,REMUNERADA,,não,,97,60,263,210,194,160,,,ALTO RISCO
+72,branca,viúva,REMUNERADA,,,,,,,,101,160,Obesidade,,ALTO RISCO
+72,branca,viúva,REMUNERADA,,,,"122,4",64,83,203,104,160,,,ALTO RISCO
+72,branca,viúva,REMUNERADA,,não,,74,49,95,142,,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,,,,68,51,185,156,210,160,Obesidade,104,ALTO RISCO
+73,branca,viúva,NÃO REMUNERADA,,,,"40,8",82,96,142,102,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,,,,121,50,110,193,89,160,Obesidade,93,ALTO RISCO
+73,branca,viúva,REMUNERADA,,não,,,60,183,222,,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,,,,,,,,,160,,,ALTO RISCO
+73,branca,viúva,REMUNERADA,,não,,104,67,110,193,,160,,112,ALTO RISCO
+74,branca,viúva,REMUNERADA,,,,131,58,79,205,93,160,,,ALTO RISCO
+74,branca,viúva,REMUNERADA,,,,110,37,445,236,,160,,,ALTO RISCO
+75,branca,viúva,NÃO REMUNERADA,,,,"81,4",53,68,148,87,160,,,ALTO RISCO
+75,branca,viúva,NÃO REMUNERADA,,não,,,,,,,160,,114,ALTO RISCO
+75,branca,viúva,REMUNERADA,,,,106,56,118,185,137,160,,,ALTO RISCO
+76,branca,viúva,NÃO REMUNERADA,,,,88,46,35,140,96,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,,não,,,,,,132,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,,,,118,61,137,206,,160,,,ALTO RISCO
+76,branca,viúva,REMUNERADA,,,,"168,4",55,118,247,94,160,Normal,90,ALTO RISCO
+77,branca,viúva,REMUNERADA,,não,,"148,6",45,112,216,,160,,,ALTO RISCO
+77,branca,viúva,REMUNERADA,,não,,"150,2",39,64,202,90,160,,,RISCO INTERMEDIARIO
+78,branca,viúva,NÃO REMUNERADA,,,,,,,,,160,,,ALTO RISCO
+78,branca,viúva,REMUNERADA,,,,131,58,125,214,105,160,,,ALTO RISCO
+78,branca,viúva,NÃO REMUNERADA,,,,,,,,,170,,,RISCO INTERMEDIARIO
+79,branca,viúva,REMUNERADA,,,,"60,4",59,173,154,105,170,Pré-obesidade,94,ALTO RISCO
+79,branca,viúva,REMUNERADA,,,,67,36,122,128,123,170,,,ALTO RISCO
+79,branca,viúva,REMUNERADA,,não,,,,,,,170,,,ALTO RISCO
+79,branca,viúva,REMUNERADA,,,,,63,149,218,83,170,Pré-obesidade,96,ALTO RISCO
+79,branca,viúva,REMUNERADA,,não,,,,,,,170,,65,ALTO RISCO
+80,branca,viúva,NÃO REMUNERADA,,,,,,,,,180,,,ALTO RISCO
+80,branca,viúva,REMUNERADA,,,,"59,8",43,71,117,106,180,,94,ALTO RISCO
+80,branca,viúva,NÃO REMUNERADA,,não,,"102,2",60,149,192,84,180,Pré-obesidade,92,ALTO RISCO
+80,branca,viúva,REMUNERADA,,não,,89,38,115,150,144,180,,,ALTO RISCO
+80,branca,viúva,REMUNERADA,,não,,144,39,146,212,,180,,,ALTO RISCO
+80,branca,viúva,REMUNERADA,,,,"159,4",53,293,271,,180,,,ALTO RISCO
+81,branca,viúva,NÃO REMUNERADA,,não,,"130,8",68,86,216,113,180,,,ALTO RISCO
+81,branca,viúva,REMUNERADA,,,,,,,,113,180,,,ALTO RISCO
+81,branca,viúva,REMUNERADA,,,,85,45,85,147,121,180,,90,ALTO RISCO
+81,branca,viúva,REMUNERADA,,,,"96,4",61,108,179,100,180,Obesidade,89,ALTO RISCO
+81,branca,viúva,REMUNERADA,,,,155,60,85,232,158,180,,,ALTO RISCO
+81,branca,viúva,NÃO REMUNERADA,,,,128,53,195,220,85,180,,,ALTO RISCO
+81,branca,viúva,REMUNERADA,,,,105,43,130,174,96,180,Obesidade,,ALTO RISCO
+81,branca,viúva,REMUNERADA,,não,,,46,181,249,,180,,,ALTO RISCO
+81,branca,viúva,NÃO REMUNERADA,,,,105,71,304,237,110,180,,,ALTO RISCO
+81,branca,viúva,REMUNERADA,,,,,,,,,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,,não,,"114,4",28,223,187,,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,,não,,"76,8",32,141,148,173,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,,,,"104,8",33,136,165,129,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,,,,"160,8",61,186,259,144,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,,,,53,37,122,115,98,180,,,ALTO RISCO
+82,branca,viúva,REMUNERADA,,,,166,72,120,262,95,180,Pré-obesidade,88,ALTO RISCO
+82,branca,viúva,REMUNERADA,,,,,,,,,180,,,ALTO RISCO
+83,branca,viúva,NÃO REMUNERADA,,,,78,36,145,143,115,180,,,ALTO RISCO
+83,branca,viúva,REMUNERADA,,,,,,,,,180,,,ALTO RISCO
+83,branca,viúva,REMUNERADA,,não,,,,,,,180,,,ALTO RISCO
+83,branca,viúva,REMUNERADA,,,,,,,,,180,,,ALTO RISCO
+83,branca,viúva,REMUNERADA,,,,"103,6",52,137,183,89,180,,80,ALTO RISCO
+83,branca,viúva,REMUNERADA,,,,"151,8",34,76,201,93,180,,,ALTO RISCO
+84,branca,viúva,NÃO REMUNERADA,,não,,"64,6",33,237,145,95,180,,,ALTO RISCO
+84,branca,viúva,REMUNERADA,,não,,"79,6",28,182,144,,180,,,ALTO RISCO
+84,branca,viúva,REMUNERADA,,não,,104,48,90,169,99,190,,,ALTO RISCO
+85,branca,viúva,REMUNERADA,,,,"119,8",58,141,206,,190,,,ALTO RISCO
+85,branca,viúva,NÃO REMUNERADA,,não,,"121,8",39,86,178,,200,,,ALTO RISCO
+86,branca,viúva,REMUNERADA,,,,68,33,245,150,90,200,Obesidade,95,ALTO RISCO
+86,branca,viúva,REMUNERADA,,,,"62,4",42,83,121,,200,,,ALTO RISCO
+86,branca,viúva,REMUNERADA,,,,,,,,,200,,,ALTO RISCO
+86,branca,viúva,REMUNERADA,,,,56,38,169,128,169,200,,,ALTO RISCO
+87,branca,viúva,REMUNERADA,,,,54,46,190,138,89,220,,,ALTO RISCO
+88,branca,viúva,REMUNERADA,,não,,"150,8",40,166,224,86,240,,87,ALTO RISCO
+88,branca,viúva,REMUNERADA,,não,,123,61,280,245,114,250,,,ALTO RISCO
+88,branca,viúva,REMUNERADA,,,,128,31,177,195,96,290,Pré-obesidade,,ALTO RISCO
+88,branca,viúva,REMUNERADA,,,,,,,,,90,,,RISCO INTERMEDIARIO
+88,branca,viúva,REMUNERADA,,não,,132,62,46,204,81,,,,BAIXO RISCO
+88,branca,viúva,REMUNERADA,,não,,,,,,,,,,BAIXO RISCO
+89,branca,viúva,REMUNERADA,,,,"78,4",22,218,144,120,,,,RISCO INTERMEDIARIO
+91,branca,viúva,REMUNERADA,,,,"136,2",31,139,195,96,,Normal,,ALTO RISCO
+91,branca,viúva,NÃO REMUNERADA,,não,,"174,2",59,169,267,96,,Pré-obesidade,,ALTO RISCO
+91,branca,viúva,REMUNERADA,,,,,,,,,,,,BAIXO RISCO
+91,branca,viúva,REMUNERADA,,,,,,,,,,,,BAIXO RISCO
+91,branca,viúva,REMUNERADA,,não,,"134,8","49,6",108,206,,,,,BAIXO RISCO
+92,branca,viúva,REMUNERADA,,,,"119,8",67,51,197,,,,,BAIXO RISCO
+92,branca,viúva,REMUNERADA,,,,,,,,,,,,BAIXO RISCO
+93,branca,viúva,REMUNERADA,,,,,,3222*,226,,,,,RISCO INTERMEDIARIO
+93,branca,viúva,REMUNERADA,,,,,,,,,,,,RISCO INTERMEDIARIO
+95,branca,viúva,NÃO REMUNERADA,,,,197,75,63,285,100,,,,RISCO INTERMEDIARIO
+95,branca,viúva,REMUNERADA,,,,147,55,164,233,93,,,,RISCO INTERMEDIARIO
+96,branca,viúva,REMUNERADA,,,,133,50,17,200,,,,,ALTO RISCO
+99,branca,viúva,REMUNERADA,,,,"97,6",25,202,163,114,,,,ALTO RISCO
+103,branca,viúva,REMUNERADA,,,,"122,6",31,162,186,104,,,,ALTO RISCO
+65,branca ,viúva,REMUNERADA,,,,,,,275,,144,,,ALTO RISCO
+66,branca ,viúva,REMUNERADA,,não,,"103,6",42,207,187,119,150,,84,ALTO RISCO
+74,branca ,viúva,REMUNERADA,,,,"39,6",25,282,121,100,160,Pré-obesidade,91,ALTO RISCO
+75,branca ,viúva,NÃO REMUNERADA,,não,,63,91,30,160,86,160,,,ALTO RISCO
+77,branca ,viúva,NÃO REMUNERADA,,não,,,,,,,160,,,ALTO RISCO
+78,branca ,viúva,NÃO REMUNERADA,,não,,135,39,210,216,,170,Obesidade,,ALTO RISCO
+79,branca ,viúva,REMUNERADA,,,,"81,2",35,234,163,119,170,,,ALTO RISCO
+83,branca ,viúva,REMUNERADA,,,,134,41,110,197,,180,,,ALTO RISCO
+89,branca ,viúva,REMUNERADA,,não,,,,,,,,,60,RISCO INTERMEDIARIO
+51,negra,viúva,NÃO REMUNERADA,,não,,,,,,,130,,,BAIXO RISCO
+67,negra,viúva,NÃO REMUNERADA,,,,,,,,,150,,,ALTO RISCO
+79,negra,viúva,REMUNERADA,,não,,176,38,288,272,114,170,,,ALTO RISCO
+79,negra,viúva,REMUNERADA,,,,,,,,78,170,,,ALTO RISCO
+80,negra,viúva,REMUNERADA,,,,61,43,129,130,,180,Pré-obesidade,87,ALTO RISCO
+82,negra,viúva,REMUNERADA,,,,146,55,117,225,111,180,,,ALTO RISCO
+69,parda,viúva,REMUNERADA,,,,"169,2",43,199,252,,150,,,ALTO RISCO
+77,parda,viúva,NÃO REMUNERADA,,não,,112,50,160,194,,160,,,ALTO RISCO
+84,parda,viúva,REMUNERADA,,não,,"98,8",33,66,145,133,180,,94,ALTO RISCO
+82,,viúva,REMUNERADA,,não,,"115,6",33,257,202,113,180,Pré-obesidade,,ALTO RISCO
+71,branca,,REMUNERADA,não,não,,"166,6",59,237,273,119,160,Pré-obesidade,91,ALTO RISCO
+65,parda,,REMUNERADA,não,,,"94,6",64,107,180,129,144,,95,ALTO RISCO
+58,branca,,,,,,95,50,140,173,279,140,Obesidade,95,ALTO RISCO
+86,branca ,,REMUNERADA,,,,"112,4",35,208,189,102,200,,,ALTO RISCO
+70,parda,,NÃO REMUNERADA,,não,,,,,172,297,150,,114,ALTO RISCO
+68,,,,,,,,,,,,150,,,ALTO RISCO

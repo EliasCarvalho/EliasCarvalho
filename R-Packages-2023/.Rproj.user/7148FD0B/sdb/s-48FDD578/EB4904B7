@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#' A qualitative data set to test functions\n#'\n#' This is data set with qualitative nominal variables containing 500 obs\n#' extracted from ASIA Bayesian Networks  of bnlearn package repository.\n#'\n#' @format A data frame with 500 rows and 7 variables:\n#' \\describe{\n#'   \\item{A}{a categorical variale}\n#'   \\item{S}{a categorical variale}\n#'   \\item{T}{a categorical variale}\n#'   \\item{L}{a categorical variale}\n#'   \\item{B}{a categorical variale}\n#'   \\item{E}{a categorical variale}\n#'   \\item{X}{a categorical variale}\n#'   \\item{D}{a categorical variale}\n#'   ...\n#' }\n#' @source \\url{http://www.bnlearn.com/bnrepository//}\n\"dataQualiN\"\n\n#' A quantiative data set to test functions\n#'\n#' This is data set with quantiative continuous variables containing 500 obs\n#' extracted from ASIA Bayesian Networks  of bnlearn package repository.\n#'\n#' @format A data frame with 500 rows and 7 variables:\n#' \\describe{\n#'   \\item{A}{a numeric variale}\n#'   \\item{B}{a numeric variale}\n#'   \\item{C}{a numeric variale}\n#'   \\item{D}{a numeric variale}\n#'   \\item{E}{a numeric variale}\n#'   \\item{F}{a numeric variale}\n#'   \\item{G}{a numeric variale}\n#'   ...\n#' }\n#' @source \\url{http://www.bnlearn.com/bnrepository//}\n\"dataQuantC\"\n",
+    "created" : 1564265547076.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4148397610",
+    "id" : "EB4904B7",
+    "lastKnownWriteTime" : 1564279850,
+    "last_content_update" : 1564279850156,
+    "path" : "~/Documents/00.2019/88.R-Packages/bnpa/R/data.R",
+    "project_path" : "R/data.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

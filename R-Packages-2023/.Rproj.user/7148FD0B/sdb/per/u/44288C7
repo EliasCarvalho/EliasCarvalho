@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Clean environment\ncloseAllConnections()\nrm(list=ls())\n# Set enviroment\n# setwd(\"to your working directory\")\n# Load packages\nlibrary(bnpa)\n# Use working data sets from package\ndata.to.work <- dataQualiN\n# Start the cluster\ncl <- bnpa::create.cluster()\n# Set the number of replications\nnreplicates=1000\n# Set the algorithm to be used\nbn.algorithm=\"hc\"\n# Executes a parallel bootstrap process\ndata.bn.boot.strap=bnlearn::boot.strength(data = data.to.work, R = nreplicates, algorithm = \n                                            bn.algorithm, cluster=cl, algorithm.args=\n                                            list(score=\"bic\"), cpdag = FALSE)\n# Release the cluster\nparallel::stopCluster(cl)\nhead(data.bn.boot.strap)\n",
+    "created" : 1563807788304.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3747411768",
+    "id" : "44288C7",
+    "lastKnownWriteTime" : 161,
+    "last_content_update" : 1563814892262,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

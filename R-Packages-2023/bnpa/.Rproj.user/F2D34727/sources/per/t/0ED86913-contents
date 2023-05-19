@@ -1,0 +1,116 @@
+# scriptBNPA.R
+# Author: Elias Carvalho
+# Period: 07/2019
+
+# Clean environment
+closeAllConnections()
+rm(list=ls())
+
+# Set Work Dir
+setwd("~/Documentos/01.2020/00.Doutorado - Experimento - Final/04. BNPA")
+
+# Load Packages
+library("bnpa")
+library("car") # recode
+
+# Load training data
+data.to.work.train <- read.csv("data.to.work.csv", sep = ',', header = TRUE,  colClasses=c('factor'))
+data.to.work.train$X <- NULL
+
+# Set base categories
+levels(data.to.work.train$AGE)<-c("Adult","Elderly")
+data.to.work.train$AGE<-relevel(data.to.work.train$AGE,"Adult")
+
+levels(data.to.work.train$SEX)<-c("Male","Female")
+data.to.work.train$SEX<-relevel(data.to.work.train$SEX,"Female")
+
+levels(data.to.work.train$HBP)<-c("Has HBP","No HBP")
+data.to.work.train$HBP<-relevel(data.to.work.train$HBP,"No HBP")
+
+levels(data.to.work.train$DIA)<-c("Diabetic","No Diabetic")
+data.to.work.train$DIA<-relevel(data.to.work.train$DIA,"No Diabetic")
+
+levels(data.to.work.train$SMK)<-c("Smoker","Smoker","Smoker","Smoker","Smoker","No Smoker")
+data.to.work.train$SMK<-relevel(data.to.work.train$SMK,"No Smoker")
+
+levels(data.to.work.train$ALC)<-c("Alcoholic","Alcoholic","No Alcoholic")
+data.to.work.train$ALC<-relevel(data.to.work.train$ALC,"No Alcoholic")
+
+levels(data.to.work.train$BMI)<-c("Normal","Obese", "Overweight")
+data.to.work.train$BMI<-relevel(data.to.work.train$BMI,"Normal")
+
+levels(data.to.work.train$WRK)<-c("Work","No Work")
+data.to.work.train$WRK<-relevel(data.to.work.train$WRK,"No Work")
+
+levels(data.to.work.train$STK)<-c("Stroke","No Stroke")
+data.to.work.train$STK<-relevel(data.to.work.train$STK,"No Stroke")
+
+levels(data.to.work.train$RUN)<-c("Run","No Run")
+data.to.work.train$RUN<-relevel(data.to.work.train$RUN,"No Run")
+
+levels(data.to.work.train$WLK)<-c("Walk","No Walk")
+data.to.work.train$WLK<-relevel(data.to.work.train$WLK,"No Walk")
+
+levels(data.to.work.train$BYC)<-c("Bike","No Bike")
+data.to.work.train$BYC<-relevel(data.to.work.train$BYC,"No Bike")
+
+levels(data.to.work.train$INC)<-c("<20k","20k-39k","40k-59k","60k-79k","80k+")
+data.to.work.train$INC<-relevel(data.to.work.train$INC,"<20k")
+
+levels(data.to.work.train$HHD)<-c("Heart Disease","No Heart Disease")
+data.to.work.train$HHD<-relevel(data.to.work.train$HHD,"No Heart Disease")
+
+# Transform variables with more than 2 factor in ordered
+data.to.work.train$BMI <- as.ordered(data.to.work.train$BMI)
+data.to.work.train$INC <- as.ordered(data.to.work.train$INC)
+
+# Print a summary of variables
+summary(data.to.work.train)
+
+# Set a bnlearn parameter
+optimized.option="FALSE"
+
+# Checking the Nas
+bnpa::check.na(data.to.work.train)
+
+# Set constrained-based algorithms to learn the structure BN
+cb.algorithms = c("gs","iamb", "fast.iamb", "inter.iamb")
+
+# Set score-based algorithms to learn the structure BN
+sb.algorithms = c("hc","tabu")
+
+# Create a black and white list (empty in the first momment)
+white.list=""
+black.list <- ""
+
+# Set the outcome var(s)
+type.var <- "o" # setting to outcome.predictor.var function to set a black list for outcome
+var.name <- "HHD" # setting this variable as a tyṕically outcome
+black.list <- bnpa::outcome.predictor.var(data.to.work.train, var.name, type.var, black.list)
+
+# Set the predictor var(s)
+type.var <- "P" # setting to outcome.predictor.var function to set a black list for outcome
+var.name <- "AGE" # setting this variable as a tyṕically outcome
+black.list <- bnpa::outcome.predictor.var(data.to.work.train, var.name, type.var, black.list)
+
+type.var <- "P" # setting to outcome.predictor.var function to set a black list for outcome
+var.name <- "SEX" # setting this variable as a tyṕically outcome
+black.list <- bnpa::outcome.predictor.var(data.to.work.train, var.name, type.var, black.list)
+
+# Start generation of BN and PA models
+outcome.var = "HHD"
+build.pa = 1
+
+for(i in seq(from=100, to=1000, by=100))
+{
+  #  stuff, such as
+  cat("\nBuilding BNPA with replicates =",i)
+  nreplicates = i
+
+  commandAssign <- paste("setwd('~/Documentos/01.2020/00.Doutorado - Experimento - Final/04. BNPA/",i,"')", sep = "")
+  eval(parse(text=commandAssign))
+
+  # Learn the BN Structure and Build the PA Model and it fit indexes
+  gera.bn.pa(data.to.work.train, white.list, black.list, nreplicates,
+             cb.algorithms, sb.algorithms, outcome.var, build.pa)
+}

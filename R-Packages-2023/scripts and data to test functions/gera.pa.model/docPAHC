@@ -1,0 +1,218 @@
+lavaan 0.6-3 ended normally after 31 iterations
+
+  Optimization method                           NLMINB
+  Number of free parameters                         13
+
+  Number of observations                           500
+
+  Estimator                                       DWLS      Robust
+  Model Fit Test Statistic                     350.365     277.128
+  Degrees of freedom                                12          12
+  P-value (Chi-square)                           0.000       0.000
+  Scaling correction factor                                  1.283
+  Shift parameter                                            4.104
+    for simple second-order correction (Mplus variant)
+
+Parameter Estimates:
+
+  Information                                 Expected
+  Information saturated (h1) model        Unstructured
+  Standard Errors                           Robust.sem
+
+Regressions:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv
+  L ~                                                          
+    S         (c1)    0.935    0.198    4.732    0.000    0.935
+  B ~                                                          
+    S         (c2)    0.842    0.118    7.121    0.000    0.842
+  E ~                                                          
+    T         (c3)    8.439    0.244   34.636    0.000    8.439
+    L         (c4)    1.000    0.002  502.101    0.000    1.000
+  X ~                                                          
+    E         (c5)    0.911    0.022   41.930    0.000    0.911
+  D ~                                                          
+    B         (c6)    0.848    0.029   29.461    0.000    0.848
+    E         (c7)    0.162    0.042    3.843    0.000    0.162
+  Std.all
+         
+    0.424
+         
+    0.388
+         
+    0.716
+    0.704
+         
+    1.216
+         
+    0.843
+    0.233
+
+Covariances:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv
+ .X ~~                                                         
+   .D                -0.036    0.091   -0.399    0.690   -0.036
+  Std.all
+         
+   -0.094
+
+Intercepts:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv
+   .L                 0.000                               0.000
+   .B                 0.000                               0.000
+   .E                 0.000                               0.000
+   .X                 0.000                               0.000
+   .D                 0.000                               0.000
+  Std.all
+    0.000
+    0.000
+    0.000
+    0.000
+    0.000
+
+Thresholds:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv
+    L|t1             -1.214    0.264   -4.596    0.000   -1.214
+    B|t1              2.095    0.466    4.495    0.000    2.095
+    E|t1             11.987    0.264   45.363    0.000   11.987
+    X|t1             10.149    0.153   66.409    0.000   10.149
+    D|t1              1.925    0.419    4.593    0.000    1.925
+  Std.all
+   -1.100
+    1.931
+    7.643
+    8.634
+    1.764
+
+Variances:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv
+   .L                 1.000                               1.000
+   .B                 1.000                               1.000
+   .E                -0.000                              -0.000
+   .X                -0.661                              -0.661
+   .D                 0.228                               0.228
+  Std.all
+    0.821
+    0.849
+   -0.000
+   -0.479
+    0.192
+
+Scales y*:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv
+    L                 1.000                               1.000
+    B                 1.000                               1.000
+    E                 1.000                               1.000
+    X                 1.000                               1.000
+    D                 1.000                               1.000
+  Std.all
+    1.000
+    1.000
+    1.000
+    1.000
+    1.000
+
+R-Square:
+                   Estimate
+    L                 0.179
+    B                 0.151
+    E                    NA
+    X                    NA
+    D                 0.808
+
+NULL
+   lhs  op rhs est.std    se       z pvalue ci.lower ci.upper
+1    L   ~   S   0.424 0.073   5.767   0.00    0.280    0.568
+2    B   ~   S   0.388 0.046   8.386   0.00    0.298    0.479
+3    E   ~   T   0.716 0.022  32.201   0.00    0.673    0.760
+4    E   ~   L   0.704 0.024  29.748   0.00    0.658    0.750
+5    X   ~   E   1.216 0.024  50.618   0.00    1.169    1.263
+6    D   ~   B   0.843 0.027  31.443   0.00    0.790    0.896
+7    D   ~   E   0.233 0.060   3.897   0.00    0.116    0.350
+8    L   |  t1  -1.100 0.275  -3.996   0.00   -1.640   -0.560
+9    B   |  t1   1.931 0.418   4.620   0.00    1.112    2.750
+10   E   |  t1   7.643 0.179  42.806   0.00    7.293    7.993
+11   X   |  t1   8.634 0.080 107.283   0.00    8.476    8.792
+12   D   |  t1   1.764 0.369   4.785   0.00    1.041    2.486
+13   L  ~~   L   0.821 0.062  13.185   0.00    0.699    0.943
+14   B  ~~   B   0.849 0.036  23.613   0.00    0.779    0.920
+15   E  ~~   E   0.000 0.000      NA     NA    0.000    0.000
+16   X  ~~   X  -0.479 0.011 -43.827   0.00   -0.500   -0.457
+17   D  ~~   D   0.192 0.007  27.455   0.00    0.178    0.205
+18   X  ~~   D  -0.094 0.235  -0.399   0.69   -0.555    0.367
+19   S  ~~   S   1.000 0.000      NA     NA    1.000    1.000
+20   S  ~~   T  -0.019 0.000      NA     NA   -0.019   -0.019
+21   T  ~~   T   1.000 0.000      NA     NA    1.000    1.000
+22   L ~*~   L   1.000 0.000      NA     NA    1.000    1.000
+23   B ~*~   B   1.000 0.000      NA     NA    1.000    1.000
+24   E ~*~   E   1.000 0.000      NA     NA    1.000    1.000
+25   X ~*~   X   1.000 0.000      NA     NA    1.000    1.000
+26   D ~*~   D   1.000 0.000      NA     NA    1.000    1.000
+27   L  ~1       0.000 0.000      NA     NA    0.000    0.000
+28   B  ~1       0.000 0.000      NA     NA    0.000    0.000
+29   E  ~1       0.000 0.000      NA     NA    0.000    0.000
+30   X  ~1       0.000 0.000      NA     NA    0.000    0.000
+31   D  ~1       0.000 0.000      NA     NA    0.000    0.000
+32   S  ~1       3.031 0.000      NA     NA    3.031    3.031
+33   T  ~1       7.649 0.000      NA     NA    7.649    7.649
+                         npar                          fmin 
+                       13.000                         0.350 
+                        chisq                            df 
+                      350.365                        12.000 
+                       pvalue                  chisq.scaled 
+                        0.000                       277.128 
+                    df.scaled                 pvalue.scaled 
+                       12.000                         0.000 
+         chisq.scaling.factor                baseline.chisq 
+                        1.283                    252936.446 
+                  baseline.df               baseline.pvalue 
+                       10.000                         0.000 
+        baseline.chisq.scaled            baseline.df.scaled 
+                   157315.266                        10.000 
+       baseline.pvalue.scaled baseline.chisq.scaling.factor 
+                        0.000                         1.608 
+                          cfi                           tli 
+                        0.999                         0.999 
+                         nnfi                           rfi 
+                        0.999                            NA 
+                          nfi                          pnfi 
+                           NA                         1.198 
+                          ifi                           rni 
+                        0.999                         0.999 
+                   cfi.scaled                    tli.scaled 
+                        0.998                         0.999 
+                   cfi.robust                    tli.robust 
+                           NA                            NA 
+                  nnfi.scaled                   nnfi.robust 
+                        0.999                            NA 
+                   rfi.scaled                    nfi.scaled 
+                           NA                            NA 
+                   ifi.scaled                    rni.scaled 
+                        0.998                         0.998 
+                   rni.robust                         rmsea 
+                           NA                         0.238 
+               rmsea.ci.lower                rmsea.ci.upper 
+                        0.217                         0.259 
+                 rmsea.pvalue                  rmsea.scaled 
+                        0.000                         0.210 
+        rmsea.ci.lower.scaled         rmsea.ci.upper.scaled 
+                        0.189                         0.232 
+          rmsea.pvalue.scaled                  rmsea.robust 
+                        0.000                            NA 
+        rmsea.ci.lower.robust         rmsea.ci.upper.robust 
+                           NA                            NA 
+          rmsea.pvalue.robust                           rmr 
+                           NA                         0.231 
+                   rmr_nomean                          srmr 
+                        0.267                         0.267 
+                 srmr_bentler           srmr_bentler_nomean 
+                        0.231                         0.267 
+                         crmr                   crmr_nomean 
+                        0.469                         0.574 
+                   srmr_mplus             srmr_mplus_nomean 
+                        0.446                         0.515 
+                        cn_05                         cn_01 
+                       30.946                        38.339 
+                          gfi                          agfi 
+                        0.999                         0.997 
+                         pgfi                           mfi 
+                        0.479                         0.712 

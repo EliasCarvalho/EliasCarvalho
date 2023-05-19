@@ -1,0 +1,59 @@
+
+  Bayesian network parameters
+
+  Parameters of node A (Gaussian distribution)
+
+Conditional density: A
+Coefficients:
+(Intercept)  
+  0.9787474  
+Standard deviation of the residuals: 0.9650562 
+
+  Parameters of node B (Gaussian distribution)
+
+Conditional density: B
+Coefficients:
+(Intercept)  
+   1.915163  
+Standard deviation of the residuals: 2.932899 
+
+  Parameters of node C (Gaussian distribution)
+
+Conditional density: C | A + B
+Coefficients:
+(Intercept)            A            B  
+   1.980521     1.969296     2.004815  
+Standard deviation of the residuals: 0.5377361 
+
+  Parameters of node D (Gaussian distribution)
+
+Conditional density: D | B
+Coefficients:
+(Intercept)            B  
+    5.99208      1.50495  
+Standard deviation of the residuals: 0.3178666 
+
+  Parameters of node E (Gaussian distribution)
+
+Conditional density: E
+Coefficients:
+(Intercept)  
+   3.552623  
+Standard deviation of the residuals: 2.006047 
+
+  Parameters of node G (Gaussian distribution)
+
+Conditional density: G
+Coefficients:
+(Intercept)  
+   5.085389  
+Standard deviation of the residuals: 2.025225 
+
+  Parameters of node F (Gaussian distribution)
+
+Conditional density: F | A + D + E + G
+Coefficients:
+(Intercept)            A            D            E            G  
+ -0.1091536    1.9518481    1.0337607    0.9877260    1.4896244  
+Standard deviation of the residuals: 0.9660416 
+

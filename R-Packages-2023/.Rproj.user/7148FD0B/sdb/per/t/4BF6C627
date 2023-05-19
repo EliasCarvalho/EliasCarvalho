@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#' @name dataQuantC\n#' @title A quantitative data set to test functions\n#' @description This is data set with quantitative continuous variables containing 500 obs extracted from gaussian.test from bnlearn package repository.\n#' @docType data\n#' @usage data\n#' @source bnlearn package\n#' @author Elias Carvalho, 2016-02-07\nNULL\n",
+    "created" : 1564250369404.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "511887625",
+    "id" : "4BF6C627",
+    "lastKnownWriteTime" : 1564250376,
+    "last_content_update" : 1564250376673,
+    "path" : "~/Documents/00.2019/88.R-Packages/bnpa/R/dataQuantC.R",
+    "project_path" : "R/dataQuantC.R",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

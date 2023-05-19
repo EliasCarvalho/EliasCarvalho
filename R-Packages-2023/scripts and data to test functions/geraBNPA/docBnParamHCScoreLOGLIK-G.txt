@@ -1,0 +1,95 @@
+
+  Bayesian network parameters
+
+  Parameters of node y1 (Gaussian distribution)
+
+Conditional density: y1 | y2
+Coefficients:
+(Intercept)           y2  
+  3.7567786    0.4012477  
+Standard deviation of the residuals: 2.104777 
+
+  Parameters of node y2 (Gaussian distribution)
+
+Conditional density: y2 | y8
+Coefficients:
+(Intercept)           y8  
+  1.2784800    0.7365016  
+Standard deviation of the residuals: 3.16244 
+
+  Parameters of node y3 (Gaussian distribution)
+
+Conditional density: y3 | y1 + y2 + y4 + y6
+Coefficients:
+(Intercept)           y1           y2           y4           y6  
+ 1.83550303   0.68528104  -0.02597361   0.32853707  -0.12407085  
+Standard deviation of the residuals: 2.367918 
+
+  Parameters of node y4 (Gaussian distribution)
+
+Conditional density: y4 | y2
+Coefficients:
+(Intercept)           y2  
+  1.8547736    0.6103123  
+Standard deviation of the residuals: 2.343061 
+
+  Parameters of node y5 (Gaussian distribution)
+
+Conditional density: y5 | y1 + y2 + y3 + y4 + y6 + y8
+Coefficients:
+(Intercept)           y1           y2           y3           y4           y6           y8  
+ 1.10525758   0.46512637   0.02049428   0.05946134   0.11846488  -0.00727403   0.12512857  
+Standard deviation of the residuals: 1.73133 
+
+  Parameters of node y6 (Gaussian distribution)
+
+Conditional density: y6 | y1 + y2 + y4
+Coefficients:
+(Intercept)           y1           y2           y4  
+ -1.2719385    0.3689408    0.3558359    0.1615438  
+Standard deviation of the residuals: 2.216391 
+
+  Parameters of node y7 (Gaussian distribution)
+
+Conditional density: y7 | y1 + y2 + y3 + y4 + y5 + y6 + y8 + x1
+Coefficients:
+(Intercept)           y1           y2           y3           y4           y5           y6           y8           x1  
+ 1.89721549   0.01511894   0.05305204   0.26109230   0.07477379   0.30528094   0.03949263   0.31202378  -0.19846936  
+Standard deviation of the residuals: 2.035615 
+
+  Parameters of node y8 (Gaussian distribution)
+
+Conditional density: y8
+Coefficients:
+(Intercept)  
+    4.04339  
+Standard deviation of the residuals: 3.245593 
+
+  Parameters of node x1 (Gaussian distribution)
+
+Conditional density: x1 | y2 + y3 + y4 + y5 + y6 + y8
+Coefficients:
+ (Intercept)            y2            y3            y4            y5            y6            y8  
+ 4.287742460  -0.067522269  -0.018653968   0.073064226   0.133509228   0.005502513   0.036857518  
+Standard deviation of the residuals: 0.5899766 
+
+  Parameters of node x2 (Gaussian distribution)
+
+Conditional density: x2 | y1 + y2 + y3 + y4 + y5 + y6 + y7 + y8 + x1
+Coefficients:
+(Intercept)           y1           y2           y3           y4           y5           y6           y7           y8  
+-4.40061694  -0.09751961   0.02997755   0.01748331  -0.02013894   0.01523983   0.01687490   0.03316348   0.01338316  
+         x1  
+ 1.81721795  
+Standard deviation of the residuals: 0.6930312 
+
+  Parameters of node x3 (Gaussian distribution)
+
+Conditional density: x3 | y1 + y2 + y3 + y4 + y5 + y6 + y7 + y8 + x1 + x2
+Coefficients:
+ (Intercept)            y1            y2            y3            y4            y5            y6            y7  
+-1.448105804  -0.041783918  -0.009150316  -0.026734821   0.029745413  -0.022237948   0.052881041   0.042532101  
+          y8            x1            x2  
+-0.055922732   0.462311608   0.604882094  
+Standard deviation of the residuals: 0.7621105 
+

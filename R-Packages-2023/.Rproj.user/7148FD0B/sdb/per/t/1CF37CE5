@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#' @name dataQualiN\n#' @title A qualitative data set to test functions\n#' @description This is data set with qualitative nominal variables containing 500 obs extracted from ASIA Bayesian Networks  of bnlearn package repository.\n#' @docType data\n#' @usage data\n#' @source http://www.bnlearn.com/bnrepository/\n#' @author Elias Carvalho, 2016-02-07\nNULL\n",
+    "created" : 1564250335094.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "606913878",
+    "id" : "1CF37CE5",
+    "lastKnownWriteTime" : 1564250360,
+    "last_content_update" : 1564250360203,
+    "path" : "~/Documents/00.2019/88.R-Packages/bnpa/R/dataQualiN.R",
+    "project_path" : "R/dataQualiN.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

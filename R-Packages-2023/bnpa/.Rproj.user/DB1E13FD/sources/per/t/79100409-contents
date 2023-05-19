@@ -1,0 +1,288 @@
+# Geospatial Analysis of Suicide in United States from 2000 to 2020
+#
+# For Year 2000 ##############################################################################
+# Data Sources:
+# Suicide - Mortality Multiple Cause Files-t.ly/fbqL
+# https://wonder.cdc.gov/
+# Multiple Cause of Death (Final)
+# Current Final Multiple Cause of Death Data - 1999 - 2020
+# Data Request - I Agree
+# 1. Organize table layout: State, Race, Year, Gender, UCD-ICD-10 113 Cause List
+# 2. Select location: CA, FL, NY, TX
+# 3. Select demographics:
+#       - 25-34 year, Female/Male, Not Hispanic or Latino, White
+#       - 25-34 year, Female/Male, Not Hispanic or Latino, Black
+#       - 25-34 year, Female/Male, Hispanic or Latino, All Races
+# 4. Select year and month: 2010-2020
+# 5. Select weekday, autopsy and place of death: default
+# 6. Select underlying cause of death: selected UCD - ICD-10 113 Cause List and Intentional self-harm (Suicide)(*U03, X60-X84, Y87.0)
+# 7. Select muiltiple cause of death:  selected UCD - ICD-10 113 Cause List and Intentional self-harm (Suicide)(*U03, X60-X84, Y87.0)
+# Predictors:
+# Gini Index - medida da desigualdade da distribuição de renda em uma população. Valores mais altos indicam um nível mais alto de desigualdade.
+# Unemployment
+# GDP-Ajustado pela inflação e pelas diferenças no custo de vida entre os países.
+
+# Clean Environment
+closeAllConnections()
+rm(list=ls())
+graphics.off()
+
+# Set working directory
+setwd("~/Documentos/GitHub/SLU-Mortality-Suicide/SEM")
+
+# Load Packages
+if (!require("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+BiocManager::install("Rgraphviz")
+
+library(bnpa) # gera.bn.pa
+
+library(car) # linearHypothesis
+library(faad) # testa.normalidade
+library(foreign)
+library(ggplot2)
+library(jtools)  # summ
+library(lmtest)
+library(psych) # corPlot
+library(plm) #
+library(psych) # describeBy
+library(readxl)
+library(Rgraphviz)
+library(stargazer)
+library(table1)
+library(tidyverse) # %>%
+
+# Remove scientific notation, i.e.: instead of appearing 2.2 e-16 will appear: 0.00000000000000022
+options(scipen=999)
+# Go back to default setting
+# options(scipen=0)
+
+# Data :
+#------------------------------------
+# Panel of NN states from 2000 to 2020 (20 anos);
+# Outcome Var: Death_Rate
+# Predictor Vars: "Pop_Race", #"GDP_State", "Unemployment", "Poverty_State",
+#                   "Median_Income", "HDI", "Suicide_Firearm_Crude_Rate"
+
+# Load General Data (All states and all races-from 2000 to 2020)
+data.to.work <- read_xlsx("data_to_work_geral_2023_02_19_SEM.xlsx")
+
+# Set working directory
+setwd("~/Documentos/GitHub/SLU-Mortality-Suicide/SEM/Results")
+
+data.to.work$State <- NULL
+
+data.to.work.sem.CA <- subset(data.to.work, Year > 2010 & CA>0,
+                           select = c("SCD_AA",
+                                      "SCD_HI",
+                                      "SCD_WH",
+                                      "Gini_Index_State",
+                                      "Unemp_Race",
+                                      "HFR",
+                                      "Rural_Pop_State",
+                                      "HDI_State"
+                           )
+)
+
+############### CA ###############
+# Create an empty list or fill it before start
+bl <- ""
+wl <- ""
+
+# Setting the type of var as typical "outcome" type what means it will not point to any variable
+type.var <- "o"
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_AA"
+# Creating the black list
+bl1 <- outcome.predictor.var(data.to.work.sem.CA, var.name, type.var, bl)
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_HI"
+# Creating the black list
+bl2 <- outcome.predictor.var(data.to.work.sem.CA, var.name, type.var, bl)
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_WH"
+# Creating the black list
+bl3 <- outcome.predictor.var(data.to.work.sem.CA, var.name, type.var, bl)
+
+bl <- paste(bl1,",",bl2,",",bl3, sep = "")
+
+
+outcome.var <- "SCD_AA"
+
+bn.pa<-gera.bn.pa(
+  data.to.work.sem.CA,
+  white.list = "",
+  black.list = bl,
+  nreplicates = 1000,
+  cb.algorithms = c("gs", "iamb", "fast.iamb", "inter.iamb"),
+  sb.algorithms = c("hc"),
+  outcome.var,
+  build.pa = 0
+)
+
+
+############### FL ###############
+data.to.work.sem.FL <- subset(data.to.work, Year > 2010 & FL>0,
+                              select = c("SCD_AA",
+                                         "SCD_HI",
+                                         "SCD_WH",
+                                         "Gini_Index_State",
+                                         "Unemp_Race",
+                                         "HFR",
+                                         "Rural_Pop_State",
+                                         "HDI_State"
+                              )
+)
+
+
+# Create an empty list or fill it before start
+bl <- ""
+wl <- ""
+
+# Setting the type of var as typical "outcome" type what means it will not point to any variable
+type.var <- "o"
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_AA"
+# Creating the black list
+bl1 <- outcome.predictor.var(data.to.work.sem.FL, var.name, type.var, bl)
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_HI"
+# Creating the black list
+bl2 <- outcome.predictor.var(data.to.work.sem.FL, var.name, type.var, bl)
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_WH"
+# Creating the black list
+bl3 <- outcome.predictor.var(data.to.work.sem.FL, var.name, type.var, bl)
+
+bl <- paste(bl1,",",bl2,",",bl3, sep = "")
+
+
+outcome.var <- "SCD_AA"
+
+bn.pa<-gera.bn.pa(
+  data.to.work.sem.FL,
+  white.list = "",
+  black.list = bl,
+  nreplicates = 1000,
+  cb.algorithms = c("gs", "iamb", "fast.iamb", "inter.iamb"),
+  sb.algorithms = c("hc"),
+  outcome.var,
+  build.pa = 0
+)
+
+
+
+
+
+############### NY ###############
+data.to.work.sem.NY <- subset(data.to.work, Year > 2010 & NY>0,
+                              select = c("SCD_AA",
+                                         "SCD_HI",
+                                         "SCD_WH",
+                                         "Gini_Index_State",
+                                         "Unemp_Race",
+                                         "HFR",
+                                         "Rural_Pop_State",
+                                         "HDI_State"
+                              )
+)
+
+
+# Create an empty list or fill it before start
+bl <- ""
+wl <- ""
+
+# Setting the type of var as typical "outcome" type what means it will not point to any variable
+type.var <- "o"
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_AA"
+# Creating the black list
+bl1 <- outcome.predictor.var(data.to.work.sem.NY, var.name, type.var, bl)
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_HI"
+# Creating the black list
+bl2 <- outcome.predictor.var(data.to.work.sem.NY, var.name, type.var, bl)
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_WH"
+# Creating the black list
+bl3 <- outcome.predictor.var(data.to.work.sem.NY, var.name, type.var, bl)
+
+bl <- paste(bl1,",",bl2,",",bl3, sep = "")
+
+
+outcome.var <- "SCD_AA"
+
+bn.pa<-gera.bn.pa(
+  data.to.work.sem.NY,
+  white.list = "",
+  black.list = bl,
+  nreplicates = 1000,
+  cb.algorithms = c("gs", "iamb", "fast.iamb", "inter.iamb"),
+  sb.algorithms = c("hc"),
+  outcome.var,
+  build.pa = 0
+)
+
+
+
+
+############### TX ###############
+data.to.work.sem.TX <- subset(data.to.work, Year > 2010 & TX>0,
+                              select = c("SCD_AA",
+                                         "SCD_HI",
+                                         "SCD_WH",
+                                         "Gini_Index_State",
+                                         "Unemp_Race",
+                                         "HFR",
+                                         "Rural_Pop_State",
+                                         "HDI_State"
+                              )
+)
+
+
+# Create an empty list or fill it before start
+bl <- ""
+wl <- ""
+
+# Setting the type of var as typical "outcome" type what means it will not point to any variable
+type.var <- "o"
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_AA"
+# Creating the black list
+bl1 <- outcome.predictor.var(data.to.work.sem.TX, var.name, type.var, bl)
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_HI"
+# Creating the black list
+bl2 <- outcome.predictor.var(data.to.work.sem.TX, var.name, type.var, bl)
+
+# Setting variable "A" as "outcome" will create a black from this variable to all others
+var.name <- "SCD_WH"
+# Creating the black list
+bl3 <- outcome.predictor.var(data.to.work.sem.TX, var.name, type.var, bl)
+
+bl <- paste(bl1,",",bl2,",",bl3, sep = "")
+
+
+outcome.var <- "SCD_AA"
+
+bn.pa<-gera.bn.pa(
+  data.to.work.sem.TX,
+  white.list = "",
+  black.list = bl,
+  nreplicates = 1000,
+  cb.algorithms = c("gs", "iamb", "fast.iamb", "inter.iamb"),
+  sb.algorithms = c("hc"),
+  outcome.var,
+  build.pa = 0
+)

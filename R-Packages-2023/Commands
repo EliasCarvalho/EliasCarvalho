@@ -1,0 +1,6 @@
+R CMD check bnpa
+R CMD build bnpa
+R CMD Rd2pdf mypackage
+R CMD check --as-cran bnpa
+
+

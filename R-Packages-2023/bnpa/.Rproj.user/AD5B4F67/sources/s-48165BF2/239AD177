@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593395810074.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "239AD177",
+    "lastKnownWriteTime" : 1594141163,
+    "last_content_update" : 1594141163489,
+    "path" : "~/Documentos/03.2020/00.Doutorado - Experimento - Final/04. BNPA/scriptBNPA.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "125,0",
+        "scrollLine" : "94"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
