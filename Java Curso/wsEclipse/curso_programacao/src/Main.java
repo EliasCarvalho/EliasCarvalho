@@ -250,12 +250,59 @@ public class Main {
 		}
 		System.out.println("Desconto: " + desconto);
 	
-*/
+	
 	// Condição Ternária
 		double preco = 34.6;
 		double desconto = (preco < 20.0 ? preco * 0.1 : preco * 0.05);
 		
 		System.out.println("Desconto: " + desconto);
 
+
+   // While
+    
+    Scanner sc = new Scanner(System.in);
+		int x = sc.nextInt();
+		int soma = 0;
+		
+		while (x !=0) {
+			soma = soma + x;
+			x = sc.nextInt();
+		}
+		System.out.println(soma);
+		sc.close();
+    
+    
+    // for
+     
+     Scanner sc = new Scanner(System.in);
+		int N = sc.nextInt();
+		int soma = 0;
+				
+		for (int i=0; i < N; i=i+1) {
+			int x = sc.nextInt();
+			soma = soma + x;			
+		}
+		System.out.println(soma);
+		sc.close();
+		 
+*/
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		char resp = 's';
+		
+	    while (resp !='n') {
+	    	System.out.println("Digite a temperatura em Celsius:");
+			
+			double C = sc.nextDouble();
+			double F = 9.0 * C / 5.0 + 32.0;
+			
+			System.out.printf("Equivalente em Fahrenheit: %.2fn",F);
+			System.out.print("\nDeseja repetir (s/n)?");
+			resp = sc.next().charAt(0);	
+	    }
+		
+		sc.close();
+		
 	}	
 }
