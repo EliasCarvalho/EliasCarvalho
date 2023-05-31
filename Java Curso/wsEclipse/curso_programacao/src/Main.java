@@ -306,11 +306,13 @@ public class Main {
 		
 	}
 		
-		 
-*/
-		Locale.setDefault(Locale.US);
+	// do while
+
+	 Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-				
+			
+		char resp;
+		
 	    do  {
 	    	System.out.println("Digite a temperatura em Celsius:");
 			
@@ -319,10 +321,40 @@ public class Main {
 			
 			System.out.printf("Equivalente em Fahrenheit: %.2f%n",F);
 			System.out.print("\nDeseja repetir (s/n)?");
-			char resp = sc.next().charAt(0);	
+			resp = sc.next().charAt(0);	
 	    } while (resp !='n');
 		
 		sc.close();
 		
 	}	
+*/
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Entre com três números: ");
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		int c = sc.nextInt();
+		
+		int higher = max(a,b,c);
+		showResult(higher);
+		
+		sc.close();
+			
+	}
+	
+	public static int max(int x, int y, int z) {
+		int aux;
+		if (x > y && x > z ) {
+			aux = x;
+		} else if (y > z ) {
+			aux = y;
+		} else {
+			aux = z;
+		}
+		return aux;
+	}
+	
+	public static void  showResult (int value) {
+		System.out.println("O Maior número é  " + value);
+	}
 }
