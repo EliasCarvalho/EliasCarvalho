@@ -243,81 +243,157 @@ public class Program {
 		 * 
 		 * 
 		 * 
-		
-
-		//// INICIO PROGRAMA ESTOQUE - ENTRADA E SAIDA - PROPOSTA DE MELHORIA - CRIANDO SEGUNDO CONSTRUTOR ONDE NÃO PRECISA DE QUANTIDADE
-		/////// SOLUÇÃO COM ORIENTAÇÃO `A OBJETOS
+		 * 
+		 * 
+		 * //// INICIO PROGRAMA ESTOQUE - ENTRADA E SAIDA - PROPOSTA DE MELHORIA -
+		 * CRIANDO SEGUNDO CONSTRUTOR ONDE NÃO PRECISA DE QUANTIDADE /////// SOLUÇÃO COM
+		 * ORIENTAÇÃO `A OBJETOS
+		 * 
+		 * Locale.setDefault(Locale.US); Scanner sc = new Scanner(System.in);
+		 * 
+		 * System.out.println("Enter product data: "); System.out.print("Name: ");
+		 * String name = sc.nextLine();
+		 * 
+		 * System.out.print("Price: "); double price = sc.nextDouble();
+		 * 
+		 * Product product = new Product(name, price);
+		 * 
+		 * 
+		 * System.out.println(); System.out.println("Product data: " + product);
+		 * System.out.println();
+		 * System.out.print("Enter the number of products to be added in stock: "); int
+		 * quantity = sc.nextInt(); product.addProducts(quantity); System.out.println();
+		 * System.out.println("Updated data: " + product); System.out.println();
+		 * System.out.print("Enter the number of products to be removed from stock: ");
+		 * quantity = sc.nextInt(); product.removeProducts(quantity);
+		 * System.out.println(); System.out.println("Updated data: " + product);
+		 * sc.close();
+		 * 
+		 * 
+		 * 
+		 * 
+		 * //// INICIO PROGRAMA ESTOQUE - ENTRADA E SAIDA - ENCAPSULAMENTO ///////
+		 * SOLUÇÃO COM ORIENTAÇÃO `A OBJETOS
+		 * 
+		 * Locale.setDefault(Locale.US); Scanner sc = new Scanner(System.in);
+		 * 
+		 * System.out.println("Enter product data: "); System.out.print("Name: ");
+		 * String name = sc.nextLine();
+		 * 
+		 * System.out.print("Price: "); double price = sc.nextDouble();
+		 * 
+		 * Product product = new Product(name, price);
+		 * 
+		 * product.setName("Computer"); System.out.println("Updated Name: " +
+		 * product.getName());
+		 * 
+		 * product.setPrice(1200.00); System.out.println("Updated Price: " +
+		 * product.getPrice());
+		 * 
+		 * System.out.println(); System.out.println("Product data: " + product);
+		 * System.out.println();
+		 * System.out.print("Enter the number of products to be added in stock: "); int
+		 * quantity = sc.nextInt(); product.addProducts(quantity); System.out.println();
+		 * System.out.println("Updated data: " + product); System.out.println();
+		 * System.out.print("Enter the number of products to be removed from stock: ");
+		 * quantity = sc.nextInt(); product.removeProducts(quantity);
+		 * System.out.println(); System.out.println("Updated data: " + product);
+		 * sc.close();
+		 * 
+		 * 
+		 * 
+		 * 
+		 * //// VETOR
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Enter product data: ");
-		System.out.print("Name: ");
-		String name = sc.nextLine();
+		int n = sc.nextInt();
+		double [] vect = new double[n];
 		
-		System.out.print("Price: ");
-		double price = sc.nextDouble();
+		for (int i=0; i<n; i++) {
+			vect[i] = sc.nextDouble();
+		}
 		
-		Product product = new Product(name, price);
+		double sum = 0.0;
+		for (int i = 0; i<n; i++) {
+			sum += vect[i];
+		}
 		
+		double avg = sum / n;
 		
-		System.out.println();
-		System.out.println("Product data: " + product);
-		System.out.println();
-		System.out.print("Enter the number of products to be added in stock: ");
-		int quantity = sc.nextInt();
-		product.addProducts(quantity);
-		System.out.println();
-		System.out.println("Updated data: " + product);
-		System.out.println();
-		System.out.print("Enter the number of products to be removed from stock: ");
-		quantity = sc.nextInt();
-		product.removeProducts(quantity);
-		System.out.println();
-		System.out.println("Updated data: " + product);
+		System.out.println("A média da altura é: " + avg);
 		sc.close();
 		
-		 */
 		
-	//// INICIO PROGRAMA ESTOQUE - ENTRADA E SAIDA - ENCAPSULAMENTO
-			/////// SOLUÇÃO COM ORIENTAÇÃO `A OBJETOS
+		//// VETOR
 
 			Locale.setDefault(Locale.US);
 			Scanner sc = new Scanner(System.in);
 
-			System.out.println("Enter product data: ");
-			System.out.print("Name: ");
-			String name = sc.nextLine();
+			int n = sc.nextInt();
 			
-			System.out.print("Price: ");
-			double price = sc.nextDouble();
+			Product[] vect = new Product[n];
 			
-			Product product = new Product(name, price);
+			for (int i=0; i < vect.length; i++) {
+				sc.nextLine();
+				String name = sc.nextLine();
+				double price = sc.nextDouble();
+				vect[i] = new Product(name, price);
+			}
 			
-			product.setName("Computer");
-			System.out.println("Updated Name: " + product.getName());
+			double sum = 0.0;
+			for (int i=0; i < vect.length; i++) {
+				sum += vect[i].getPrice();
+			}
 
-			product.setPrice(1200.00);
-			System.out.println("Updated Price: " + product.getPrice());
+			double avg = sum / n;
 			
+			System.out.printf("A média de preço é: %.2f%n", avg);
+					
+
 			
-			System.out.println();
-			System.out.println("Product data: " + product);
-			System.out.println();
-			System.out.print("Enter the number of products to be added in stock: ");
-			int quantity = sc.nextInt();
-			product.addProducts(quantity);
-			System.out.println();
-			System.out.println("Updated data: " + product);
-			System.out.println();
-			System.out.print("Enter the number of products to be removed from stock: ");
-			quantity = sc.nextInt();
-			product.removeProducts(quantity);
-			System.out.println();
-			System.out.println("Updated data: " + product);
 			sc.close();
 		
+		//// BOXING, UNBOXING E WRAPPER CLASSES
 		
+		int x = 20;
+		Object obj = x;  // boxing
+		System.out.println(obj);
+		
+		int y = (int) obj; // umboxing
+
+		System.out.println(y);
+		
+		
+		////WRAPPER CLASSES
+		int x = 20;
+		
+		Integer obj = x;  // WRAPPING
+		
+		System.out.println(obj);
+		
+		int y = obj; // umboxing
+
+		System.out.println(y);
+		
+		 */
+		 
+		////Laço for each
+		
+		String [] vect = new String[] {"Maria", "Bob", "Alex"};
+		
+		for (int i=0;i<vect.length; i++) {
+			System.out.println(vect[i]);
+		}
+		
+		System.out.println("---------------------------");
+		
+		for (String obj : vect ) {
+			System.out.println(obj);
+		}
+			
+	
 	}
 
 }

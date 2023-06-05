@@ -48,7 +48,7 @@ public class Product {
 	 * 
 	 */
 	
-	 * ///// GETs e SETs
+	  ///// GETs e SETs
 
 	
 	
