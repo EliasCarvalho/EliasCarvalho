@@ -304,96 +304,93 @@ public class Program {
 		 * 
 		 * 
 		 * //// VETOR
+		 * 
+		 * Locale.setDefault(Locale.US); Scanner sc = new Scanner(System.in);
+		 * 
+		 * int n = sc.nextInt(); double [] vect = new double[n];
+		 * 
+		 * for (int i=0; i<n; i++) { vect[i] = sc.nextDouble(); }
+		 * 
+		 * double sum = 0.0; for (int i = 0; i<n; i++) { sum += vect[i]; }
+		 * 
+		 * double avg = sum / n;
+		 * 
+		 * System.out.println("A média da altura é: " + avg); sc.close();
+		 * 
+		 * 
+		 * //// VETOR
+		 * 
+		 * Locale.setDefault(Locale.US); Scanner sc = new Scanner(System.in);
+		 * 
+		 * int n = sc.nextInt();
+		 * 
+		 * Product[] vect = new Product[n];
+		 * 
+		 * for (int i=0; i < vect.length; i++) { sc.nextLine(); String name =
+		 * sc.nextLine(); double price = sc.nextDouble(); vect[i] = new Product(name,
+		 * price); }
+		 * 
+		 * double sum = 0.0; for (int i=0; i < vect.length; i++) { sum +=
+		 * vect[i].getPrice(); }
+		 * 
+		 * double avg = sum / n;
+		 * 
+		 * System.out.printf("A média de preço é: %.2f%n", avg);
+		 * 
+		 * 
+		 * 
+		 * sc.close();
+		 * 
+		 * //// BOXING, UNBOXING E WRAPPER CLASSES
+		 * 
+		 * int x = 20; Object obj = x; // boxing System.out.println(obj);
+		 * 
+		 * int y = (int) obj; // umboxing
+		 * 
+		 * System.out.println(y);
+		 * 
+		 * 
+		 * ////WRAPPER CLASSES int x = 20;
+		 * 
+		 * Integer obj = x; // WRAPPING
+		 * 
+		 * System.out.println(obj);
+		 * 
+		 * int y = obj; // umboxing
+		 * 
+		 * System.out.println(y);
+		 * 
+		 * 
+		 * 
+		 * ////Laço for each
+		 * 
+		 * String [] vect = new String[] {"Maria", "Bob", "Alex"};
+		 * 
+		 * for (int i=0;i<vect.length; i++) { System.out.println(vect[i]); }
+		 * 
+		 * System.out.println("---------------------------");
+		 * 
+		 * for (String obj : vect ) { // para cada objeto obj contido em vect
+		 * System.out.println(obj); }
+		 * 
+		 */
+
+		//// Matrizes
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
 		int n = sc.nextInt();
-		double [] vect = new double[n];
-		
-		for (int i=0; i<n; i++) {
-			vect[i] = sc.nextDouble();
+		int[][] mat = new int[n][n];
+
+		for (int i = 0; i < n; i++) {
+			for (int j = 0; j < n; j++) {
+				mat[i][j] = sc.nextInt();
+			}
 		}
-		
-		double sum = 0.0;
-		for (int i = 0; i<n; i++) {
-			sum += vect[i];
-		}
-		
-		double avg = sum / n;
-		
-		System.out.println("A média da altura é: " + avg);
+
 		sc.close();
-		
-		
-		//// VETOR
 
-			Locale.setDefault(Locale.US);
-			Scanner sc = new Scanner(System.in);
-
-			int n = sc.nextInt();
-			
-			Product[] vect = new Product[n];
-			
-			for (int i=0; i < vect.length; i++) {
-				sc.nextLine();
-				String name = sc.nextLine();
-				double price = sc.nextDouble();
-				vect[i] = new Product(name, price);
-			}
-			
-			double sum = 0.0;
-			for (int i=0; i < vect.length; i++) {
-				sum += vect[i].getPrice();
-			}
-
-			double avg = sum / n;
-			
-			System.out.printf("A média de preço é: %.2f%n", avg);
-					
-
-			
-			sc.close();
-		
-		//// BOXING, UNBOXING E WRAPPER CLASSES
-		
-		int x = 20;
-		Object obj = x;  // boxing
-		System.out.println(obj);
-		
-		int y = (int) obj; // umboxing
-
-		System.out.println(y);
-		
-		
-		////WRAPPER CLASSES
-		int x = 20;
-		
-		Integer obj = x;  // WRAPPING
-		
-		System.out.println(obj);
-		
-		int y = obj; // umboxing
-
-		System.out.println(y);
-		
-		 */
-		 
-		////Laço for each
-		
-		String [] vect = new String[] {"Maria", "Bob", "Alex"};
-		
-		for (int i=0;i<vect.length; i++) {
-			System.out.println(vect[i]);
-		}
-		
-		System.out.println("---------------------------");
-		
-		for (String obj : vect ) {
-			System.out.println(obj);
-		}
-			
-	
 	}
 
 }
