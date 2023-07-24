@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author npd
+ *
+ */
+module Course {
+}

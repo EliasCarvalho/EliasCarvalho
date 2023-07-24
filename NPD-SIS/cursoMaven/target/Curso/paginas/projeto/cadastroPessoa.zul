@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Chamada dos arquivos de CSS-->
+<?link rel="stylesheet" type="text/css" href="/css/bootstrap.css"?>
+
+<zk xmlns="http://www.zkoss.org/2005/zul">
+
+    <window title="Cadastro de pessoas" id="winPessoa" >
+                          
+        <grid>
+            <columns>
+                <column hflex="min" /> 
+                <column hflex="min" />  
+                <column width="150px"/> 
+                <column  />              
+
+            </columns>
+                
+            <rows>
+               
+                <row>
+                    
+                    Código do usuário
+                    <label value="-1" id="cdUsuario" />       
+                                                
+                </row>
+                <row>
+                    Tipo de cadastro
+                    <listbox id="tpPessoa" width="140px" mold="select" onSelect="" >
+                        <listitem label="Selecione" selected="true" />
+                        <listitem label="Pessoa Física" value="F"/>
+                        <listitem label="Pessoa Jurídica" value="J"/>
+                    </listbox>                
+                </row>
+                <row>
+                    <cell colspan="2">
+                        <hbox>
+                            Nome:
+                            <textbox width="300px" id="nmPessoa" />
+                            <separator width="20px" />
+                            Sexo:
+                            <textbox width="100px" id="fgSexo"/>  
+                        </hbox>
+                    </cell>              
+                </row>
+                <row>
+                    <cell colspan="2">
+
+                        Nº do RG:
+                        <textbox id="nuRg"/>
+  
+                        Orgão expeditor:
+                        <textbox id="nmRgExp" />
+                    </cell>
+                </row>
+                <row>
+                    CPF/CNPJ:
+                    <textbox width="100px" id="nuCpfCnpj" />
+                </row>
+                <row>
+                    CEP:
+                    <textbox width="100px" id="nuCep" />
+                </row>
+                <row>
+                    Endereço:
+                    <textbox width="100px" id="deEndereco" />
+       
+                    Número do endereço:
+                    <textbox width="100px" id="nuEndereco" />
+                </row>
+                <row>
+                    Bairro:
+                    <textbox width="100px" id="nmBairro" />
+             
+                    Complemento:
+                    <textbox width="100px" id="deComplemento" />
+                </row>
+                <row>
+                    Cidade:
+                    <textbox width="100px" id="nmCidade" />
+           
+                    Estado:
+                    <textbox width="100px" id="nmUf" />
+                </row>
+
+                <row>
+                    Telefone:
+                    <textbox width="100px" id="nuFone" />
+           
+                    Telefone celular:
+                    <textbox width="100px" id="nuCelular" />
+                </row>
+                
+                <row>
+                    E-mail:
+                    <textbox width="100px" id="ltEmail" />
+                </row>
+                <row>
+                    <cell colspan="2">
+                        <hbox>
+                            <button class="btn btn-outline-success btn-sm" id="btnSalvar" label="Salvar" onClick="winPessoa.gravar()"/>
+                        
+                            <button class="btn btn-outline-info btn-sm" id="btnPesquisar" label="Pesquisar" onClick="winPessoa.pesquisarInscricao()"/>
+
+                            <button class="btn btn-outline-danger btn-sm"  label="Excluir" onClick="winPessoa.excluir()"/>
+                        </hbox>
+                    </cell>
+                </row>
+            </rows>
+
+            
+        </grid>
+         
+    </window>
+            
+            
+    <!-- Exemplo de pesquisa com Popup -->
+        
+    <popup width="800px"  id="pesquisarInscricao" >
+        <groupbox >
+            <caption label="Pesquisar Inscrição"/>
+            <grid>
+                <rows>
+                    <row>
+                        Campos de Pesquisa:
+                        <listbox  id="vlCampo" mold="select">
+                            <listitem  value = "cdInscricao" selected="true">
+                                <listcell label="Código da Inscrição" />
+                            </listitem>                               
+                        </listbox>
+                    </row>
+                    <row>
+                        Valor da Pesquisa:
+                        <textbox id="vlPesquisa" width="300px" constraint="no empty"/>
+                    </row>
+                    <row>
+                        <button label="Pesquisar Registro" onClick="winInscricao.executarPesquisaInscricao()"/>
+                        <button label="Fechar Pesquisa" onClick="winInscricao.fecharPesquisaInscricao()"/>
+                    </row>
+                </rows>
+            </grid>
+            <groupbox>
+                <caption label="Resultado da Pesquisa" />
+                <listbox id="resultadosPesquisa" height="300px"  width="600px" >
+                    <listhead>
+                        <listheader width="100px" label="" sort="auto"/>
+                        <listheader width="400px" label="" sort="auto"/>
+                    </listhead>
+                        
+                </listbox>
+            </groupbox>
+        </groupbox>
+    </popup>
+    
+</zk>
