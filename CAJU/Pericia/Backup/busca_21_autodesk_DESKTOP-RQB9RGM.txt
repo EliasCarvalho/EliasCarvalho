@@ -1,0 +1,42 @@
+c:\Autodesk
+c:\Autodesk\WI\{19B7E69F-3FAD-3EEC-BB19-49AD6050E01A}\x64\appmanager\pkg.autodeskappmanager.xml
+c:\Autodesk\WI\{19B7E69F-3FAD-3EEC-BB19-49AD6050E01A}\x64\featuredapps\pkg.autodeskfeaturedapps.xml
+c:\Autodesk\WI\{19B7E69F-3FAD-3EEC-BB19-49AD6050E01A}\x64\savetowebandmobile\pkg.autodesksavetowebandmobile.xml
+c:\ProgramData\Autodesk
+c:\ProgramData\Autodesk\Uninstallers\Autodesk AutoCAD 2024 - Portuguˆs - Brasil (Brazilian Portuguese)
+c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Autodesk
+c:\Users\All Users\Autodesk
+c:\Users\All Users\Autodesk\Uninstallers\Autodesk AutoCAD 2024 - Portuguˆs - Brasil (Brazilian Portuguese)
+c:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Autodesk
+c:\Users\ecaca\AppData\Local\Autodesk
+c:\Users\ecaca\AppData\Local\Autodesk\ODIS\Autodesk_Material_Library_4_2024
+c:\Users\ecaca\AppData\Local\Autodesk\ODIS\Autodesk_Material_Library_Base_Resolution_Image_Library_4_2024
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Activity_Insights_1.0_24.3.61.0_install.log
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Activity_Insights_1.0_24.3.61.0_install.log.lock
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Architecture_OE_2024_8.6.48.0_install.log
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Architecture_OE_2024_8.6.48.0_install.log.lock
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_BlockIndexer_2024_24.3.61.0_install.log
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_BlockIndexer_2024_24.3.61.0_install.log.lock
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Core_2024_24.3.61.0_install.log
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Core_2024_24.3.61.0_install.log.lock
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_LangPack_pt-BR_2024_24.3.61.0_install.log
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_LangPack_pt-BR_2024_24.3.61.0_install.log.lock
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Shared_Core_2024_24.3.61.0_install.log
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Shared_Core_2024_24.3.61.0_install.log.lock
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Shared_LangPack_pt-BR_2024_24.3.61.0_install.log
+c:\Users\ecaca\AppData\Local\Temp\Autodesk_AutoCAD_Shared_LangPack_pt-BR_2024_24.3.61.0_install.log.lock
+c:\Users\ecaca\AppData\Local\Temp\autodesk_bs_setup.lock
+c:\Users\ecaca\AppData\Local\Temp\odis_download_dest\1567209004645223521\Setup\ui-plugins\dda\ui\img\icons\autodesk_icon.svg
+c:\Users\ecaca\AppData\Local\Temp\odis_download_dest\1567209004645223521\Setup\ui-plugins\dda\ui\img\icons\autodesk_logo_white.svg
+c:\Users\ecaca\AppData\Local\Temp\odis_download_dest\1567209004645223521\SetupRes\icons\autodesk-logo-svg.svg
+c:\Users\ecaca\AppData\Local\Temp\odis_download_dest\9511163222800214867\Autodesk_AutoCAD_2024_pt-BR_setup.dat
+c:\Users\ecaca\AppData\Local\Temp\odis_download_dest\9511163222800214867\Autodesk_AutoCAD_2024_pt-BR_setup.dat.info
+c:\Users\ecaca\AppData\Roaming\Autodesk
+c:\Users\ecaca\AppData\Roaming\Autodesk\ADPSDK\AUTODESKINSTALLSERVICE
+c:\Users\ecaca\AppData\Roaming\Microsoft\Windows\Recent\busca_autodesk_DESKTOP-RQB9RGM.txt.lnk
+c:\Users\ecaca\Downloads\Autodesk_AutoCAD_2024_pt-BR_setup_webinstall.exe
+c:\Users\ecaca\Music\setup2 - AUTODESKia.dwg
+c:\Users\ecaca\Pictures\seAUTODESKtup2.txt
+c:\Users\Todos os Usu rios\Autodesk
+c:\Users\Todos os Usu rios\Autodesk\Uninstallers\Autodesk AutoCAD 2024 - Portuguˆs - Brasil (Brazilian Portuguese)
+c:\Users\Todos os Usu rios\Microsoft\Windows\Start Menu\Programs\Autodesk

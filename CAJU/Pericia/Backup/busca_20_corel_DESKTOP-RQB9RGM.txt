@@ -1,0 +1,598 @@
+c:\Program Files\Corel
+c:\Program Files\Common Files\Corel
+c:\Program Files\Common Files\Corel\Shared\Shell Extension\x64\CorelProperties.propdesc
+c:\Program Files\Common Files\Corel\Shared\Shell Extension\x86\CorelProperties.propdesc
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Capture\corelflt.ini
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\CdrConv\corelflt.ini
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Config\corelapp.ini
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Config\corelpdf.ini
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Config\corelprn.ini
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Config\corelrip.ini
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Data\Corel02.ico
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Data\WelcomeBook\static\ipp\products\coreldraw
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Data\WelcomeBook\static\ipp\products\coreldraw-technical-suite
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Data\XmlSchema\CorelProperties.propdesc
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Draw\corelflt.ini
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Filters64\CorelPS2PDF.exe
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-BARCODE-pt-BR
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-CAPTURE-pt-BR
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-Font-Manager-pt-BR
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Apply-brushstrokes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Apply-perspective-to-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Apply-perspective-to-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Background-color.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Brush-on-transparencies.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Clone-image-areas.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Color-specific-transparencies.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Correct-perspective-distortions.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Create-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Crop-images.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Default-colors.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Distort-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Distort-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Draw-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Drop-shadows.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-edge-shape-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Ellipses.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Elliptical-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Erase-portions-of-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-explore-offline.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-explore-server-unavailable.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Fill-text-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Fills.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Fix-imperfections.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Foreground-color.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Freehand-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Get-help.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Home-page.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Interactive-fills.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Local-effects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Masks-using-color-detection.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Masks-using-edge-detection.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Move-scale-and-stretch-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Move-scale-and-stretch-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Paint-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Paint-with-a-preset-brush.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Pan.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Paths.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Planar-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Polygons.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Rectangles.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Rectangular-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Rehape-by-pulling-pixels.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Rehape-by-pushing-pixels.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Remove-red-eye.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Replace-colors.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Rotate-and-skew-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Rotate-and-skew-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Sample-colors.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Select-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Slice-images.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Smear-image-areas.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Spray-images.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Straighten-images.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Switch-foreground-and-background-colors.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Text.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Touch-up-image-areas.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Transform-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Transparency-gradients.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Twirl-effects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Undo-brushstrokes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-uniform-color-masks.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Corel-PHOTO-PAINT-pt-BR\Corel-PHOTO-PAINT-hint-Zoom.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-2-point-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Add-movement-and-focus.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Add-tables-to-drawings.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Add-text.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Adjust-paragraph-text-frames.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Angular-dimension-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Arrow-shapes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-artistic-media.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Attract-nodes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-B-splines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Banner-shapes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Basic-shapes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Bezier-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Blend-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Block-shadows.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Callout-shapes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Callouts.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Complex-stars.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Connector-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Contour-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Crop-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Delete-virtual-line-segments.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Dimension-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Distortion-effects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Drop-shadows.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Ellipses.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Envelopes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Erase-image-areas.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-explore-offline.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-explore-server-unavailable.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Extrusions.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Fill-object-overlaps.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Fill-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Fit-text-to-a-path.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Flowchart-shapes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Format-and-edit-text-in-tables.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Format-table-cells.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Freehand-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Grids.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Home-page.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Horizontal-or-vertical-dimension-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Inner-shadows.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Insert-and-edit-text.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Interactive-fills.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Interactive-transformations.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Modify-connector-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Move-scale-and-stretch-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Outline-flyout.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Outline-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Pan.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Parallel-dimension-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Perfect-stars.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Polygons.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Polylines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Precise-curves.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Precise-ellipses.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Precise-rectangles.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Precision-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Rectangles.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Repel-nodes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Right-angle-connector-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Right-angle-round-connector-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Rotate-and-skew-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Roughen-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Sample-and-apply-color.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Sample-and-apply-object-attributes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Segment-dimension-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Select-move-resize-pages.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Select-objects-Freehand.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Select-objects-Pick.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Select-table-components.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shape-and-crop-bitmaps.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shape-curves.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shape-ellipses.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shape-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shape-polygons-and-stars.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shape-recognition.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shape-rectangles.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shape-segments.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Shapes.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Sketch.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Smear-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Smooth-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Smudge-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Space-text.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Special-effects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Spirals.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Split-objects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Straight-connector-lines.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Table-rows-and-columns.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Transparency.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Twirl-effects.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Variable-Outline.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hint-Zoom.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hints-Get-help.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\CorelDRAW-pt-BR\CorelDRAW-hints-Mesh-fills.html
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\SharedGlobalAssets\images\corel-designer-start-page.png
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\SharedGlobalAssets\images\corel-font-manager-start-page.png
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\SharedGlobalAssets\images\corel-photo-paint-start-page.png
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\SharedGlobalAssets\images\coreldraw-start-page.png
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Shared_Graphics\options-Corel-PHOTO-PAINT.svg
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Help\Shared_Graphics\options-CorelDRAW.svg
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Languages\br\Draw\Browser\category_corel.gif
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\PHOTO-PAINT\corelflt.ini
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\CorelDRW.exe
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\CorelPP.exe
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\BorderAndGrommet\CorelDrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\CalloutTool\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ComAddon\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ComAddon\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\CommentsTool\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\CrlSharepoint\CorelDrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\Dimension\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\DocInfoTool\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\DocInfoTool\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ExportPreview\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ExportPreview\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ExportTool\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\FitObjectsToPath\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ImageAcquire\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ImageAcquire\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ImpactTool\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\LearnTool\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\LearnTool\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\NewFromTemplate\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ObjectCoords\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ObjectManager\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ObjectManager\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\PerspectiveGroupTool\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\PhotoCocktail\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\Pointillizer\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\PPSettings\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ProjectTimer\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ScriptHost\CorelDrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\ScriptHost\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\Settings\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\Settings\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\Shaping\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\TaskProgress\coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\Thumbnail\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\Thumbnail\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\U1\CorelDrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\U1\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\U2\CorelDrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\U2\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\U3\CorelDrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\U3\CorelPP.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\VGSettings\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Addons\WebServicesTool\Coreldrw.addon
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\Corel.Interop.CorelDRAW.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\Corel.Interop.FontManager.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\Corel.Interop.PHOTOPAINT.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\Corel.Interop.PhotoPaintCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\Corel.Interop.VGCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.CorelDRAW.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.CorelDRAW.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.FontManager.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.FontManager.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.PHOTOPAINT.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.PHOTOPAINT.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.PhotoPaintCore.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.PhotoPaintCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.VGCore.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.0.Corel.Interop.VGCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.CorelDRAW.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.CorelDRAW.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.FontManager.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.FontManager.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.PHOTOPAINT.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.PHOTOPAINT.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.PhotoPaintCore.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.PhotoPaintCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.VGCore.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.1.Corel.Interop.VGCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.CorelDRAW.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.CorelDRAW.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.FontManager.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.FontManager.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.PHOTOPAINT.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.PHOTOPAINT.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.PhotoPaintCore.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.PhotoPaintCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.VGCore.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.2.Corel.Interop.VGCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.CorelDRAW.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.CorelDRAW.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.FontManager.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.FontManager.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.PHOTOPAINT.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.PhotoPaintCore.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.PhotoPaintCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.VGCore.config
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\Assemblies\policy.24.3.Corel.Interop.VGCore.dll
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\TypeLibs\CorelDRAW.tlb
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64\TypeLibs\CorelPP.tlb
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite BR.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite CS.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite CT.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite CZ.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite DE.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite EN.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite ES.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite FR.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite IT.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite JP.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite NL.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite PL.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite RU.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite TR.sms
+c:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Setup\MSIs\Administrator\CorelDRAW Graphics Suite.zap
+c:\Program Files (x86)\Corel
+c:\ProgramData\Corel
+c:\ProgramData\Corel\CorelDRAW Graphics Suite 2022
+c:\ProgramData\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite
+c:\ProgramData\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel CAPTURE.lnk
+c:\ProgramData\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel Font Manager.lnk
+c:\ProgramData\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel PHOTO-PAINT.lnk
+c:\ProgramData\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\CorelDRAW.lnk
+c:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_2af10d88-fa0f-4ed0-aca0-54e590e34c94
+c:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_7c11c5c5-75ff-4289-9aa6-42a6fc7e9ea4
+c:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_d3a128d2-9555-498c-86ef-405a5989f108
+c:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelPP.exe_a765c9bfd56ead9e2a7292c7a9e6be5fbcca7d31_d7299e39_9ad127a1-9334-44b3-a43e-4c88cd686a8c
+c:\Users\All Users\Corel
+c:\Users\All Users\Corel\CorelDRAW Graphics Suite 2022
+c:\Users\All Users\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite
+c:\Users\All Users\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel CAPTURE.lnk
+c:\Users\All Users\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel Font Manager.lnk
+c:\Users\All Users\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel PHOTO-PAINT.lnk
+c:\Users\All Users\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\CorelDRAW.lnk
+c:\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_2af10d88-fa0f-4ed0-aca0-54e590e34c94
+c:\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_7c11c5c5-75ff-4289-9aa6-42a6fc7e9ea4
+c:\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_d3a128d2-9555-498c-86ef-405a5989f108
+c:\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelPP.exe_a765c9bfd56ead9e2a7292c7a9e6be5fbcca7d31_d7299e39_9ad127a1-9334-44b3-a43e-4c88cd686a8c
+c:\Users\ecaca\AppData\Local\CrashDumps\CorelDRW.exe.3480.dmp
+c:\Users\ecaca\AppData\Local\CrashDumps\CorelDRW.exe.6648.dmp
+c:\Users\ecaca\AppData\Local\CrashDumps\CorelDRW.exe.7508.dmp
+c:\Users\ecaca\AppData\Local\CrashDumps\CorelPP.exe.8028.dmp
+c:\Users\ecaca\AppData\Local\Microsoft\Internet Explorer\DOMStore\YG32YQHK\ipm.corel[1].xml
+c:\Users\ecaca\AppData\Local\Microsoft\Windows\INetCache\IE\JHF03E9E\CorelDRAWGraphicsSuiteInstaller_pt[1].zip
+c:\Users\ecaca\AppData\Local\Microsoft\Windows\INetCache\IE\JHF03E9E\jquery.format-currency.corel.min[1].js
+c:\Users\ecaca\AppData\Local\Microsoft\Windows\INetCache\IE\S2AEO48G\CorelDRAWGraphicsSuiteInstaller_pt[1].zip
+c:\Users\ecaca\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\AppIconCache\100\Corel_Capture_x64_24
+c:\Users\ecaca\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\AppIconCache\100\Corel_Draw_x64_24
+c:\Users\ecaca\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\AppIconCache\100\Corel_PHOTO-PAINT_x64_24
+c:\Users\ecaca\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\AppIconCache\100\{6D809377-6AF0-444B-8957-A3773F02200E}_Corel_CorelDRAW Graphics Suite 2022_Programs64_FontManager_exe
+c:\Users\ecaca\AppData\Local\Temp\Corel
+c:\Users\ecaca\AppData\Local\Temp\CorelDraw_log
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW.exe.log
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_PCULog0.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_PCULog1.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_PCULog2.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_RequestDump.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_ServerDump1.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_ServerDump2-0.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_ServerDump2-1.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_Tracking_RequestDump.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelDRW_Tracking_ServerDump1.txt
+c:\Users\ecaca\AppData\Local\Temp\CorelPP.exe.log
+c:\Users\ecaca\AppData\Local\Temp\CorelPP_PCULog0.txt
+c:\Users\ecaca\AppData\Local\Temp\Corel\6648-CORELDRW_CallStack-1be65656-c59f-4801-a710-d7907c6d7d51.log
+c:\Users\ecaca\AppData\Local\Temp\Corel\6648-CORELDRW_Crash-7a607fd6-22c7-4141-aa68-12f56ae12265.log
+c:\Users\ecaca\AppData\Local\Temp\Corel\8028-CORELPP_CallStack-ebd6c479-e62f-40fd-adca-30c1c8041886.log
+c:\Users\ecaca\AppData\Roaming\Corel
+c:\Users\ecaca\AppData\Roaming\Corel\CorelDRAW Graphics Suite 2022
+c:\Users\ecaca\AppData\Roaming\Corel\CorelDRAW Graphics Suite 2022\Config\corelapp.ini
+c:\Users\ecaca\AppData\Roaming\Corel\CorelDRAW Graphics Suite 2022\Config\corelpdf.ini
+c:\Users\ecaca\AppData\Roaming\Corel\CorelDRAW Graphics Suite 2022\Config\corelprn.ini
+c:\Users\ecaca\AppData\Roaming\Corel\CorelDRAW Graphics Suite 2022\Config\corelrip.ini
+c:\Users\ecaca\AppData\Roaming\Corel\CorelDRAW Graphics Suite 2022\Draw\CorelVSTA
+c:\Users\ecaca\AppData\Roaming\Corel\CorelDRAW Graphics Suite 2022\PHOTO-PAINT\CorelVSTA
+c:\Users\ecaca\AppData\Roaming\Microsoft\Windows\Recent\20_busca_corel_DESKTOP-RQB9RGM.txt.lnk
+c:\Users\ecaca\AppData\Roaming\Microsoft\Windows\Recent\busca_corel_DESKTOP-RQB9RGM.txt.lnk
+c:\Users\ecaca\AppData\Roaming\Mozilla\Firefox\Profiles\zqqw8uun.default-release-1636031877385\storage\default\https+++www.coreldraw.com
+c:\Users\ecaca\Documents\Corel
+c:\Users\ecaca\Documents\Corel Cloud
+c:\Users\ecaca\Documents\Corel\Corel Content
+c:\Users\ecaca\Downloads\CorelDRAWGraphicsSuiteInstaller_pt.zip
+c:\Users\Public\Desktop\Corel CAPTURE.lnk
+c:\Users\Public\Desktop\Corel Font Manager.lnk
+c:\Users\Public\Desktop\Corel PHOTO-PAINT.lnk
+c:\Users\Public\Desktop\CorelDRAW.lnk
+c:\Users\Todos os Usu rios\Corel
+c:\Users\Todos os Usu rios\Corel\CorelDRAW Graphics Suite 2022
+c:\Users\Todos os Usu rios\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite
+c:\Users\Todos os Usu rios\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel CAPTURE.lnk
+c:\Users\Todos os Usu rios\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel Font Manager.lnk
+c:\Users\Todos os Usu rios\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\Corel PHOTO-PAINT.lnk
+c:\Users\Todos os Usu rios\Microsoft\Windows\Start Menu\Programs\CorelDRAW Graphics Suite\CorelDRAW.lnk
+c:\Users\Todos os Usu rios\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_2af10d88-fa0f-4ed0-aca0-54e590e34c94
+c:\Users\Todos os Usu rios\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_7c11c5c5-75ff-4289-9aa6-42a6fc7e9ea4
+c:\Users\Todos os Usu rios\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelDRW.exe_3445b791f8aef068988ec47922de18312d867e30_47abf1aa_d3a128d2-9555-498c-86ef-405a5989f108
+c:\Users\Todos os Usu rios\Microsoft\Windows\WER\ReportArchive\AppCrash_CorelPP.exe_a765c9bfd56ead9e2a7292c7a9e6be5fbcca7d31_d7299e39_9ad127a1-9334-44b3-a43e-4c88cd686a8c
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\corel.interop.photopaint.dll
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\corel.interop.photopaint.dll1
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\corel.interop.photopaintcore
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\corel.interop.photopaintcore1
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\CorelPP.exe
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.0.corel.interop.ph
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.0.corel.interop.ph1
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.0.corel.interop.ph2
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.0.corel.interop.ph3
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.0.corel.interop.ph4
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.0.corel.interop.ph5
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.0.corel.interop.ph6
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.0.corel.interop.ph7
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.1.corel.interop.ph
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.1.corel.interop.ph1
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.1.corel.interop.ph2
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.1.corel.interop.ph3
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.1.corel.interop.ph4
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.1.corel.interop.ph5
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.1.corel.interop.ph6
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.1.corel.interop.ph7
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.2.corel.interop.ph
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.2.corel.interop.ph1
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.2.corel.interop.ph2
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.2.corel.interop.ph3
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.2.corel.interop.ph4
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.2.corel.interop.ph5
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.2.corel.interop.ph6
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.2.corel.interop.ph7
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.3.corel.interop.ph
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.3.corel.interop.ph1
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.3.corel.interop.ph2
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.3.corel.interop.ph3
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.3.corel.interop.ph4
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.3.corel.interop.ph5
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.3.corel.interop.ph6
+c:\Windows\Installer\$PatchCache$\Managed\3960DD58EFEC85C44ADB56CF0BCB22B5\24.3.0\policy.24.3.corel.interop.ph7
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\corel.interop.coreldraw.dll
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\corel.interop.coreldraw.dll1
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\CorelDRW.exe
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.0.corel.interop.co
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.0.corel.interop.co1
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.0.corel.interop.co2
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.0.corel.interop.co3
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.1.corel.interop.co
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.1.corel.interop.co1
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.1.corel.interop.co2
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.1.corel.interop.co3
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.2.corel.interop.co
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.2.corel.interop.co1
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.2.corel.interop.co2
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.2.corel.interop.co3
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.3.corel.interop.co
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.3.corel.interop.co1
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.3.corel.interop.co2
+c:\Windows\Installer\$PatchCache$\Managed\6A152D1255B560D41AC6079A1F3ED1DA\24.3.0\policy.24.3.corel.interop.co3
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\corel.interop.vgcore.dll
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\corel.interop.vgcore.dll1
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.0.corel.interop.vg
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.0.corel.interop.vg1
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.0.corel.interop.vg2
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.0.corel.interop.vg3
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.1.corel.interop.vg
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.1.corel.interop.vg1
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.1.corel.interop.vg2
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.1.corel.interop.vg3
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.2.corel.interop.vg
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.2.corel.interop.vg1
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.2.corel.interop.vg2
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.2.corel.interop.vg3
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.3.corel.interop.vg
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.3.corel.interop.vg1
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.3.corel.interop.vg2
+c:\Windows\Installer\$PatchCache$\Managed\F3E25469A3D639B43BB643011FC03AD4\24.3.0\policy.24.3.corel.interop.vg3
+c:\Windows\Installer\$PatchCache$\Managed\F4AC101D6D57EEA48A9C600D1C4FC262\24.3.0\corelps2pdf.exe
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\corel.interop.fontmanager.dl
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\corel.interop.fontmanager.dl1
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.0.corel.interop.fo
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.0.corel.interop.fo1
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.0.corel.interop.fo2
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.0.corel.interop.fo3
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.1.corel.interop.fo
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.1.corel.interop.fo1
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.1.corel.interop.fo2
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.1.corel.interop.fo3
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.2.corel.interop.fo
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.2.corel.interop.fo1
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.2.corel.interop.fo2
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.2.corel.interop.fo3
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.3.corel.interop.fo
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.3.corel.interop.fo1
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.3.corel.interop.fo2
+c:\Windows\Installer\$PatchCache$\Managed\FF430282AC9162A41A92BDA3C3FF0AC2\24.3.0\policy.24.3.corel.interop.fo3
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.CorelDRAW
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.FontManager
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.PHOTOPAINT
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.PhotoPaintCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.VGCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.CorelDRAW
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.FontManager
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PHOTOPAINT
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PhotoPaintCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.VGCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.CorelDRAW
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.FontManager
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PHOTOPAINT
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PhotoPaintCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.VGCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.CorelDRAW
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.FontManager
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PHOTOPAINT
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PhotoPaintCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.VGCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.CorelDRAW
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.FontManager
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PHOTOPAINT
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PhotoPaintCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.VGCore
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.CorelDRAW.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.CorelDRAW.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.FontManager.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.FontManager.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.PHOTOPAINT.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.PHOTOPAINT.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.PhotoPaintCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.PhotoPaintCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.VGCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.0.Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.VGCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.0.Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.0.Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.CorelDRAW.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.CorelDRAW.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.FontManager.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.FontManager.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.PHOTOPAINT.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.PHOTOPAINT.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.PhotoPaintCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.PhotoPaintCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.VGCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.1.Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.VGCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.1.Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.1.Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.CorelDRAW.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.CorelDRAW.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.FontManager.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.FontManager.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.PHOTOPAINT.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.PHOTOPAINT.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.PhotoPaintCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.PhotoPaintCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.VGCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.2.Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.VGCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.2.Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.2.Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.CorelDRAW.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.CorelDRAW\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.CorelDRAW.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.CorelDRAW\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.CorelDRAW.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.FontManager.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.FontManager\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.FontManager.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.FontManager\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.FontManager.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.PHOTOPAINT.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PHOTOPAINT\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.PHOTOPAINT.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PHOTOPAINT\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.PHOTOPAINT.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.PhotoPaintCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PhotoPaintCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.PhotoPaintCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.PhotoPaintCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.PhotoPaintCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.VGCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.VGCore\v4.0_24.3.0.571__e4835428e22ad6f9\policy.24.3.Corel.Interop.VGCore.dll
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.VGCore.config
+c:\Windows\Microsoft.NET\assembly\GAC_MSIL\policy.24.3.Corel.Interop.VGCore\v4.0_24.3.1.576__e4835428e22ad6f9\policy.24.3.Corel.Interop.VGCore.dll
+c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2846.1.6\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.2788_none_774a11a602f83ae4\f\windowscorelocalaccountcreator.js
+c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2846.1.6\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.2788_none_774a11a602f83ae4\r\windowscorelocalaccountcreator.js
+c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.3155_none_7788368e02c9f77d\f\windowscorelocalaccountcreator.js
+c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.3155_none_7788368e02c9f77d\r\windowscorelocalaccountcreator.js
+c:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\core\js\appLaunchers\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.2788_none_774a11a602f83ae4\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.3155_none_7788368e02c9f77d\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\Manifests\amd64_netfx4-netfx_detectionkeys_corelp_b03f5f7f11d50a3a_4.0.15805.0_none_f82f7c96ba73ed38.manifest
+c:\Windows\WinSxS\Manifests\amd64_netfx4-netfx_detectionkeys_corelp_b03f5f7f11d50a3a_4.0.15840.3_none_f82a8046ba78673e.manifest
+c:\Windows\WinSxS\Manifests\x86_netfx4-netfx_detectionkeys_corelp_b03f5f7f11d50a3a_4.0.15805.0_none_3fdcb36dcef0163e.manifest
+c:\Windows\WinSxS\Manifests\x86_netfx4-netfx_detectionkeys_corelp_b03f5f7f11d50a3a_4.0.15840.3_none_3fd7b71dcef49044.manifest
