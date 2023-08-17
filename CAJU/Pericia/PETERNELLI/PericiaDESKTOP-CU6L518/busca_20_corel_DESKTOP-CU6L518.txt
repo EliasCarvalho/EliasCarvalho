@@ -1,0 +1,13 @@
+c:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\plug_ins\SaveAsNonPDF\Solid\ConverterCoreLight.dll
+c:\Users\regin\OneDrive\Documents\Corel
+c:\Users\regin\OneDrive\Documents\Corel\Corel Content
+c:\Users\regin\OneDrive\Documents\Corel\CorelDRAW 2018 Exemplos
+c:\Windows\CbsTemp\31051489_1615313202\Windows10.0-KB5029244-x64.cab\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.3271_none_777fc25602cfdf98\f\windowscorelocalaccountcreator.js
+c:\Windows\CbsTemp\31051489_1615313202\Windows10.0-KB5029244-x64.cab\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.3271_none_777fc25602cfdf98\r\windowscorelocalaccountcreator.js
+c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.3155_none_7788368e02c9f77d\f\windowscorelocalaccountcreator.js
+c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3208.1.10\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.3155_none_7788368e02c9f77d\r\windowscorelocalaccountcreator.js
+c:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_9cf4db1a1fd1b22d\OneApp.IGCC.CoreLibrary.dll
+c:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\core\js\appLaunchers\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.3155_none_7788368e02c9f77d\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\Manifests\amd64_netfx4-netfx_detectionkeys_corelp_b03f5f7f11d50a3a_4.0.15805.0_none_f82f7c96ba73ed38.manifest
+c:\Windows\WinSxS\Manifests\x86_netfx4-netfx_detectionkeys_corelp_b03f5f7f11d50a3a_4.0.15805.0_none_3fdcb36dcef0163e.manifest
