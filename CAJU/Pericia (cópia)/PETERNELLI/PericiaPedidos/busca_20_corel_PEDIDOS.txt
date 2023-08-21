@@ -1,0 +1,12 @@
+c:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.5131.0_x64__8j3eq9eme6ctt\GCP.ML.BackgroundSysTray\OneApp.IGCC.CoreLibrary.dll
+c:\Program Files\WindowsApps\Microsoft.GamingApp_2307.1001.5.0_x64__8wekyb3d8bbwe\Bundle\assets\src\windows\app\assets\GamerscoreLeaderboardEntryPoint.png
+c:\Program Files\WindowsApps\Microsoft.YourPhone_1.23062.153.0_x64__8wekyb3d8bbwe\System.Private.CoreLib.dll
+c:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_003a6d3c4c50c291\OneApp.IGCC.CoreLibrary.dll
+c:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_54b736e5be5b50b2\OneApp.IGCC.CoreLibrary.dll
+c:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_c2ac023763d5d3ad\OneApp.IGCC.CoreLibrary.dll
+c:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\core\js\appLaunchers\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22621.1778_none_e2841121c9499d4e\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22621.1928_none_e2696fd7c95e567d\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22621.2070_none_e2d078bbc91009d6\WindowsCoreLocalAccountCreator.js
+c:\Windows\WinSxS\Manifests\amd64_netfx4-netfx_detectionkeys_corelp_b03f5f7f11d50a3a_4.0.15912.0_none_fa12f32eb79cee1d.manifest
+c:\Windows\WinSxS\Manifests\x86_netfx4-netfx_detectionkeys_corelp_b03f5f7f11d50a3a_4.0.15912.0_none_41c02a05cc191723.manifest
